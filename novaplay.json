@@ -83,7 +83,7 @@
       {
         "name": "VISIÓN TV VILLARRICA",
         "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
-        "icono": "https://i.ibb.co/2TSxtJ7/canal-8-villa.png"
+        "icono": "https://i.ibb.co/3m0tTkt6/unnamed.png"
       },
       {
         "name": "GEN TV",
@@ -128,7 +128,7 @@
       {
         "name": "PARAGUAY TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/118.m3u8",
-        "icono": "https://i.ibb.co/pB0cvBG1/py-Tv-web-2.png"
+        "icono": "https://i.ibb.co/nNm6wYt9/image.png"
       },
       {
         "name": "ÑANDUTI TV",
@@ -183,12 +183,12 @@
       {
         "name": "ASPEN FM - TV ",
         "url": "https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w705527381.m3u8?admin=nacion",
-        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspentv.png"
+        "icono": "https://i.ibb.co/FkFnSx22/aspentv.png"
       },
         {
         "name": "VENUS MEDIA ",
         "url": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
-        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/venusmedia.png"
+        "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
       {
         "name": "Mi Tv",
@@ -200,7 +200,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/zbWxZ95/fs1.png",
-    "title": "ARGENTINA",
+    "title": "ARGENTINA -NO FUNCIONA TODAVIA -  EN PRUEBAS",
     "items": [
       {
         "name": "America TV",
