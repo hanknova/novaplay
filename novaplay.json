@@ -181,6 +181,11 @@
         "icono": "https://i.ibb.co/1fL1SsSm/image.png"
       },
       {
+        "name": "Aspen 102.7FM TV",
+        "url": "https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w705527381.m3u8?admin=nacion",
+        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/aspentv.png?4"
+      },
+      {
         "name": "Mi Tv",
         "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
         "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion"
