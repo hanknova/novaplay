@@ -622,7 +622,7 @@
     "title": "⚽DEPORTES⚽ - PARCIALMENTE",
     "items": [
       {
-        "name": "TYC SPORTS - NO FUNCIONA ",
+        "name": "TYC SPORTS",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png",
         "type": "CLEARKEY",
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
@@ -640,10 +640,10 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TNT SPORT HD",
-        "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
+        "name": "beIN Sports Ñ",
+        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png",
         "type": "CLEARKEY",
-        "url": "http://216.106.184.35/auth/DPqmKdxUr9gneT6lzaN3RlpJ_R79vlrD_k84yH5sX0Nw4qB5YBapSQLstgvMgKh6HkzT0_OFDmA4mZY7JNtYzarpw2uFzm6ZkNdDax-AM80VvhHRRUMm32Pbe9dMjlDE3wJVLg4zafD3-LRiykGO2GPR73OxoIjTbseUEi8gyqpbEuBePuy9sN_1wKceTYXU_RD8PaXYzruF2mbq9PpnjJcXiouumsI5Ehf2sfLXV8Kvb7zcqpMQM1y3bfudp-HYVcgyKGFyb7gBxFm2eOI0oTwLgO8vazCK5XNMMzUuuh5tye3e81QztjnCJbMJp5ngjA4rqIlsBufMbFBT4bhUrlL6IvYXDIRvsT7tYLY2Wv_lylelN8pnCnNGB0CNgs3SJuQw9JSWQ0oc2WY3fqWolclEdYdlRDMqn2hiODOw4qfR7PC2JaDU3k_A81jttO77pewVMC9WBmI6r2RrrB40L1aO-Xg6l-PmPdC-hOmDz4cNhLPNtefshIdUrhjhpFDpY81t39FMI2UESRJaL5X5ANgMnEHFh6qrOKfy8fUl2yw48M4qPpdIGga180Rq5XWP2Jl2xub4xKzhfMO_Ss8xYsp9JeHfkqsrmN9U6E-VN6TWSUezPRstPK11EOx52PWSlUzBZd6C3vMlwRDQ6r4zgM1wL9rJKHQHm8vJE_vvNGSz8aWEBayFC16nuNjSARvfvYrCjL3zLZzyKgOj_57crA",
+        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/2h8t724qefpmbxy7pc3z3/clearkey_tntsports.json?rlkey=b1atg34l31mcea91btzz9a9ia&st=icijhveh&dl=0",
         "headers": [
           {
@@ -658,9 +658,9 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TYC SPORT PLAY 1 - NO FUNCIONA",
-        "url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+        "name": "CLARO SPORTS",
+        "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
       {
         "name": "TYC SPORT (PLAY 2)  - NO FUNCIONA",
