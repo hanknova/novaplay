@@ -214,7 +214,7 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TELEFE - NO FUNCIONA",
+        "name": "TELEFE",
         "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
         "url": "http://23.152.40.51:25461/fmromero21/2fede79dc3/163711?token=TEcLVkZeFgkQUwQNVwAGWFcEC1UHB1YCUFUEBwEDBlYFUVJTUFcFCgoQSRYVFUNcVF5tCAAXDgQFBARVVUpBRkQAEWhcUhYJEARVDVFRExUXR1sMARcOBAQABFZRUFsKDklBR1xSFgkQA1EDVFcGDxcfEAQcQVFHXVZfOwADFVpUAEENW0NYXx4QClo5BVRUVF1WQ14XBBcfFVoXFERZXUIJDxsXVF1HQFMRUURbEwsNBgdDSBdXWkZZRxYdRFkRYjZBGxdTTEdXXBZdCQ8TAxdHQUNIF11GbEVWFxAUBlJaABEVDxQEER4QCFUePlJWW11XAhBcW1tAFQlGUERPEVoKDV5BWUZsQlsBFlxDAg0ECwRZVBdJ",
         "type": "CLEARKEY",
@@ -614,10 +614,10 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/60QvHcnr/R-2.png",
-    "title": "⚽TyC SPORTS⚽ - TODAVIA NO DISPONIBLE",
+    "title": "⚽DEPORTES⚽ - PARCIALMENTE",
     "items": [
       {
-        "name": "TYC SPORTS",
+        "name": "TYC SPORTS"- NO FUNCIONA,
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png",
         "type": "CLEARKEY",
         "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
@@ -638,7 +638,7 @@
         "name": "TNT SPORT HD",
         "icono": "https://i.ibb.co/vCVx3Qyc/tnt-sports-chile-logo-png-seeklogo-400914.png",
         "type": "CLEARKEY",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+        "url": "http://216.106.184.35/auth/DPqmKdxUr9gneT6lzaN3RlpJ_R79vlrD_k84yH5sX0Nw4qB5YBapSQLstgvMgKh6HkzT0_OFDmA4mZY7JNtYzarpw2uFzm6ZkNdDax-AM80VvhHRRUMm32Pbe9dMjlDE3wJVLg4zafD3-LRiykGO2GPR73OxoIjTbseUEi8gyqpbEuBePuy9sN_1wKceTYXU_RD8PaXYzruF2mbq9PpnjJcXiouumsI5Ehf2sfLXV8Kvb7zcqpMQM1y3bfudp-HYVcgyKGFyb7gBxFm2eOI0oTwLgO8vazCK5XNMMzUuuh5tye3e81QztjnCJbMJp5ngjA4rqIlsBufMbFBT4bhUrlL6IvYXDIRvsT7tYLY2Wv_lylelN8pnCnNGB0CNgs3SJuQw9JSWQ0oc2WY3fqWolclEdYdlRDMqn2hiODOw4qfR7PC2JaDU3k_A81jttO77pewVMC9WBmI6r2RrrB40L1aO-Xg6l-PmPdC-hOmDz4cNhLPNtefshIdUrhjhpFDpY81t39FMI2UESRJaL5X5ANgMnEHFh6qrOKfy8fUl2yw48M4qPpdIGga180Rq5XWP2Jl2xub4xKzhfMO_Ss8xYsp9JeHfkqsrmN9U6E-VN6TWSUezPRstPK11EOx52PWSlUzBZd6C3vMlwRDQ6r4zgM1wL9rJKHQHm8vJE_vvNGSz8aWEBayFC16nuNjSARvfvYrCjL3zLZzyKgOj_57crA",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/2h8t724qefpmbxy7pc3z3/clearkey_tntsports.json?rlkey=b1atg34l31mcea91btzz9a9ia&st=icijhveh&dl=0",
         "headers": [
           {
@@ -653,32 +653,32 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "TYC SPORT PLAY 1",
+        "name": "TYC SPORT PLAY 1 - NO FUNCIONA",
         "url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
       },
       {
-        "name": "TYC SPORT (PLAY 2)",
+        "name": "TYC SPORT (PLAY 2)  - NO FUNCIONA",
         "url": "http://104.238.205.28:8989/278758_.m3u8",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
       },
       {
-        "name": "TYC SPORT (PLAY 3)",
+        "name": "TYC SPORT (PLAY 3)  - NO FUNCIONA",
         "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
       },
       {
-        "name": "TYC SPORT (PLAY 4)",
+        "name": "TYC SPORT (PLAY 4)  - NO FUNCIONA",
         "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
       },
       {
-        "name": "TYC SPORT (PLAY 6)",
+        "name": "TYC SPORT (PLAY 6)  - NO FUNCIONA",
         "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
       },
       {
-        "name": "TYC SPORT (PLAY 5)",
+        "name": "TYC SPORT (PLAY 5)  - NO FUNCIONA",
         "url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
         "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
       }
