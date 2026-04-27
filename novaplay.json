@@ -2,7 +2,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "EVENTOS PY",
+    "title": "EVENTOS",
     "items": [
       {
         "name": "T¡GO $PORT$ - LANC 1",
@@ -146,6 +146,11 @@
         "name": "VENUS MEDIA ",
         "url": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
+      },
+        {
+        "name": "FARRA PLAY ",
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "icono": "https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png"
       },
       {
         "name": "Mi Tv",
