@@ -687,11 +687,11 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-    "title": "⚽DSPORT⚽ - TODAVIA NO DISPONIBLE",
+    "title": "⚽DSPORT⚽ - PARCIALMENTE",
     "items": [
       {
         "name": "DIRECTV SPORTS",
-        "url": "http://tv.m3uts.xyz/stream/secure/ZGLjKmZkZy8kZmthAGxhZwV2YwtmKmR3AmH2BQHlAQusLJV2ZmAzAGp1MTEzMwqvLy8j/312.m3u8",
+        "url": "http://108.181.2.153:8080/live/lucas2045/luc345/428666.ts?token=ThUKWEAMEQgXUlwDBAkHAABSXlICWg8AD1MBVVIHBllUD1sAVlVVBQZGFERDTREDVwlnWVRBDAUFXABTVBxAFEZSEGZaABEIF1YIUQgOQUoUEFFdVUEMAABTAVdXCVJTDRtASVoAEQgXVghUCQ1BShQBQERVEVhQWztSABRZAQQXDQxMXwgfEFoKZwJVVAIIUkYCEgBBGhNeF0ZHWF4XDVkbQFtaEEFTQQEaXBILUlMGRhQSUwxDX0MWT0dYEjcyFxtAXEsQVlxGDVcIEgNBEkVGFBJZEGlDUhdCFwdRDwRHFVgbA0YfEFgFQDlTVg0IUwdMWV8NRRMNRgVHThIPDlteFlZBO0NbUUYCRAIIV1AUGQ",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
         "type": "hls",
         "user": "Magma Player/10",
