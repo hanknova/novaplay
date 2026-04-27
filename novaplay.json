@@ -365,22 +365,9 @@
     "title": "⚽ ESPN ⚽",
     "items": [
       {
-        "name": "ESPN 1",
-        "icono": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png",
+        "name": "ESPN1",
         "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xOTY=/13_.m3u8?token=bgdMZM2-3dY4O5XvtSL68g&expires=1777284985",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
+        "icono": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png"
       },
       {
         "name": "ESPN 2",
@@ -513,7 +500,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/zbWxZ95/fs1.png",
-    "title": "⚽ FOX SPORTS ⚽",
+    "title": "⚽ FOX SPORTS ⚽ - TODAVIA NO DISPONIBLE",
     "items": [
       {
         "name": "FOX SPORTS",
