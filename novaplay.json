@@ -739,18 +739,18 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
-    "title": "Internacionales - Variados",
+    "title": "Noticias Internacionales",
     "items": [
       {
         "name": "RT - RUSSIA TODAY - ESPAÑOL",
         "type": "hls",
         "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png"
       },
       {
         "name": "RTVE 24H",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-        "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/solidLogoPNG.png?worldtv2"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/24h_2026.svg/500px-24h_2026.svg.png"
       },
       {
         "name": "BOXING TV",
