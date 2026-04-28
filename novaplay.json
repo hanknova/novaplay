@@ -774,17 +774,17 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
-    "title": "COMBAT UFC WWE - TODAVIA NO DISPONIBLE",
+    "title": "Internacionales - Variados",
     "items": [
       {
-        "name": "UFC",
+        "name": "RT - RUSSIA TODAY - ESPAÑOL",
         "type": "hls",
-        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134",
-        "icono": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp"
+        "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
       },
       {
-        "name": "UFC 2",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
+        "name": "RTVE 24H",
+        "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
         "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/solidLogoPNG.png?worldtv2"
       },
       {
@@ -1119,8 +1119,8 @@
         ]
       },
       {
-        "name": "DISCOVERY CHANNEL1 - - NO FUNCIONA",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8",
+        "name": "DISCOVERY CHANNEL - (En Italiano)",
+        "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
         "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png"
       },
       {
