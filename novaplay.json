@@ -103,9 +103,9 @@
         "icono": "https://i.ibb.co/WW26ctDc/image.png"
       },
       {
-        "name": "UNIVERSO TV",
-        "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_int_alta/index.m3u8?admin=nacion",
-        "icono": "https://i.ibb.co/zVv33gzz/image.png"
+        "name": "A24 Paraguay",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
+        "icono": "https://i.ibb.co/HTqC4MRy/503146204-18280444087266497-2245206115792477187-n.jpg"
       },
       {
         "name": "E40",
@@ -135,7 +135,7 @@
       {
         "name": "RCC",
         "url": "https://zn1radios.desdeparaguay.net/rcctv/rcctv/chunklist_w1861373147.m3u8?k=b384c9b3546db887639927ce4fc2268bc5136ba91d3df11ba8d14c49940a2bbb&exp=1777370953",
-        "icono": "https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/rcctv.png"
+        "icono": "https://i.ibb.co/1tBQJT8p/rcctv.png"
       },
       {
         "name": "ASPEN FM - TV ",
