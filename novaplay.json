@@ -543,41 +543,41 @@
       },
       {
         "visible": "true",
-        "name": "Rally Tv - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8",
-        "icono": "https://i.ibb.co/r1gcP2y/image.png",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "F1 Tv - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8",
-        "icono": "https://i.ibb.co/M3Hd6vN/image.png",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "Nascar - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist.m3u8",
-        "icono": "https://i.ibb.co/200mKsrT/image.png",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "Speed Sport - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8",
-        "icono": "https://i.ibb.co/RpXS2q5Y/image.png",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "type": "hls"
       },
       {
-        "name": "Garage Tv - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
-        "icono": "https://i.ibb.co/xKgNJsSr/image.png"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "Motor Vision - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://mvg-mv-pt.otteravision.com/mvg/mv_pt/mv_pt.m3u8",
-        "icono": "https://i.ibb.co/0pT7WFQ2/image.png"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       }
     ]
   },
@@ -628,29 +628,29 @@
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
       {
-        "name": "TYC SPORT (PLAY 2)  - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "http://104.238.205.28:8989/278758_.m3u8",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "TYC SPORT (PLAY 3)  - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "TYC SPORT (PLAY 4)  - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://dj8bzwveg7go9.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "TYC SPORT (PLAY 6)  - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "TYC SPORT (PLAY 5)  - NO FUNCIONA",
+        "name": "Señal no Asignada",
         "url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
-        "icono": "https://i.ibb.co/njgDHwJ/unnamed.webp"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       }
     ]
   },
@@ -753,104 +753,103 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/24h_2026.svg/500px-24h_2026.svg.png"
       },
       {
-        "name": "BOXING TV",
-        "url": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951154/hls/BOXINGTV_SCTE.m3u8?ads.xumo_channelId=99951154",
-        "type": "hls",
-        "icono": "https://image.xumo.com/v1/channels/channel/99951154/500x400.webp?type=color_onBlack"
+        "name": "DW Español",
+        "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png"
       },
       {
-        "name": "FIGHT NETWORK",
+        "name": "Señal no Asignada",
         "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951132/hls/master.m3u8?ads.xumo_channelId=99951132",
         "type": "hls",
-        "icono": "https://image.xumo.com/v1/channels/channel/99951132/500x400.webp?type=color_onBlack"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "FITE 24/7",
+        "name": "Señal no Asignada",
         "url": "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8",
         "type": "hls",
-        "icono": "https://i.ibb.co/pjHcQHK/FITE247.png"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "DAZN COMBAT",
+        "name": "Señal no Asignada",
         "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
-        "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/solidLogoPNG.png?worldtv2"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "UFA",
+        "name": "Señal no Asignada",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8",
         "type": "hls",
-        "icono": "https://i.ibb.co/CmdBHzB/ufa.png"
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       }
     ]
   },
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "🎬UNIVERSAL+ | HBO - TODAVIA NO DISPONIBLE",
+    "title": "En Prueba",
     "items": [
       {
-        "name": "Universal Cinema",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8"
       },
       {
-        "name": "Universal Comedy",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8"
       },
       {
-        "name": "Universal Crime",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1284/CH_LOGO/160/160/0/0/34307524076949.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8"
       },
       {
-        "name": "Universal Premiere",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/160/160/0/0/62685863076950.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8"
       },
       {
-        "name": "Universal Plus",
+        "name": "Señal no Asignada",
         "icono": "https://i.ibb.co/HfKmnJBb/image.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8"
       },
       {
-        "name": "HBO",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/100/CH_LOGO/160/160/0/0/228799490721.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8"
       },
       {
-        "name": "HBO 2",
-        "icono": "https://i.ibb.co/Hp38dM6D/image.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8"
       },
       {
-        "name": "HBO Family",
+        "name": "Señal no Asignada",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8"
+        "url": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
-        "name": "HBO Mundi",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8"
       },
       {
-        "name": "HBO Plus",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8"
       },
       {
-        "name": "HBO Max",
-        "icono": "https://i.ibb.co/MxJPHCYg/image.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8"
       },
       {
-        "name": "HBO Signature",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/49/CH_LOGO/160/160/0/0/3657655307500.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8"
       },
       {
-        "name": "HBO Xtreme",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/108/CH_LOGO/160/160/0/0/6041444607334.png",
+        "name": "Señal no Asignada",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8"
       }
     ]
