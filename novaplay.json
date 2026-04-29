@@ -861,6 +861,18 @@
   },
   {
     "type": "category",
+    "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
+    "title": "Religioso",
+    "items": [
+      {
+        "name": "EWTN TV",
+        "icono": "https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-1/327549061_658844452656000_8958092678333138181_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=08baa4&_nc_ohc=6fIe6_n84hIQ7kNvwHCRyJs&_nc_oc=AdqUAmiT36-UYt6xvj570BiNWFPbQH6Alnpic8_D0Rii0xSpYDwxukgU7MpZmNY1XFI&_nc_zt=24&_nc_ht=scontent.fasu9-1.fna&edm=AKsJ254EAAAA&_nc_gid=3aa2o0TqDTsNzVblX8maUw&oh=00_Af3EZhJYzce1EMNOKfdkrKdFgYzDcAyIexilb9lnSein4g&oe=69F7F7A5",
+        "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "type": "category",
     "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
     "title": "NIÑOS 👦",
     "items": [
