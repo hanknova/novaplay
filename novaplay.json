@@ -758,16 +758,16 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951132/hls/master.m3u8?ads.xumo_channelId=99951132",
+        "name": "FRANCE24 Español",
+        "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
         "type": "hls",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8",
+        "name": "TeleSur",
+        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8",
         "type": "hls",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TeleSUR_logo_%28textless%29.svg/120px-TeleSUR_logo_%28textless%29.svg.png"
       },
       {
         "name": "Señal no Asignada",
