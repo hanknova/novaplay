@@ -770,9 +770,14 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TeleSUR_logo_%28textless%29.svg/120px-TeleSUR_logo_%28textless%29.svg.png"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "name": "CNN Headlines International",
+        "url": "https://jmp2.uk/stvp-ESBD190000137",
+        "icono": "https://i.ibb.co/ywkjLWY/ESBD190000137-20260331-T032325-SQUARE.png"
+      },
+       {
+        "name": "Rally TV Fast+ - English",
+        "url": "https://jmp2.uk/stvp-ES51000017V",
+        "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png"
       },
       {
         "name": "Señal no Asignada",
