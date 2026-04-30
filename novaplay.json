@@ -5,41 +5,35 @@
     "title": "EVENTOS",
     "items": [
       {
-        "name": "T¡GO $PORT$ - EVENTOS1",
+        "name": "TIGO SPORTS - EVENTOS1",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "T¡GO $PORT$ - EVENTOS2",
+        "name": "TIGO SPORTS - EVENTOS2",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "T¡GO $PORT$ - EVENTOS3",
+        "name": "TIGO SPORTS - EVENTOS3",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://magisvideo.com/KEYFLOW/TIGO3.json",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "T¡GO $PORT$ - EVENTOS4",
+        "name": "TIGO SPORTS - EVENTOS4",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
-      
       {
-        "name": "EVENTOS",        
+        "name": "EVENTOS",
         "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xOTM=/14_.m3u8?token=ZHodNMFyApai7RhsX37QZA&expires=1777547742",
         "icono": "https://i.ibb.co/gFgtBNQr/file-00000000176471fb9548814e8be559be.png"
-      },
-      {
-        "name": "ESPN - EVENTOS",
-        "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xOTM=/14_.m3u8?token=ZHodNMFyApai7RhsX37QZA&expires=1777547742",
-        "icono": "https://i.ibb.co/B2kWQvSP/0552e734-d572-4ae3-9240-06c0c6a89f80.png"
       }
     ]
   },
@@ -114,7 +108,7 @@
         "icono": "https://i.ibb.co/WW26ctDc/image.png"
       },
       {
-        "name": "A24 Paraguay",
+        "name": "A24 PARAGUAY",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
         "icono": "https://i.ibb.co/HTqC4MRy/503146204-18280444087266497-2245206115792477187-n.jpg"
       },
@@ -164,7 +158,7 @@
         "icono": "https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png"
       },
       {
-        "name": "Mi Tv",
+        "name": "MI TV",
         "icono": "https://i.postimg.cc/qvvgzQzD/1200px-LOGO-MITV-ALTA-DEFINICION-2020-PNG.png",
         "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion"
       }
@@ -176,7 +170,7 @@
     "title": " ARGENTINA",
     "items": [
       {
-        "name": "America TV INTERNACIONAL",
+        "name": "AMERICA TV INTERNACIONAL",
         "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8",
         "type": "CLEARKEY",
@@ -212,7 +206,7 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "Canal 9 Resistencia",
+        "name": "CANAL 9 RESISTENCIA",
         "icono": "https://i.ibb.co/k6PjPWfN/Canal-Nueve-Resistencia-29.png",
         "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
         "type": "CLEARKEY",
@@ -248,7 +242,7 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "El Trece",
+        "name": "EL TRECE",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",
         "url": "http://45.5.151.147:8000/play/a00f/index.m3u8",
         "type": "CLEARKEY",
@@ -378,13 +372,8 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
-    "title": "⚽ ESPN ⚽ - EN CONSTRUCCIÓN",
+    "title": "⚽ ESPN ⚽",
     "items": [
-      {
-        "name": "ESPN1 - NO FUNCIONA",
-        "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xOTY=/13_.m3u8?token=bgdMZM2-3dY4O5XvtSL68g&expires=1777284985",
-        "icono": "https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png"
-      },
       {
         "name": "ESPN 2",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png",
@@ -422,63 +411,9 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "ESPN 4 - NO FUNCIONA",
-        "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
-        "type": "CLEARKEY",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "ESPN 5 - NO FUNCIONA",
-        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
-        "type": "CLEARKEY",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
         "name": "ESPN 6",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png",
         "url": "http://181.78.82.6:46090/play/a00w/index.m3u8",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "type": "CLEARKEY",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "ESPN 7 - NO FUNCIONA",
-        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
         "type": "CLEARKEY",
         "headers": [
@@ -560,21 +495,21 @@
       },
       {
         "visible": "true",
-        "name": "Series Criminales",
+        "name": "SERIES CRIMINALES",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "icono": "https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "PlutoTV K-Drama",
+        "name": "PLUTOTV K-DRAMA",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "icono": "https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png",
         "type": "hls"
       },
       {
         "visible": "true",
-        "name": "Coreano by CJ ENM",
+        "name": "COREANO By CJ ENM",
         "url": "https://jmp2.uk/stvp-ES1700003C6",
         "icono": "https://i.ibb.co/0pgV1VvB/ES1700003-C6-20250826-T004843-SQUARE.png",
         "type": "hls"
@@ -587,9 +522,9 @@
         "type": "hls"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "name": "RETROX TV",
+        "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8",
+        "icono": "https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-6/577401498_122205072902047216_1410081506136358805_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=UbkOY6TDp5AQ7kNvwHaZYNJ&_nc_oc=AdrSps7HegSJfKMv-AgLQjwHT_np9gfgnCo4WMQoSOG7ROhr4hMrUsm1AH7bkpTCmjA&_nc_zt=23&_nc_ht=scontent.fasu9-1.fna&_nc_gid=w6TwasWuCKl01uKD4pJquQ&_nc_ss=7b2a8&oh=00_Af2Z0ul4b2vJ1lti6kC_3fCYtysuLJBtTjyV6df5x2aupw&oe=69F95252"
       },
       {
         "name": "Señal no Asignada",
@@ -622,7 +557,7 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "beIN Sports Ñ",
+        "name": "BEIN SPORTS Ñ",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png",
         "type": "CLEARKEY",
         "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
@@ -645,7 +580,7 @@
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
       {
-        "name": "beIN Sports USA",
+        "name": "BEIN SPORTS USA",
         "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/250px-2016_beIN_Sports_logo.svg.png"
       },
@@ -700,56 +635,6 @@
             "value": "ab633f575ddff7bb"
           }
         ]
-      },
-      {
-        "name": "DIRECTV SPORTS 2 - NO FUNCIONA",
-        "url": "http://tv.m3uts.xyz/stream/secure/AmHjKmZkA18kZmthAGxhZwV2YwtmKmR3AmH2BQH0AmIsLJV2ZmAzAGp1MTEzMwqvLy8j/317.m3u8",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
-        "headers": [
-          {
-            "name": "X-App",
-            "value": "di"
-          },
-          {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
-          }
-        ]
-      },
-      {
-        "name": "DIRECTV SPORTS PLUS - NO FUNCIONA",
-        "url": "http://tv.m3uts.xyz/stream/secure/ZGN3KmZkAS8kZmthAGxhZwV2YwtmKmR3AmH2BQH0ZGSsLJV2ZmAzAGp1MTEzMwqvLy8j/314.m3u8",
-        "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
-        "type": "hls",
-        "user": "Magma Player/10",
-        "headers": [
-          {
-            "name": "X-App",
-            "value": "di"
-          },
-          {
-            "name": "X-Hash",
-            "value": "bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw"
-          },
-          {
-            "name": "X-Version",
-            "value": "10/1.0.9"
-          },
-          {
-            "name": "X-Did",
-            "value": "ab633f575ddff7bb"
-          }
-        ]
       }
     ]
   },
@@ -781,18 +666,18 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png"
       },
       {
-        "name": "TeleSur",
+        "name": "TELESUR",
         "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8",
         "type": "hls",
         "icono": "https://i.ibb.co/QvFQpyGR/Tele-SUR-logo-textless-svg.png"
       },
       {
-        "name": "CNN Headlines International",
+        "name": "CNN HEADLINES INTERNATIONAL",
         "url": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD190000137",
         "icono": "https://i.ibb.co/ywkjLWY/ESBD190000137-20260331-T032325-SQUARE.png"
       },
        {
-        "name": "Rally TV Fast+",
+        "name": "RALLY TV FAST+",
         "url": "https://dupr7fgg2kr7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z9crmizz78jta/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES51000017V",
         "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
          "texto":"English"
@@ -885,7 +770,7 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "Religioso",
+    "title": "RELIGIOSO",
     "items": [
       {
         "name": "EWTN TV",
@@ -954,7 +839,7 @@
         ]
       },
       {
-        "name": "Nickelodeon Toons",
+        "name": "NICKELODEON TOONS",
         "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/my1x36oauej11j18bm6zd/clearkey_nikjr.json?rlkey=yoq9nmavdckcuj1tk0tu6ed1d&st=cnglrnfy&dl=0",
@@ -972,7 +857,7 @@
         ]
       },
       {
-        "name": "NICK JR Club",
+        "name": "NICK JR CLUB",
         "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/0xc5qcf2i323w4bk7tid4/clearkey_tooncast.json?rlkey=2kbkdopm4yc14j9p2ltj7hn3w&st=0csvdeig&dl=0",
@@ -990,7 +875,7 @@
         ]
       },
       {
-        "name": "Disney Channel",
+        "name": "DISNEY CHANNEL",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/29jxjbh4i8hty39ndi5fr/clearkey_disneyhd.json?rlkey=jnllgciun10tmhdxkv1i2glfi&st=kw1j2cwe&dl=0",
@@ -1008,7 +893,7 @@
         ]
       },
       {
-        "name": "Popeye",
+        "name": "POPEYE",
         "url": "https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/5oa9lnisiok9m04m03t7a/clearkey_kids.json?rlkey=tqis3cv4so98indhpc7eb8dvf&st=emvcbm0t&dl=0",
@@ -1026,7 +911,7 @@
         ]
       },
       {
-        "name": "Pokemon",
+        "name": "POKEMON",
         "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/hca3hwm6zg6bxfsup4q4l/clearkey_nicklodeon.json?rlkey=8tknn2ho8tcqlm27xncrozgbq&st=xzikfv5k&dl=0",
@@ -1044,7 +929,7 @@
         ]
       },
       {
-        "name": "Nickelodeon Clásicos",
+        "name": "NICKELODEON CLÁSICOS",
         "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/zj8567s3qmpkejhto07hf/clearkey_cartoonito.json?rlkey=ciiw3r5ok5u2kzo27wgclmofu&st=ha38nc8j&dl=0",
@@ -1076,10 +961,10 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "🎬 Cultura y Cocina - En Construcción",
+    "title": "🎬 CULTURA Y COCINA",
     "items": [
       {
-        "name": "PlutoTV Historia",
+        "name": "PLUTOTV HISTORIA",
         "icono": "https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "type": "CLEARKEY",
@@ -1097,7 +982,7 @@
         ]
       },
       {
-        "name": "PlutoTV Cocina",
+        "name": "PLUTOTV COCINA",
         "icono": "https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "type": "CLEARKEY",
@@ -1115,7 +1000,7 @@
         ]
       },
       {
-        "name": "PlutoTV Animales",
+        "name": "PLUTOTV ANIMALES",
         "icono": "https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png",
         "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=ee589489-ebd8-4ab2-85a3-5f965162ccd1&clientModelNumber=1.0.0&country=ES&deviceDNT=false&deviceId=ee589489-ebd8-4ab2-85a3-5f965162ccd1&deviceLat=40.4200&deviceLon=-3.6800&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=16.2.0&marketingRegion=ES&serverSideAds=true&sessionID=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&sid=dcd9cb4b-43e4-11f1-a14d-8ea2f4382e3d&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJiNjk4N2I1LTUwNWUtNGZmOS04MTU3LWVjMjAxYWFiMTUzNiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkY2Q5Y2I0Yi00M2U0LTExZjEtYTE0ZC04ZWEyZjQzODJlM2QiLCJjbGllbnRJUCI6IjgyLjk4LjEzNC4xMCIsImNpdHkiOiJNYWRyaWQiLCJwb3N0YWxDb2RlIjoiMjgwMDEiLCJjb3VudHJ5IjoiRVMiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkVTIiwiZGV2aWNlTGF0Ijo0MC40MTk5OTgxNjg5NDUzMSwiZGV2aWNlTG9uIjotMy42ODAwMDAwNjY3NTcyMDIsInByZWZlcnJlZExhbmd1YWdlIjoiZW4iLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE2LjIuMCIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNy45LjAtYTljY2E2Yjg5YWVhNGRjMDk5OGI5MmE1MTk4OWQyYWRiOWE5MDI1ZCIsImNsaWVudElEIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9NYWRyaWQiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyRGFzaE5nIjp7ImZsYXR0ZW5CYXNlVXJsIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiZndWY0lEMkNvcHBhIjoiZWU1ODk0ODktZWJkOC00YWIyLTg1YTMtNWY5NjUxNjJjY2QxIiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJlZTU4OTQ4OS1lYmQ4LTRhYjItODVhMy01Zjk2NTE2MmNjZDEiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5LDEwMDE0LDEwMDE2LDEwMDE1LDEwMDIxLDEwMDIzLDEwMDEzLDEwMDIwIn19LCJzZXNzaW9uU3RhcnRUaW1lIjoxNzc3NDc4NTY2MjA2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6RVM6WldVMU9EazBPRGt0WldKa09DMDBZV0l5TFRnMVlUTXROV1k1TmpVeE5qSmpZMlF4IiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3NzU2NDk2NiwiaWF0IjoxNzc3NDc4NTY2LCJqdGkiOiI5MjE4ZjAxNC0wY2Y2LTQ4NTktOWZjZi0yNDZhYzMzNjQ2NDYifQ.TSAAXEFHbKkTAcUtD0ZZ49Nyb0oGRm178ZyW0BT_3ZU&masterJWTPassthrough=true",
         "type": "CLEARKEY",
@@ -1139,7 +1024,7 @@
         "texto": "ITALIANO"
       },
       {
-        "name": "TodoNovelas",
+        "name": "TODONOVELAS",
         "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
         "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
         "type": "CLEARKEY",
@@ -1156,292 +1041,64 @@
           }
         ]
       },
-      {
-        "name": "DISCOVERY ID - - NO FUNCIONA",
-        "icono": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=0956caf2e2bd41f49fdcead7cc94fe24&key=640c49578073a911938617eb4e652d6c",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "DISCOVERY SCIENCE - - NO FUNCIONA",
-        "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "DISCOVERY TURBO - - NO FUNCIONA",
-        "icono": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/9oqg6qqxgw6fhwcvn6fex/turbo.json?rlkey=taczv93ig5h2v25nts4cw5jvo&st=4nuuv4rk&dl=0",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "DISCOVERY THEATER1 - - NO FUNCIONA",
-        "icono": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/21.m3u8"
-      },
-      {
-        "name": "DISCOVERY TLC - NO FUNCIONA",
-        "icono": "https://i.ibb.co/rQVYsy9/R-1.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/TLC/SA_Live_dash_enc_C/TLC.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "DISCOVERY WORLD- NO FUNCIONA",
-        "icono": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "HGTV - NO FUNCIONA",
-        "icono": "https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "El Gourmet - NO FUNCIONA",
-        "icono": "https://elgourmet.com/wp-content/themes/elgourmet/assets/img/icons/logo.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "Discovery Home And Health - NO FUNCIONA",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-Sh9RZyo5DuGNuqa2BIsiVeE17uhnReO6w&s",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "E-Entertaiment - NO FUNCIONA",
-        "icono": "https://cdn.storage.foromedios.com/monthly_2021_05/large.E-Entertainment-Logo.png.45cb86109090ec7d7e3630cf4673b4b5.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5883553207f13e3dc8cecd1113d5ba68&key=45434d40636dfa0e5312b93218e02185",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "Food Network - NO FUNCIONA",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/2048px-Food_Network_logo.svg.png",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6ca0fbad21a0e908c0280dcc27e6ee0e&key=62670eedbafdf9360b4ecaed738e26cd",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "Hola! TV - NO FUNCIONA",
-        "icono": "https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5d759477f0ad1bdef2c6de09e7c275fd&key=82cc6eea185eecc934df95adfbbf9dbc",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "Lifetime - NO FUNCIONA",
-        "icono": "https://www.totalmedios.com/img/noticias/2020/07/5efc74e42ba7b__838x390.jpg",
-        "url": "https://edge-live18-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2NTgyNjg0Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0hCT0hEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImU4NTEwNzAxZmI0YzM3YTMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMjMxIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.62XRed4FaYfCNmmPzeORpIZRw_F_CTMaxHzFtF8C6ZVRKOiVRykJrG7Hkil9k1vMdztzqFWFq5okEwNvv6XZhw==/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=eae51b1d67ff47adac7b6bd3a4b1120a&key=b4d6bb47193f33ffc12379cdc447455d",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
-      },
-      {
-        "name": "National Geographic1 - NO FUNCIONA",
-        "icono": "https://www.giscorps.org/wp-content/uploads/2021/02/national-geographic-logo-1024x768.png?6bfec1&6bfec1",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8"
-      }
-    ]
-  },
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "Pack RakutenTV",
     "items": [
       {
-        "name": "Pelis Top",
+        "name": "PELIS TOP",
         "url": "https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=6acf0411-5466-4508-9679-cf0842ade1ff&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg"
       },
       {
-        "name": "Accion",
+        "name": "ACCION",
         "url": "https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6069&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=22ffa70f-ed60-4e7d-9409-7850d5b64917&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg"
       },
       {
-        "name": "Comedio",
+        "name": "COMEDIO",
         "url": "https://comedy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6180&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=6316b942-a72b-4ee1-9b4f-12fce008e965&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg"
       },
       {
-        "name": "Drama",
+        "name": "DRAMA",
         "url": "https://drama-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6092&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=db71c1e2-3618-4f16-915b-4bf9a1e710f0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg"
       },
       {
-        "name": "Peliculas Romanticas",
+        "name": "PELICULAS ROMANTICAS",
         "url": "https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6105&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=255a1094-f082-480c-a6d1-da3b7acf018d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg"
       },
       {
-        "name": "Cine Español",
+        "name": "CINE ESPAÑOL",
         "url": "https://spanish-cinema-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6196&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ee4e7276-211c-487f-84e3-da9da74c6c70&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg"
       },
       {
-        "name": "Sci-Fi",
+        "name": "SCI-FI",
         "url": "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6740&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=69917a4e-25ed-4b33-80a7-4afe77842e80&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg"
       },
       {
-        "name": "Thrillers",
+        "name": "THRILLERS",
         "url": "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6480&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ee180ced-2677-4b03-b0b7-71b15fbb47e2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg"
       },
       {
-        "name": "100% Navidad",
+        "name": "100% X-MAS",
         "url": "https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6205&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=ff2d4752-d22d-4ac2-bd84-4e604ac782a1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fe76f469-0869-4bd8-a5de-a471d9740965.png"
       },
       {
-        "name": "Cine Friki",
+        "name": "CINE FRIKI",
         "url": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=149.102.236.246&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=56537eae-a400-4133-a775-4ecbee36b88a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor\n\n",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg"
       },
       
       {
-        "name": "Crimen",
+        "name": "CRIMEN",
         "url": "https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6220&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=55da5dc8-3ac6-4d85-96cc-9633fcab1a6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6220&publishing_platform_id=5&tenant_identifier=rtv",
         "icono": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg"
       }
