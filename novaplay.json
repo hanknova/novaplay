@@ -30,6 +30,12 @@
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
+      
+      {
+        "name": "EVENTOS",        
+        "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xOTM=/14_.m3u8?token=9mwJjAopxQO4ZxF1SmkgOg&expires=1777535636",
+        "icono": "https://i.ibb.co/gFgtBNQr/file-00000000176471fb9548814e8be559be.png"
+      },
       {
         "name": "ESPN - EVENTOS",
         "url": "https://deportes.ksdjugfsddeports.com:9092/MTU0LjYxLjE3Mi4xOTM=/14_.m3u8?token=9mwJjAopxQO4ZxF1SmkgOg&expires=1777535636",
