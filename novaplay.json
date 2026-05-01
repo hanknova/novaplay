@@ -77,13 +77,13 @@
       },
       {
         "name": "PARAVISIÓN - NO FUNCIONA",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
+        "url": "45.170.130.224:8000/play/a032/index.m3u8",
         "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png"
       },
       {
         "name": "LA TELE HD",
         "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2018/06/La-Tele-Canal-11-en-vivo-Online.png"
+        "icono": "https://i.ibb.co/k2PHQH9k/La-Tele-Canal-11-en-vivo-Online.png"
       },
       {
         "name": "TRECE",
