@@ -32,8 +32,10 @@
       },
 
       {
-        "name": "NOVAPLAY EVENTOS",        
-        "url": "https://afy4c.envivoslatam.org/disney3/tracks-v1a1/mono.m3u8?token=ff87d80fad14f7f1b0ba72aeab5518c0a239311e-cb-1777628509-1777574509",
+        "name": "NOVAPLAY EVENTOS",
+        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",                
         "icono": "https://i.ibb.co/TD2tZc5z/image-1156.jpg"
       },
       {
@@ -96,7 +98,7 @@
       {
         "name": "PARAGUAY TV",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8",
-        "icono": "https://i.ibb.co/nNm6wYt9/image.png"
+        "icono": "https://i.ibb.co/bRFH7D6c/channels4-profile.jpg"
       },
       {
         "name": "ÑANDUTI TV",
@@ -104,18 +106,18 @@
         "icono": "https://i.ibb.co/r2DnTpxP/vnIkhRO.png"
       },
       {
-        "name": "TV CAMARA",
+        "name": "TV CAMARA - NO FUNCIONA",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
         "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
       },
       {
-        "name": "SUR TV",
+        "name": "SUR TV - NO FUNCIONA",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
         "icono": "https://i.ibb.co/WW26ctDc/image.png"
       },
       {
         "name": "A24 Paraguay",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(YuCWKP4O0-sA_GFVGMD_fn08ZiKyxVJNnpK02EVsgtjP73gzAk0Hd4eEnpkMAk8wkUCtVHvWk8nh_cxKmm63B9O-WVI47b-CPEt0baYLPFJPQxsyZibN9tot2hfYljhA)/cloud/3/x9s9zqk/d/live-720.m3u8",
         "icono": "https://i.ibb.co/HTqC4MRy/503146204-18280444087266497-2245206115792477187-n.jpg"
       },
       {
@@ -135,7 +137,7 @@
       },
       {
         "name": "UNICANAL",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+        "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(JVpz7jhGp5GXQru0rBqHy1pveIjJYyuHudLiJas4jkgOKwZTVDeGRZhg39rMybh_71ebzYbCoT74ekPJPuZP4FQct8aKKIiMaWLd_avDwRZ625OC5K22DMOwZueBXLlt)/cloud/3/x9ko9z8/s/live-720.m3u8",
         "icono": "https://i.ibb.co/0NwTTY1/image.png"
       },
       {
