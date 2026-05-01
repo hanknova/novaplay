@@ -587,9 +587,9 @@
         "type": "hls"
       },
       {
-        "name": "Señal no Asignada",
-        "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png"
+        "name": "RETRO X TV",
+        "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8",
+        "icono": "https://i.ibb.co/fVtgnvPn/FB-IMG-1777654654095.jpg"
       },
       {
         "name": "Señal no Asignada",
