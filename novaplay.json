@@ -50,10 +50,10 @@
       },
       {
         "name": "NOVASPORTS 3",
-        "url": "https://mze7u.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?token=a6abe023b96e0518434c239b5dfaee685694b5d8-9e-1777769095-1777715095",
+        "url": "https://ub2dr.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?token=0d0db98e211006b44fbc105d2b97ead7fdd61cc8-41-1777774839-1777720839",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
         "activo": true,
-        "texto": "LaLiga: Villarreal vs Levante - HORARIO: 09:00"
+        "texto": "LaLiga: Valencia vs Atlético Madrid - HORARIO: 11:15"
       }
     ]
   },
@@ -940,17 +940,17 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "SEÑALES EN PRUEBA",
+    "title": "VARIADOS",
     "items": [
       {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8"
+        "name": "Meganoticias",
+        "icono": "https://i.ibb.co/rJDsB0r/image.png",
+        "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
       },
       {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8"
+        "name": "T13 - Teletrece",
+        "icono": "https://i.ibb.co/1GnVTDfS/image.png",
+        "url": "https://jireh-4-hls-video-cl-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_900.m3u8"
       }
     ]
   },
