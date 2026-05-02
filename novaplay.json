@@ -546,7 +546,7 @@
       {
         "name": "ESPN PREMIUM - NO FUNCIONA",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTc5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-        "url": "https://wf6kt.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=154.61.172.196&token=41a45ded821d89283db845e770041406b0fc8b35-e4-1777296979-1777242979",
+        "url": "https://streamtpnew.com/premier.php?stream=espn",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
         "type": "CLEARKEY",
         "headers": [
@@ -718,7 +718,7 @@
     "title": "⚽DEPORTES⚽",
     "items": [
       {
-        "name": "TYC SPORTS",
+        "name": "TYC SPORTS FAN",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png",
         "type": "CLEARKEY",
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
