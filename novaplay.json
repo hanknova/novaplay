@@ -214,17 +214,15 @@
       {
         "name": "AMERICA TV INTERNACIONAL",
         "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
+        "url": "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false",
         "headers": [
           {
             "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
+            "value": "https://vmf.edge-apps.net/"
           },
           {
             "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
+            "value": "https://vmf.edge-apps.net/"
           }
         ],
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
