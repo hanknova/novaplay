@@ -844,12 +844,7 @@
         "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
          "texto":"Idioma: English"
       },
-      {
-        "name": "Bloomberg US",
-        "url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
-        "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
-         "texto":"Idioma: English"
-      },
+      
       {
         "name": "FOX NEWS USA",
         "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
@@ -864,15 +859,6 @@
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
     "title": "SEÑALES EN PRUEBA",
     "items": [
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "",
-        "yt_id": "SbzbnJbB9RE",
-        "player_config": {
-    "origin": "https://www.youtube.com",
-    "referer": "https://www.youtube.com"
-      },
       {
         "name": "Señal no Asignada",
         "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
