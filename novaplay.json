@@ -868,7 +868,10 @@
         "name": "Señal no Asignada",
         "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "",
-        "yt_id": "SbzbnJbB9RE"     
+        "yt_id": "SbzbnJbB9RE",
+        "player_config": {
+    "origin": "https://www.youtube.com",
+    "referer": "https://www.youtube.com"
       },
       {
         "name": "Señal no Asignada",
