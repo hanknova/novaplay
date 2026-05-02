@@ -124,10 +124,10 @@
         "name": "REGIONAL TV YAGUARON",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "icono": "https://i.ibb.co/gZgY8gY7/image.png",
-        "TEXTO": "INTERCABLE - INTERFLASH -  SEÑAL EN PRUEBA"
+        "texto": "INTERCABLE - INTERFLASH -  SEÑAL EN PRUEBA"
       },
       {
-        "name": "A24 Paraguay",
+        "name": "A24 PARAGUAY",
         "url": "https://live2.eu-north-1b.cf.dmcdn.net/sec2(YuCWKP4O0-sA_GFVGMD_fn08ZiKyxVJNnpK02EVsgtjP73gzAk0Hd4eEnpkMAk8wkUCtVHvWk8nh_cxKmm63B9O-WVI47b-CPEt0baYLPFJPQxsyZibN9tot2hfYljhA)/cloud/3/x9s9zqk/d/live-720.m3u8",
         "icono": "https://i.ibb.co/HTqC4MRy/503146204-18280444087266497-2245206115792477187-n.jpg"
       },
@@ -164,7 +164,8 @@
       {
         "name": "ASPEN FM - TV ",
         "url": "https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w705527381.m3u8?admin=nacion",
-        "icono": "https://i.ibb.co/FkFnSx22/aspentv.png"
+        "icono": "https://i.ibb.co/FkFnSx22/aspentv.png",
+        "texto": "RADIO - TV 102.7 FM"
       },
         {
         "name": "VENUS MEDIA ",
@@ -175,6 +176,18 @@
         "name": "FARRA PLAY (NOT 24/7) ",
         "url": "https://stream.farra.com.py/live/farra_low.m3u8",
         "icono": "https://farra.com.py/wp-content/uploads/2025/04/LOGO-DE-FARRA_2-1.png"
+      },
+       {
+        "name": "REPUBLICA FM TV",
+        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "icono": "https://i.ibb.co/VWY7TB29/image.png",
+        "texto": "RADIO - TV 101.3 FM"
+      },
+      {
+        "name": "CANAL 8",
+        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+        "icono": "https://i.ibb.co/NgFyMzd1/image.png",
+        "texto": "Conectados con la Realidad"
       },
       {
         "name": "MI TV",
@@ -823,7 +836,8 @@
         "name": "FOX NEWS USA",
         "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
         "type": "hls",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+        "texto":"Idioma: English"
       }
     ]
   },
@@ -854,7 +868,7 @@
       },
       {
         "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/HfKmnJBb/image.png",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8"
       },
       {
@@ -869,7 +883,7 @@
       },
       {
         "name": "Señal no Asignada",
-        "icono": "https://geo.edge.pontiscloud.com:9002/images/102/CH_LOGO/160/160/0/0/7354519807335.png",
+        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "https://i.ibb.co/prMmwhCT/1777414264435.png"
       },
       {
@@ -906,7 +920,7 @@
     "items": [
       {
         "name": "EWTN TV",
-        "icono": "https://scontent.fasu9-1.fna.fbcdn.net/v/t39.30808-1/327549061_658844452656000_8958092678333138181_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=1&ccb=1-7&_nc_sid=08baa4&_nc_ohc=6fIe6_n84hIQ7kNvwHCRyJs&_nc_oc=AdqUAmiT36-UYt6xvj570BiNWFPbQH6Alnpic8_D0Rii0xSpYDwxukgU7MpZmNY1XFI&_nc_zt=24&_nc_ht=scontent.fasu9-1.fna&edm=AKsJ254EAAAA&_nc_gid=3aa2o0TqDTsNzVblX8maUw&oh=00_Af3EZhJYzce1EMNOKfdkrKdFgYzDcAyIexilb9lnSein4g&oe=69F7F7A5",
+        "icono": "https://i.ibb.co/cSBVG6DP/image.png",
         "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
       }
     ]
