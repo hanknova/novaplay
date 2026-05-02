@@ -1,1 +1,24 @@
-
+{
+  "canales_bloqueados_volumen": [
+    {
+      "id": 1,
+      "nombre": "UNICANAL",
+      "volumen_bloqueado": true
+    },
+    {
+      "id": 2,
+      "nombre": "TRECE",
+      "volumen_bloqueado": true
+    },
+    {
+      "id": 3,
+      "nombre": "Películas HD",
+      "volumen_bloqueado": true
+    },
+    {
+      "id": 4,
+      "nombre": "Música Total",
+      "volumen_bloqueado": true
+    }
+  ]
+}
