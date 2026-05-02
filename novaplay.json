@@ -407,6 +407,11 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
+        "name": "CINE AR",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-20.playlist.m3u8",
+        "icono": "https://i.ibb.co/SFG9M12/AIdro-k-Am-9-Xv8-LMJ6ov8u0t-CXc-TGdek-H0v-Vs-MWm-Crq0-Ja-Wokc-s900-c-k-c0x00ffffff-no-rj.jpg"
+      },
+      {
         "name": "CANAL 26",
         "icono": "https://i.ibb.co/60XLr3MX/canal26-logo.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
