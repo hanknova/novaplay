@@ -919,56 +919,6 @@
       {
         "name": "Señal no Asignada",
         "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "https://i.ibb.co/prMmwhCT/1777414264435.png"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8"
-      },
-      {
-        "name": "Señal no Asignada",
-        "icono": "https://i.ibb.co/prMmwhCT/1777414264435.png",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8"
       }
     ]
@@ -1158,6 +1108,16 @@
         "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
       },
       {
+        "name": "CARTOON NETWORK",
+        "icono": "https://i.ibb.co/B23WZvts/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-31.playlist.m3u8"
+      },
+       {
+        "name": "CARTOONITO",
+        "icono": "https://i.ibb.co/VWDzXmT3/image.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-30.playlist.m3u8"
+      },
+      {
         "name": "DISNEY JR",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8"
@@ -1173,6 +1133,11 @@
         "name": "TVE",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-23.playlist.m3u8",
         "icono": "https://i.ibb.co/sM9vjmV/image.png"
+      },
+      {
+        "name": "TELEMUNDO INTERNACIONAL",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-26.playlist.m3u8",
+        "icono": "https://i.ibb.co/hJMHmsy9/image.png"
       },
       {
         "name": "GARAGE TV",
