@@ -81,9 +81,9 @@
         "icono": "https://i.ibb.co/bjfm9sfR/image.png"
       },
       {
-        "name": "PARAVISIÓN - NO FUNCIONA",
-        "url": "45.170.130.224:8000/play/a032/index.m3u8",
-        "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png"
+        "name": "XPRESSTV",
+        "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
+        "icono": "https://i.ibb.co/KcTmC5By/image.png"
       },
       {
         "name": "LA TELE HD",
@@ -108,17 +108,23 @@
       {
         "name": "ÑANDUTI TV",
         "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_baja/playlist.m3u8",
-        "icono": "https://i.ibb.co/r2DnTpxP/vnIkhRO.png"
+        "icono": "https://i.ibb.co/nqf3jt29/ezgif-com-svg-to-png-converter.png"
+      },
+       {
+        "name": "ÑANDUTI TV (SEÑAL EXTRA)",
+        "url": "https://nanduti.b-cdn.net/480p.m3u8",
+        "icono": "https://i.ibb.co/nqf3jt29/ezgif-com-svg-to-png-converter.png"
       },
       {
-        "name": "TV CAMARA - NO FUNCIONA",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
-        "icono": "http://imgfz.com/i/QTcoH5d.jpeg"
+        "name": "RB TV-RADIO",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+        "icono": "https://i.ibb.co/pmnkppb/image.png"
       },
       {
-        "name": "SUR TV - NO FUNCIONA",
-        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1596.m3u8",
-        "icono": "https://i.ibb.co/WW26ctDc/image.png"
+        "name": "REGIONAL TV YAGUARON",
+        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "icono": "https://i.ibb.co/WW26ctDc/image.png",
+        "TEXTO": "INTERCABLE - INTERFLASH -  SEÑAL EN PRUEBA"
       },
       {
         "name": "A24 Paraguay",
