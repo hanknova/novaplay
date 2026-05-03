@@ -454,25 +454,16 @@
         "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd",
         "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
       },
-      
-      {
-        "name": "ESPN 3  ",
-        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn3",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38",
+            {
+        "name": "ESPN 3 - COLOMBIA ",
+        "url": "https://streamtpnew.com/premier.php?stream=espn3",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
+      },
+            {
+        "name": "ESPN 3 ARGENTINA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
       },
       {
         "name": "ESPN 4",
