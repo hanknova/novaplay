@@ -497,38 +497,90 @@
         "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
        {
-        "name": "ESPN 5 COLOMBIA",
+        "name": "SEÑAL DE PRUEBA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN5_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
+      },
+             {
+        "name": "SEÑAL DE PRUEBA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_CO_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
+      },
+      {
+        "name": "ESPN 5",
+        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
-         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/nqcYm9rV/image.png"
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=24f2b3e741f0d9e9a8d516faff38bddc&key=bbd3fd02fb104e1463ac528a13f67e4a",
+        "type": "CLEARKEY",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ],
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "ESPN 5 SUR",
-        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-104.playlist.m3u8",
-        "icono": "https://i.ibb.co/nqcYm9rV/image.png"
-      },
-      {
-        "name": "ESPN 6 ",
+        "name": "ESPN 6",
+        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn6",
-         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/CsnDfrKD/image.png"
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+        "type": "CLEARKEY",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ],
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "ESPN 7 ",
+        "name": "ESPN 7",
+        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn7",
-         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/C58TyQ02/image.png"
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
+        "type": "CLEARKEY",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ],
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "ESPN PREMIUM ",
-        "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
-         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/C58TyQ02/image.png"
-      },
-      {
-        "name": "ESPN PREMIUM SUR ",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8",
-        "icono": "https://i.ibb.co/C58TyQ02/image.png"
+        "name": "ESPN PREMIUM",
+        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTc5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
+        "url": "https://streamtpnew.com/premier.php?stream=espn",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "type": "CLEARKEY",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ],
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       }
     ]
   },
@@ -540,8 +592,21 @@
       {
         "name": "FOX SPORTS 1 AR",
         "icono": "https://i.ibb.co/zbWxZ95/fs1.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8"
-        },
+        "type": "CLEARKEY",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ],
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
       {
         "name": "FOX SPORTS 2 AR",
         "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
@@ -568,24 +633,28 @@
     "title": "ENTRETENIMIENTO",
     "items": [
       {
+        "visible": "true",
         "name": "NCIS Criminologia Naval",
         "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
         "icono": "https://i.ibb.co/BH295xff/image.png",
         "type": "hls"
       },
       {
+        "visible": "true",
         "name": "COMEDY CENTRAL",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-60.playlist.m3u8",
         "icono": "https://i.ibb.co/b5q03N6D/image.pngg",
         "type": "hls"
       },
       {
+        "visible": "true",
         "name": "CINEMAX",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-61.playlist.m3u8",
         "icono": "https://i.ibb.co/Wvk5XLJC/image.png",
         "type": "hls"
       },
       {
+        "visible": "true",
         "name": "RCN NOVELAS",
         "url": "http://181.118.158.103:8000/play/rcnnovelas/index.m3u8?hls",
         "icono": "https://i.ibb.co/N2TZV3Sv/image.png",
@@ -593,9 +662,11 @@
         "type": "hls"
       },
       {
-         "name": "TLN",
-         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-         "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
+                "name": "TLN",
+                "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                "type": "CLEARKEY",
+                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
+                "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
       },
       {
         "name": "RETRO X TV",
@@ -641,6 +712,19 @@
         "name": "TODONOVELAS",
         "icono": "https://i.ibb.co/DgCKMxq7/channels4-profile-2.jpg",
         "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=9b0a76dd7a0df1e1b4320aeb1254d1a9&key=d011267775c38d6d2ab09b428c03d63f",
+        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "headers": [
+          {
+            "name": "Origin",
+            "value": "https://portal.app.flow.com.py"
+          },
+          {
+            "name": "Referer",
+            "value": "https://portal.app.flow.com.py/"
+          }
+        ]
       },
       {
         "name": "SONY CHANNEL",
@@ -721,12 +805,6 @@
       {
         "name": "TYC SPORTS",
         "url": "https://streamtpnew.com/global1.php?stream=tycsports",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/5WKwQfYb/image.png"
-      },
-      {
-        "name": "TUDN",
-        "url": "https://streaming.alwaysdata.net/tudn.php",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/5WKwQfYb/image.png"
       }
