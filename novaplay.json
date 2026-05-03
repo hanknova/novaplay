@@ -26,16 +26,16 @@
         "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
       },
       {
-        "name": "TIGO $PORT$ - EVENTOS4",
+        "name": "NOVASPORTS",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
-        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png"
+        "icono": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+        "texto": "SOLO EVENTOS"
       },
       {
-        "name": "NOVASPORTS",
-        "url": "https://streamtpnew.com/premier.php?stream=espn",
+        "name": "NOVASPORTS 2",
+        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
-        "activo": true,
-        "texto": "ESPN 1 EVENTOS"
+        "texto": "SOLO EVENTOS"
       }
     ]
   },
