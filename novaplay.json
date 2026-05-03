@@ -433,35 +433,28 @@
     "title": "⚽ ESPN ⚽",
     "items": [
       {
-        "name": "ESPN 1 - COLOMBIA ",
+        "name": "ESPN 1 COLOMBIA",
         "url": "https://streamtpnew.com/premier.php?stream=espn",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/4wz3Yjy1/image.png"
+        "icono": "https://i.ibb.co/20cw7BQs/image.png"
       },
       {
         "name": "ESPN 1 ARGENTINA ",
         "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/zhCGkWr8/image.png"
+        "icono": "https://i.ibb.co/20cw7BQs/image.png"
       },
       {
-        "name": "ESPN 2",
-        "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png",
+        "name": "ESPN 2 - COLOMBIA ",
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/71e1ciyrsrkfsc0yen7p2/espn2.json?rlkey=gzudy6x2a45avcnnough76kw1&st=bmo7ibra&dl=0",
-       "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ]
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
       },
+            {
+        "name": "ESPN 2 ARGENTINA ",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd",
+        "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
+      },
+      
       {
         "name": "ESPN 3  ",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png",
