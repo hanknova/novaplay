@@ -33,7 +33,9 @@
       },
       {
         "name": "NOVASPORTS 2",
-        "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
+       "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png",
         "texto": "SOLO EVENTOS"
       }
@@ -234,6 +236,12 @@
         "texto": "SEÑAL TV Y RADIO"
       },
       {
+        "name": "RURAL",
+        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/rural.playlist.m3u8",
+        "icono": "https://i.ibb.co/8LCyhBDK/Ng-IBb-PX.png",
+        "texto": "SEÑAL NO ASIGNADA"
+      },
+       {
         "name": "SEÑAL NO ASIGNADA",
         "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/rural.playlist.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
