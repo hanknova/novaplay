@@ -2448,13 +2448,13 @@
      
       {
         "name": "Señal No Asignada",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+        "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/159.ts",
         "user": "Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
         "name": "Señal No Asignada",
-        "url": "https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8",
+        "url": "http://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8",
         "user": "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       }
