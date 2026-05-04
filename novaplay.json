@@ -2457,6 +2457,12 @@
         "url": "http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/444055.ts",
         "user": "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+      {
+        "name": "Señal No Asignada",
+        "url": "http://181.78.82.6:46090/play/a0a3/index.m3u8",
+        "user": "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       }
     ]
   }
