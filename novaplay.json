@@ -238,12 +238,6 @@
         "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/rural.playlist.m3u8",
         "icono": "https://i.ibb.co/8LCyhBDK/Ng-IBb-PX.png"
       },
-       {
-        "name": "SEÑAL NO ASIGNADA",
-        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/rural.playlist.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "texto": "SEÑAL NO ASIGNADA"
-      },
       {
         "name": "CANAL 6 POSADAS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_6_Digital_Posadas_%28Logo_2025%29.png",
@@ -776,6 +770,11 @@
                 "type": "CLEARKEY",
                 "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
                 "icono": "https://i.ibb.co/pNgwzvq/Zz1m-Nm-Ex-MWMy-ZWVl-Nm-Ex-MWVm-OWJh-Nj-Rh-Yz-Ew-Mjk2-ODg1-YQ.jpg"
+      },
+            {
+                "name": "BEIN SPORTS EXTRA Ñ - SEÑAL EXTRA",
+                "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
+                "icono": "https://i.ibb.co/JjGGTTmv/image.png"
       },
       {
         "name": "BEIN SPORTS USA",
