@@ -691,7 +691,7 @@
       },
       {
         "name": "AXN",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-77.playlist.m3u8",
+        "url": "http://181.78.82.6:46090/play/a0a3/index.m3u8",
         "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
       },
       {
@@ -2460,7 +2460,7 @@
       },
       {
         "name": "Señal No Asignada",
-        "url": "http://181.78.82.6:46090/play/a0a3/index.m3u8",
+        "url": "http://181.78.82.6:46090/play/a07y/index.m3u8",
         "user": "AppleCoreMedia/1.0.0.15G77 (iPhone; U; CPU OS 11_4_1 like Mac OS X; en_us",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       }
