@@ -457,6 +457,11 @@
         "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd",
         "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
       },
+       {
+        "name": "ESPN 2 - SEÑAL EXTRA ",
+        "url": "http://200.125.170.122:8000/play/a05x/index.m3u8",
+        "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
+      },
         {
         "name": "ESPN 2 SUR ",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-97.playlist.m3u8",
