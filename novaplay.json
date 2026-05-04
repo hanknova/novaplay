@@ -2174,72 +2174,72 @@
     "title": "PLUTO TV - ANIME & GAMMING ",
     "items": [
   {
-    "name": "ANIME & GAMING",
+    "name": "PLUTO.TV ANIME",
     "url": "https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8",
     "icono": "https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "NARUTO 24/7",
     "url": "https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8",
     "icono": "https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "NARUTO SHIPPUDEN 24/7",
     "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
     "icono": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "BORUTO 24/7",
     "url": "https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8",
     "icono": "https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "POKEMON 24/7",
     "url": "https://jmp2.uk/plu-6870072ca9d5c45c3e9466f1.m3u8",
     "icono": "https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "HUNTER X HUNTER 24/7",
     "url": "https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8",
     "icono": "https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "DEATH NOTE 24/7",
     "url": "https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8",
     "icono": "https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "JOJO´S 24/7",
     "url": "https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8",
     "icono": "https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "YU-GI-OH 24/7",
     "url": "https://jmp2.uk/plu-5fceaab478f2af00080ff51f.m3u8",
     "icono": "https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "CAPITAN TSUBASA 24/7",
     "url": "https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8",
     "icono": "https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "INUYASHA 24/7",
     "url": "https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8",
     "icono": "https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "ONE PIECE 24/7",
     "url": "https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8",
     "icono": "https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "TOKUSATO 24/7",
     "url": "https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8",
     "icono": "https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png"
   },
   {
-    "name": "ANIME & GAMING",
+    "name": "PLUTO.TV E-SPORTS",
     "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
     "icono": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png"
   }
@@ -2248,38 +2248,192 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
+    "title": "PLUTO TV - NIÑOS Y ADOLECENTES",
     "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+  {
+    "name": "PLUTO.TV TEENNICK",
+    "url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+    "icono": "https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV NICK JR.",
+    "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV NICKREWIND",
+    "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+    "icono": "https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV NICKTOONS",
+    "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+    "icono": "https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png"
+  },
+
+  {
+    "name": "ICARLY 24/7",
+    "url": "https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8",
+    "icono": "https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"
+  },
+  {
+    "name": "KENAN Y KEL 24/7",
+    "url": "https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8",
+    "icono": "https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png"
+  },
+  {
+    "name": "BABY SHARK TV",
+    "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
+    "icono": "https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png"
+  },
+  {
+    "name": "BABYFIRST",
+    "url": "https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV JUNIOR",
+    "url": "https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png"
+  },
+  {
+    "name": "EL REINO INFANTIL",
+    "url": "https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png"
+  },
+  {
+    "name": "HEY ARNOLD! 24/7",
+    "url": "https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8",
+    "icono": "https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png"
+  },
+  {
+    "name": "AVATAR: LA LEYENDA DE AANG 24/7",
+    "url": "https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8",
+    "icono": "https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png"
+  },
+  {
+    "name": "RUGRATS 24/7",
+    "url": "https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png"
+  },
+  {
+    "name": "BOB ESPONJA 24/7",
+    "url": "https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8",
+    "icono": "https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png"
+  },
+  {
+    "name": "LOS PADRINOS MAGICOS 24/7",
+    "url": "https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8",
+    "icono": "https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG.png"
+  },
+  {
+    "name": "LAS TORTUGAS NINJA 24/7",
+    "url": "https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8",
+    "icono": "https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png"
+  },
+       {
+    "name": "PLUTO.TV KIDS",
+    "url": "https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png"
+  }
+]
   },
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
-    "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+    "title": "PLUTO TV MÚSICA ",
+    "items":[
+  {
+    "name": "MTV BIGGEST POP",
+    "url": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8",
+    "icono": "https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV SPANKIN´ NEW",
+    "url": "https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8",
+    "icono": "https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV FLOW LATINO",
+    "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8",
+    "icono": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV CLASSICS",
+    "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+    "icono": "https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png"
+  },
+  {
+    "name": "MTV ROCKS",
+    "url": "https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8",
+    "icono": "https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png"
+  },
+  {
+    "name": "STINGRAY TIKTOK RADIO",
+    "url": "https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8",
+    "icono": "https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG.png"
+  },
+  {
+    "name": "STINGRAY CONCIERTOS",
+    "url": "https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png"
+  },
+  {
+    "name": "STINGRAY KARAOKE",
+    "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png"
+  },
+  {
+    "name": "CONCERT CHANNEL",
+    "url": "https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8",
+    "icono": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG.png"
+  },
+  {
+    "name": "XITE HITS",
+    "url": "https://d726x48n2pd5h.cloudfront.net//XITE_Hits.m3u8",
+    "icono": "https://i.imgur.com/N51Rp7E.png"
+  },
+  {
+    "name": "XITE LIVE",
+    "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+    "icono": "https://i.imgur.com/N51Rp7E.png"
+  },
+  {
+    "name": "XITE 8OS FLASHBACK",
+    "url": "https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8",
+    "icono": "https://i.imgur.com/vwpOzuz.png"
+  },
+  {
+    "name": "XITE 90S THROWBACK",
+    "url": "https://d284aawtm5vi48.cloudfront.net/XITE_90s_Throwback.m3u8",
+    "icono": "https://i.imgur.com/vwpOzuz.png"
+  },
+  {
+    "name": "XITE CELEBRIDADES",
+    "url": "https://dt1s4l2cmiyit.cloudfront.net/XITE_Celebrates.m3u8",
+    "icono": "https://i.imgur.com/coSrUwV.png"
+  },
+  {
+    "name": "XITE NUEVO LATINO",
+    "url": "https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8",
+    "icono": "https://i.imgur.com/2qyl2y3.png"
+  },
+  {
+    "name": "XITE SIEMPRE LATINO",
+    "url": "https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8",
+    "icono": "https://i.imgur.com/bwmIEgG.png"
+  },
+  {
+    "name": "XITE ROCK ON",
+    "url": "https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8",
+    "icono": "https://i.imgur.com/uIIUIuN.png"
+  },
+  {
+    "name": "XITE JUST CHILL",
+    "url": "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8",
+    "icono": "https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png"
+  }
+]
   },
    {
     "type": "category",
