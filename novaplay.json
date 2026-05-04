@@ -1896,38 +1896,146 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
-    "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+    "title": "PLUTO TV NOTICIAS ",
+    "items":[
+  {
+    "name": "CBS NEWS",
+    "url": "https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8",
+    "icono": "https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png"
+  },
+  {
+    "name": "ESTRELLA NEWS",
+    "url": "https://jmp2.uk/plu-60492e6d7f3f560007ab0f62.m3u8",
+    "icono": "https://images.pluto.tv/channels/60492e6d7f3f560007ab0f62/colorLogoPNG.png"
+  },
+  {
+    "name": "EURONEWS",
+    "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+    "icono": "https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png"
+  },
+  {
+    "name": "RCN NOTICIAS",
+    "url": "https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8",
+    "icono": "https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG.png"
+  },
+  {
+    "name": "CNN XPRESS",
+    "url": "https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8",
+    "icono": "https://images.pluto.tv/channels/673248f9030a2c0008033af8/colorLogoPNG.png"
+  },
+  {
+    "name": "TELEFORMULA",
+    "url": "https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8",
+    "icono": "https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png"
+  },
+  {
+    "name": "MILENIO",
+    "url": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8",
+    "icono": "https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png"
+  },
+  {
+    "name": "C4 EN ALERTA",
+    "url": "https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8",
+    "icono": "https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png"
+  }
+]
   },
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
+    "title": "PLUTO TV DEPORTES ",
     "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+  {
+    "name": "PLUTO.TV FUTBOL",
+    "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
+    "icono": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV DEPORTES",
+    "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png"
+  },
+  {
+    "name": "FOX SPORTS",
+    "url": "https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/tracks-v1a1/mono.m3u8",
+    "icono": "https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png"
+  },
+  {
+    "name": "CBS SPORTS GOLAZO!",
+    "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
+    "icono": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png"
+  },
+  {
+    "name": "CBS SPORTS HQ",
+    "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
+    "icono": "https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png"
+  },
+  {
+    "name": "TENNIS CHANNEL",
+    "url": "https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8",
+    "icono": "https://images.pluto.tv/channels/6870c9333ffa5e0c914e9205/colorLogoPNG.png"
+  },
+  {
+    "name": "CLARO SPORTS",
+    "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
+    "icono": "https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png"
+  },
+  {
+    "name": "AZTECA DEPORTES",
+    "url": "https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8",
+    "icono": "https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png"
+  },
+  {
+    "name": "ITV DEPORTES",
+    "url": "https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8",
+    "icono": "https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV PELEAS",
+    "url": "https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8",
+    "icono": "https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png"
+  },
+  {
+    "name": "DAZN COMBAT",
+    "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
+    "icono": "https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png"
+  },
+  {
+    "name": "LUCHA LIBRE AAA",
+    "url": "https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png"
+  },
+  {
+    "name": "PFL MMA",
+    "url": "https://jmp2.uk/plu-64f6163a30ab3300083d870e.m3u8",
+    "icono": "https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png"
+  },
+  {
+    "name": "UFC",
+    "url": "https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8",
+    "icono": "https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG.png"
+  },
+  {
+    "name": "FIFA+",
+    "url": "https://jmp2.uk/plu-66997d18a1b69e00082ee85f.m3u8",
+    "icono": "https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG.png"
+  },
+  {
+    "name": "REAL MADRID TV",
+    "url": "https://jmp2.uk/plu-67a3b45a21af380008133aa4.m3u8",
+    "icono": "https://images.pluto.tv/channels/67a3b45a21af380008133aa4/colorLogoPNG.png"
+  },
+  {
+    "name": "TOP BARCA",
+    "url": "https://jmp2.uk/plu-67a52c8397782f00081879aa.m3u8",
+    "icono": "https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG.png"
+  },
+  {
+    "name": "RED BULL TV",
+    "url": "https://jmp2.uk/plu-67813f893886aa863497733d.m3u8",
+    "icono": "https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png"
+  }
+]
   },
   {
     "type": "category",
