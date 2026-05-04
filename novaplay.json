@@ -1378,7 +1378,42 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "PLUTO TV - SERIES ",
     "items": [
-      {
+  {
+    "name": "PLUTO.TV SERIES DE CRIMEN",
+    "url": "https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8",
+    "icono": "https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png"
+  },
+  {
+    "name": "CSI",
+    "url": "https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8",
+    "icono": "https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png"
+  },
+  {
+    "name": "CSI: MIAMI",
+    "url": "https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8",
+    "icono": "https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png"
+  },
+  {
+    "name": "CSI: NY",
+    "url": "https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8",
+    "icono": "https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png"
+  },
+  {
+    "name": "LOS ASESINOS DE MIDSOMER 24/7",
+    "url": "https://jmp2.uk/plu-6764203df433320008836bc6.m3u8",
+    "icono": "https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png"
+  },
+  {
+    "name": "NÚM3ROS",
+    "url": "https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8",
+    "icono": "https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV SERIES DE ACCIÓN",
+    "url": "https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8",
+    "icono": "https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png"
+  },
+  {
     "name": "ROOKIE BLUE: POLICÍAS NOVATOS 24/7",
     "url": "https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8",
     "icono": "https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png"
@@ -1458,48 +1493,51 @@
     "url": "https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8",
     "icono": "https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png"
   }
-    ]
+]
   },
    {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "PLUTO TV - SERIES ",
+    "title": "PLUTO TV - RETRO ",
     "items": [
-      {
-    "name": "PLUTO.TV SERIES DE CRIMEN",
-    "url": "https://jmp2.uk/plu-655f62ff954b020008c91ec6.m3u8",
-    "icono": "https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png"
+  {
+    "name": "PLUTO.TV SERIES RETRO",
+    "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8",
+    "icono": "https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"
   },
   {
-    "name": "CSI: MIAMI",
-    "url": "https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8",
-    "icono": "https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png"
+    "name": "HECHICERAS",
+    "url": "https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8",
+    "icono": "https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG.png"
   },
   {
-    "name": "CSI: NY",
-    "url": "https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8",
-    "icono": "https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png"
+    "name": "HECHIZADA",
+    "url": "https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8",
+    "icono": "https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png"
   },
   {
-    "name": "NCIS",
-    "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
-    "icono": "https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png"
+    "name": "MI BELLA GENIO",
+    "url": "https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8",
+    "icono": "https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG.png"
   },
   {
-    "name": "LOS ASESINOS DE MIDSOMER 24/7",
-    "url": "https://jmp2.uk/plu-6764203df433320008836bc6.m3u8",
-    "icono": "https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png"
+    "name": "MACGYVER",
+    "url": "https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8",
+    "icono": "https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png"
   },
   {
-    "name": "NÚM3ROS",
-    "url": "https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8",
-    "icono": "https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG.png"
+    "name": "PITUFO TV",
+    "url": "https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8",
+    "icono": "https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG.png"
+  }
+]
   },
   {
-    "name": "PLUTO.TV SERIES DE ACCIÓN",
-    "url": "https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8",
-    "icono": "https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png"
-  },
+    "type": "category",
+    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
+    "title": "CANALES NO ASIGNADOS ",
+    "items": [
+     
       {
         "name": "Señal No Asignada",
         "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
