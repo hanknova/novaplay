@@ -639,8 +639,8 @@
       },
       {
         "visible": "true",
-        "name": "CINEMAX",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-61.playlist.m3u8",
+        "name": "CINEMAX HD",
+        "url": "http://181.78.82.6:46090/play/a0fm/index.m3u8",
         "icono": "https://i.ibb.co/Wvk5XLJC/image.png",
         "type": "hls"
       },
@@ -675,18 +675,18 @@
         "icono": "https://i.ibb.co/cc0T79bF/image.png"
       },
       {
-        "name": "STAR CHANNEL",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-68.playlist.m3u8",
+        "name": "STAR CHANNEL HD",
+        "url": "http://181.78.82.6:46090/play/a0cf/index.m3u8",
         "icono": "https://i.ibb.co/MkxJnp7W/image.png"
       },
       {
-        "name": "SPACE",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69.playlist.m3u8",
+        "name": "SPACE HD",
+        "url": "http://181.13.252.102:8000/play/a02w/index.m3u8",
         "icono": "https://i.ibb.co/KxjhK824/image.png"
       },
       {
         "name": "A&E",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-71.playlist.m3u8",
+        "url": "http://181.78.82.6:46090/play/a07y/index.m3u8",
         "icono": "https://i.ibb.co/vvDdW11M/image.png"
       },
       {
