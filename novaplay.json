@@ -2040,56 +2040,133 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
+    "title": "PLUTO TV - COMEDIA ",
     "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+  {
+    "name": "DARIA",
+    "url": "https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8",
+    "icono": "https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png"
+  },
+  {
+    "name": "LA FAMILIA DEL BARRIO",
+    "url": "https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8",
+    "icono": "https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png"
+  },
+  {
+    "name": "ENCHUFE.TV",
+    "url": "https://jmp2.uk/plu-699763d184235f26d5056002.m3u8",
+    "icono": "https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV HUMOR",
+    "url": "https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8",
+    "icono": "https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV COMEDY CENTRAL",
+    "url": "https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png"
+  },
+  {
+    "name": "FAILARMY",
+    "url": "https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png"
+  },
+  {
+    "name": "THE PET COLLECTIVE",
+    "url": "https://jmp2.uk/plu-5ebacbcae43a6d000787b88e.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png"
+  },
+  {
+    "name": "BROMAS GAGS",
+    "url": "https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8",
+    "icono": "https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png"
+  }
+]
   },
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
+    "title": "PLUTO TV - ENTRETENIMIENTO ",
     "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+  {
+    "name": "REVIVE GRAN HERMANO",
+    "url": "https://jmp2.uk/plu-6320ddef274b1b0007b2ee88.m3u8",
+    "icono": "https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png"
+  },
+  {
+    "name": "AZTECA INTERNACIONAL",
+    "url": "https://jmp2.uk/plu-646cce4d1593940008a33f09.m3u8",
+    "icono": "https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png"
+  },
+  {
+    "name": "ESTRELLA TV",
+    "url": "https://jmp2.uk/plu-5cf0622da00ca1e2f6fac712.m3u8",
+    "icono": "https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png"
+  },
+  {
+    "name": "CANAL 6 CDMX",
+    "url": "https://jmp2.uk/plu-652e91fd6208700008dcaf7b.m3u8",
+    "icono": "https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png"
+  },
+  {
+    "name": "CASO CERRADO: CASOS DE LA DRA. POLO",
+    "url": "https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8",
+    "icono": "https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png"
+  },
+  {
+    "name": "CANAL CLARÓ",
+    "url": "https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8",
+    "icono": "https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG.png"
+  },
+  {
+    "name": "AL RITMO DEL JARIPEO",
+    "url": "https://jmp2.uk/plu-68ba0910e1d03fec7d5c084f.m3u8",
+    "icono": "https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG.png"
+  }
+]
   },
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
+    "title": "PLUTO TV - ESTILO DE VIDA ",
     "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+  {
+    "name": "TASTEMADE",
+    "url": "https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png"
+  },
+  {
+    "name": "TASTEMADE HOGAR",
+    "url": "https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8",
+    "icono": "https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG.png"
+  },
+  {
+    "name": "TASTEMADE VIAJES",
+    "url": "https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8",
+    "icono": "https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG.png"
+  },
+  {
+    "name": "HOMEFUL",
+    "url": "https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8",
+    "icono": "https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png"
+  },
+  {
+    "name": "PLUTO.TV ESTILO DE VIDA x BARBIE",
+    "url": "https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png"
+  },
+  {
+    "name": "DULCE BY ELGOURMET",
+    "url": "https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8",
+    "icono": "https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG.png"
+  },
+  {
+    "name": "PLATO DEL DIA BY ELGOURMET",
+    "url": "https://jmp2.uk/plu-6894febddbd49c964f3b66c8.m3u8",
+    "icono": "https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG.png"
+  }
+]
   },
   {
     "type": "category",
