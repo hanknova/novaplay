@@ -1822,20 +1822,54 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
-    "title": "CANALES NO ASIGNADOS ",
-    "items": [
-     
-      {
-        "name": "Señal No Asignada",
-        "url": "https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "Señal No Asignada",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
-    ]
+    "title": "PLUTO TV INVESTIGACIÓN ",
+    "items":[
+  {
+    "name": "PLUTO.TV INVESTIGA",
+    "url": "https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8",
+    "icono": "https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png"
+  },
+  {
+    "name": "CAZADOR DE HOMICIDAS",
+    "url": "https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8",
+    "icono": "https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png"
+  },
+  {
+    "name": "ZONAINVESTIGACION.TV",
+    "url": "https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8",
+    "icono": "https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG.png"
+  },
+  {
+    "name": "LOS ARCHIVOS DEL F.B.I.",
+    "url": "https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8",
+    "icono": "https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png"
+  },
+  {
+    "name": "ARCHIVOS FORENSES",
+    "url": "https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8",
+    "icono": "https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png"
+  },
+  {
+    "name": "CRIMEN DE WB",
+    "url": "https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8",
+    "icono": "https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png"
+  },
+  {
+    "name": "DR. G",
+    "url": "https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8",
+    "icono": "https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG.png"
+  },
+  {
+    "name": "LOS NUEVOS DETECTIVES",
+    "url": "https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8",
+    "icono": "https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png"
+  },
+  {
+    "name": "MISTERIOS SIN RESOLVER",
+    "url": "https://jmp2.uk/plu-5f610042272f68000867685b.m3u8",
+    "icono": "https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png"
+  }
+]
   },
 {
     "type": "category",
