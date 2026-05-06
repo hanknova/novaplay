@@ -2487,13 +2487,6 @@
         "texto": "Prueba123",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
-       {
-        "name": "TNT SPORTS PREMIUM",
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a",
-        "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png"
-      },
       {
         "name": "Señal No Asignada",
         "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
