@@ -67,7 +67,7 @@
       {
         "name": "TELEFUTURO",
         "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png"
+        "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
       {
         "name": "C9N",
@@ -2486,6 +2486,20 @@
         "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
         "texto": "Prueba123",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+      {
+        "name": "DSPORTS+",
+        "uri": "https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1",
+        "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
+      },
+      {
+        "name": "DSPORTS 2",
+        "uri": "https://1063-aws-da-mt.vrioott.com/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "c1863664cbc33e9b951ac0e270309891:6e50b1ed60c0feb12836cb6a37d299b5",
+        "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
       },
       {
         "name": "Señal No Asignada",
