@@ -588,7 +588,7 @@
       },
         {
         "name": "FOX DEPORTES USA",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/120px-FOX_Deportes_logo.svg.png",
+        "icono": "https://i.ibb.co/RTvYbs3T/image.png",
         "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
         "texto": "IDIOMA: ESPAÑOL"
       }
@@ -763,7 +763,7 @@
       {
         "name": "BEIN SPORTS USA",
         "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2016_beIN_Sports_logo.svg/250px-2016_beIN_Sports_logo.svg.png"
+        "icono": "https://i.ibb.co/7fn4Pkm/image.png"
       },
       {
         "name": "FOX SPORTS 1 USA",
@@ -774,12 +774,6 @@
         "name": "TUDN",
         "url": "https://streaming.alwaysdata.net/tudn.php",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
-      },
-       {
-        "name": "Señal No Asignada",
-        "url": "http://23.153.217.160:8080/live/JOSEWEBTV25*201/39*22hdkult202/460.m3u8?token=HhtfWEVRFQ5BB1pTAA1dBVIDB10CWgIEBQAGBgZWUVVWDQ8PBwwCUgVDTxdAQBdSV1s5DVZADwFVUh0TRUYEQzpQUxsMGwIDUlNQFx8WEV5bU0ReAk4XRQoGEwsSAVIFXBsbG1NBQ1ERDwJZbFAAQV9VA0YIDEBZD04TXl5qBVQIWFldFAMVBEFNQVxAREcNWEMKCB5AV1wXEFBFVRdbE1cBBA0UFRVXDBQNQUFNRw0UZj9GHkBQTRcHX0JZWg8TXxtaCkMBFRhBCBBqQVEWQ0RTBwlXEBcPQVMTHRJYAEk6WlhXWFxUQAoODUYRDkcEBgZESBAPWlsKFl5Db0UIVUcDFQoACQUWHg==",
-         "texto": "Prueba123",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
         "name": "TNT SPORTS",
@@ -959,11 +953,6 @@
         "name": "VTV CANAL 23 -  REP. DOMINICANA",
         "icono": "https://i.ibb.co/9k2C9zWw/image.png",
         "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
-      },
-           {
-        "name": "SEÑAL NO ASIGNADA - ANTENA3",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8"
       },
       {
         "name": "T13 - CHILE",
@@ -1171,24 +1160,7 @@
         "icono": "https://i.ibb.co/B23WZvts/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-31.playlist.m3u8"
       },
-        {
-  "name": "CARTOONITO",
-  "icono": "https://i.ibb.co/VWDzXmT3/image.png",
-  "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
-  "type": "CLEARKEY",
-   "drm_license_uri":"https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/dato1.json",       
-  "headers": [
-    {
-      "name": "Origin",
-      "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
-    },
-    {
-      "name": "Referer",
-      "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
-    }
-  ],
-  "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-},
+        
        {
         "name": "CARTOONITO",
         "icono": "https://i.ibb.co/VWDzXmT3/image.png",
@@ -2487,7 +2459,25 @@
         "name": "Señal No Asignada",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      }
+      },
+      {
+  "name": "CARTOONITO",
+  "icono": "https://i.ibb.co/VWDzXmT3/image.png",
+  "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
+  "type": "CLEARKEY",
+   "drm_license_uri":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJraWQiOiJQOE53cXdoamFYYTJibGtUeDMxZXciLCJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiSGR4Z2tXd09fU21aRExIVEdlZHhDZyIsImtpZCI6IlA4TndxZ2hqYVhhMmJsa1R4MzFleXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkiLCJleHAiOjE3NDY2NzAwMDB9.5vK8zL9pQjX7vN2mR8tWvX9yZ2aB3cD4eF5gH6iJ7kL",       
+  "headers": [
+    {
+      "name": "Origin",
+      "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
+    },
+    {
+      "name": "Referer",
+      "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
+    }
+  ],
+  "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+}
     ]
   }
   
