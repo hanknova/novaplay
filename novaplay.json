@@ -1248,6 +1248,21 @@
         "name": "GARAGE TV",
         "icono": "https://i.ibb.co/dsztVcvP/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-24.playlist.m3u8"
+      },
+       {
+        "name": "ID - INVESTIGATION DISCOVERY",
+        "icono": "https://i.ibb.co/Kc7V9LtX/image.png",
+        "url": "http://177.10.184.193:8000/play/a0a8/index.m3u8"
+      },
+      {
+        "name": "ANIMAL PLANET",
+        "icono": "https://i.ibb.co/LWxZ307/image.png",
+        "url": "http://177.10.184.193:8000/play/a0cw/index.m3u8"
+      },
+      {
+        "name": "UNIVISION",
+        "url": "http://177.10.184.193:8000/play/a0a7/index.m3u8",
+        "icono": "https://i.ibb.co/fzTdSP8F/image.png"
       }
     ]
   },
