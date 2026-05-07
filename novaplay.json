@@ -225,9 +225,14 @@
         "icono": "https://i.ibb.co/5WRPR4S8/image.png",
         "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
       },
+            {
+        "name": "AMERICA TV",
+        "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png"
+      }
       {
         "name": "AMERICA TV INTERNACIONAL",
-        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png",
+        "icono": "https://i.ibb.co/35gPz3bL/image.png",
         "url": "https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8",
         "headers": [
           {
