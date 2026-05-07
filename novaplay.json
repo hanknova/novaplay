@@ -2465,7 +2465,7 @@
   "icono": "https://i.ibb.co/VWDzXmT3/image.png",
   "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
   "type": "CLEARKEY",
-   "drm_license_uri":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJraWQiOiJQOE53cXdoamFYYTJibGtUeDMxZXciLCJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiSGR4Z2tXd09fU21aRExIVEdlZHhDZyIsImtpZCI6IlA4TndxZ2hqYVhhMmJsa1R4MzFleXcifV0sInR5cGUiOiJ0ZW1wb3JhcnkiLCJleHAiOjE3NDY2NzAwMDB9.5vK8zL9pQjX7vN2mR8tWvX9yZ2aB3cD4eF5gH6iJ7kL",       
+  "drm_license_uri": "{\"3fc370ab08218da5dad9b9644f1df57b\":\"1ddc60916c0efd29990cb1d319e7710a\"}",
   "headers": [
     {
       "name": "Origin",
@@ -2474,9 +2474,12 @@
     {
       "name": "Referer",
       "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
+    },
+    {
+      "name": "User-Agent",
+      "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
     }
-  ],
-  "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  ]
 }
     ]
   }
