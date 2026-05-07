@@ -54,6 +54,11 @@
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/W7bV4hm/image.png"
       },
+            {
+        "name": "MEGATV",
+        "url": "https://www.desde-paraguay.com/mega.m3u8",
+        "icono": "https://i.ibb.co/ML37fmW/image.png"
+      },
       {
         "name": "VISIÓN TV VILLARRICA",
         "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
