@@ -2503,7 +2503,7 @@
       },
       {
         "name": "Señal No Asignada",
-        "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       }
     ]
