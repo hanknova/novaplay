@@ -235,6 +235,11 @@
         "icono": "https://i.ibb.co/5WRPR4S8/image.png",
         "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
       },
+       {
+        "name": "CRONICA TV",
+        "icono": "https://i.ibb.co/DHhzqNrr/unnamed.png",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8"
+      },
             {
         "name": "AMERICA TV",
         "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
