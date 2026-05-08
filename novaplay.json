@@ -782,11 +782,6 @@
       },
       {
         "name": "TUDN",
-        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/553.m3u8",
-        "icono": "https://i.ibb.co/21rG76g7/image.png"
-      },
-      {
-        "name": "TUDN - SEÑAL EXTRA",
         "url": "https://streaming.alwaysdata.net/tudn.php",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
