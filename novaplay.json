@@ -2471,7 +2471,14 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
-  "name": "CARTOONITO",
+  "name": "SUR TV C4",
+  "url": "http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8",
+  "http_referer": "https://www.flow.com.ar/",
+  "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+  "icono": "https://i.ibb.co/ymrjyWMP/image.png"      
+},
+      {
+  "name": "Señal no Asignada",
   "icono": "https://i.ibb.co/VWDzXmT3/image.png",
   "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
   "type": "CLEARKEY",
