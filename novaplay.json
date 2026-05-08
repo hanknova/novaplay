@@ -2484,21 +2484,8 @@
      {
     "name": "SUR TV C4",
     "icono": "https://i.ibb.co/sd7g73J2/image.png",
-    "url": "http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8",
-    "drm_license_uri": "",
-    "type": "CLEARKEY",
-    "headers": [
-        {
-            "name": "Referer",
-            "value": "https://www.flow.com.ar/"
-        },
-        {
-            "name": "Origin",
-            "value": "https://www.flow.com.ar"
-        }
-    ],
-    "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
-},
+    "url": "http://tv.diablotv.net:8080/live/arqsandoval100/66afc8bc4e73/84572.m3u8"
+    },
       {
   "name": "Señal no Asignada",
   "icono": "https://i.ibb.co/VWDzXmT3/image.png",
