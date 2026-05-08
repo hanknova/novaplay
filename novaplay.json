@@ -238,7 +238,7 @@
             {
         "name": "AMERICA TV",
         "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
-        "icono": "https://i.ibb.co/m5L7rSqf/Am-rica-TV-Nuevo-logo-Junio-2020.png"
+        "icono": "https://i.ibb.co/tpPLgJvv/image.png"
       },
       {
         "name": "AMERICA TV INTERNACIONAL",
@@ -281,7 +281,7 @@
       },
       {
         "name": "TELEFE",
-        "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
+        "icono": "https://i.ibb.co/VWCyGtP6/image.png",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
@@ -598,7 +598,7 @@
       },
         {
         "name": "FOX DEPORTES USA",
-        "icono": "https://i.ibb.co/RTvYbs3T/image.png",
+        "icono": "https://i.ibb.co/nNjrswbM/image.png",
         "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
         "texto": "IDIOMA: ESPAÑOL"
       }
