@@ -50,6 +50,11 @@
     "title": "PARAGUAY",
     "items": [
       {
+        "name": "TVS ENCARNACIÓN",
+        "url": "https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8",
+        "icono": "https://i.ibb.co/MxQTkyjk/image.png"
+      },
+      {
         "name": "Pilar Streaming",
         "url": "https://cloudtv.streaming.com.py/pilarrtv/pilarrtv/playlist.m3u8",
         "icono": "https://i.ibb.co/PyS6QSz/image.png"
