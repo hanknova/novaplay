@@ -5,7 +5,7 @@
     "title": "EVENTOS",
     "items": [
       {
-        "name": "𝑇𝐼_𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 1",
+        "name": "𝑇𝐼𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 1",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
@@ -13,7 +13,7 @@
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
       {
-        "name": "𝑇𝐼_𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 2",
+        "name": "𝑇𝐼𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 2",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
@@ -21,7 +21,7 @@
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
       {
-        "name": "𝑇𝐼_𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 3",
+        "name": "𝑇𝐼𝐺𝑂 𝑆𝑃𝑂𝑅𝑇𝑆 - EVENTOS 3",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
