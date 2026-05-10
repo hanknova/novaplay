@@ -2498,9 +2498,22 @@
   "name": "Canal Claro HD",
   "icono": "https://i.ibb.co/ymrjyWMP/image.png",
   "license_type": "clearkey",
-  "license_key": {
-    "53435b9cdf6e477186b81aa09007cb0b": "e800e0d6eb497c84f0b0c2191df10632"
+
+  "license_key": "53435b9cdf6e477186b81aa09007cb0b:e800e0d6eb497c84f0b0c2191df10632",
+
+  "clearkey_json": {
+    "keys": [
+      {
+        "kty": "oct",
+        "kid": "U0NbnN9uR3GGuBqgkAfLCw",
+        "k": "6ADg1utJfITwsMIZHfEGMg"
+      }
+    ],
+    "type": "temporary"
   },
+
+  "clearkey_base64": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJraWQiOiJVME5ibk45dVIzR0d1QnFna0FmTEN3IiwiayI6IjZBRGcxdXRKZklUd3NNSVpIZkVHTWcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ",
+
   "url": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(CANAL_CLARO_HD)/manifest.mpd"
 }
     ]
