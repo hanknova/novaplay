@@ -2524,6 +2524,13 @@
         "url": "https://mdstrm.com/live-stream-playlist/6972e1087faf95f01fc8cc30.mpd",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
+      {
+        "name": "TNT SPORT HD",
+            "url": "https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd",
+            "type": "hls",
+            "drm_license_uri": "https://dl.dropbox.com/scl/fi/3tf1070cyrjky1hx9fv3i/tntsports.json?rlkey=5shl5jkgjimeb7l6mgsdtzwwc&st=13svhsoi&dl=0",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
      {
     "name": "Señal No Asignada",
     "icono": "https://i.ibb.co/ymrjyWMP/image.png",
