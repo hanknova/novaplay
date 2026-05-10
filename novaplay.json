@@ -455,7 +455,7 @@
       },
             {
         "name": "ESPN 2 ARGENTINA ",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/507.m3u8",
         "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
       },
         {
@@ -471,7 +471,7 @@
       },
             {
         "name": "ESPN 3 ARGENTINA ",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/513.m3u8",
         "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
       },
       {
@@ -486,8 +486,8 @@
         "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
        {
-        "name": "ESPN 4 ARGENTINA ",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd",
+        "name": "ESPN 4 LATINOAMERICA ",
+        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/517.m3u8",
         "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
       {
