@@ -819,6 +819,11 @@
         "url": "https://streamtpnew.com/global2.php?stream=tycsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/5WKwQfYb/image.png"
+      },
+      {
+        "name": "MOVISTAR - LA LIGA",
+        "url": "http://fastream.xyz:8080/live/Moont2025*34/3mLW3GXBzh4T/495.m3u8",
+        "icono": "https://i.ibb.co/20jn91fq/image.png"
       }
     ]
   },
