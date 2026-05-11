@@ -2525,6 +2525,13 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
+        "name": "UNICANAL MPD",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd?*",
+        "icono": "https://i.postimg.cc/DzRp7xy9/unicanal.png",
+          "type": "CLEARKEY",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
+      },
+      {
         "name": "TNT SPORT HD",
             "url": "https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd",
             "type": "hls",
