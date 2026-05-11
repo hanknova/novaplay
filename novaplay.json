@@ -480,11 +480,6 @@
         "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
       },
       {
-        "name": "ESPN 3 SUR ",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-96.playlist.m3u8",
-        "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
-      },
-      {
         "name": "ESPN 4 COLOMBIA ",
         "url": "https://streamtpnew.com/premier.php?stream=espn4",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
@@ -495,11 +490,6 @@
         "url": "http://138.59.227.20:8000/play/a084/index.m3u8",
         "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
-      {
-        "name": "ESPN 4 SUR ",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-95.playlist.m3u8",
-        "icono": "https://i.ibb.co/GQH5cMVg/image.png"
-      },
        {
         "name": "ESPN 5 COLOMBIA",
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
@@ -508,12 +498,12 @@
       },
              {
         "name": "ESPN 5",
-        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/526.m3u8",
+        "url": "http://38.210.3.64:8090/play/a0jd/index.m3u8",
         "icono": "https://i.ibb.co/nqcYm9rV/image.png"
       },
       {
         "name": "ESPN 6",
-        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/539.m3u8",
+        "url": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
         "icono": "https://i.ibb.co/CsnDfrKD/image.png"
       },
       {
