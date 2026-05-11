@@ -527,7 +527,7 @@
       },
       {
         "name": "ESPN 7",
-        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/453.m3u8",
+        "url": "http://38.210.3.64:8090/play/a0e6/index.m3u8",
         "icono": "https://i.ibb.co/C58TyQ02/image.pngg"
       },
       {
@@ -554,10 +554,14 @@
         "name": "ESPN PREMIUM ",
         "url": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8",
          "icono": "https://i.ibb.co/sd7g73J2/image.png"
-        
       },
-      {
+       {
         "name": "ESPN PREMIUM - SEÑAL EXTRA ",
+        "url": "http://138.59.227.20:8000/play/a086/index.m3u8",
+       "icono": "https://i.ibb.co/Zz9Dyg6H/image.png"
+      }
+      {
+        "name": "ESPN PREMIUM - SEÑAL EXTRA 2 ",
         "url": "http://190.7.19.197:232/play/a038/index.m3u8",
        "icono": "https://i.ibb.co/Zz9Dyg6H/image.png"
       }
