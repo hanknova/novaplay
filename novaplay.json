@@ -557,32 +557,14 @@
             
        {
         "name": "ESPN PREMIUM ",
-        "url": "http://190.7.19.197:232/play/a038/index.m3u8",
-        "icono": "https://i.ibb.co/Zz9Dyg6H/image.png"
+        "url": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8",
+         "icono": "https://i.ibb.co/sd7g73J2/image.png"
+        
       },
       {
         "name": "ESPN PREMIUM - SEÑAL EXTRA ",
-        "url": "https://streamtpnew.com/global1.php?stream=espnpremium",
-         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/sd7g73J2/image.png"
-      },
-      {
-        "name": "ESPN PREMIUM SUR",
-        "icono": "https://i.ibb.co/sd7g73J2/image.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-02.playlist.m3u8",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
-        "type": "CLEARKEY",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "url": "http://190.7.19.197:232/play/a038/index.m3u8",
+       "icono": "https://i.ibb.co/Zz9Dyg6H/image.png"
       }
     ]
   },
@@ -2545,9 +2527,9 @@
       {
         "name": "TEST ",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY0OTkzNDMwIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiNjk0MjgzM2ExYTE0OTUzNCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIxMDAiLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.CCBHjAFmjvrPOH1HJ0ROsUsT38uHXRS2Nnc_h1RchuRucwiEvxLopLr5d95qUeiCpafjiJZ-4CyoVicFq2nSww==/live/c6eds/Sextreme/SA_Live_dash_enc_C/Sextreme.mpd",
+        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODk0NTgyIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiZjY2NGEzNmY1Y2FlZWMzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.q03_KPnbxhzrko3nVYbZhyMYeZK4PZGaZFEYAklM3MzqvdxbiDxoZvifAcFrJ5k5oPkVb7ikdiY23aHJ--GAtw==/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/xtreme.json",
+        "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/tvpublica.json",
         "headers": [
           {
             "name": "Origin",
