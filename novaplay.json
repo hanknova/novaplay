@@ -2527,17 +2527,17 @@
       {
         "name": "TEST ",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://edge-live17-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5ODk0NTgyIiwic2lwIjoiMjAwLjExNC4xMTEuMjA1IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX3dsLyIsInNlc3Npb25fY2RuX2lkIjoiZjY2NGEzNmY1Y2FlZWMzMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiI3MiIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.q03_KPnbxhzrko3nVYbZhyMYeZK4PZGaZFEYAklM3MzqvdxbiDxoZvifAcFrJ5k5oPkVb7ikdiY23aHJ--GAtw==/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+        "url": "https://hfc-tlx-live-atv-cdn.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/tvpublica.json",
+        "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/cartoonito.json",
         "headers": [
           {
             "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
+            "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
           },
           {
             "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
+            "value": "https://hfc-tlx-live-atv-cdn.izzigo.tv"
           }
         ],
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
