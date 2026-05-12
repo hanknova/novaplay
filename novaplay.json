@@ -575,23 +575,10 @@
       {
         "name": "FOX SPORTS 1 AR",
         "icono": "https://i.ibb.co/zbWxZ95/fs1.png",
-        "type": "CLEARKEY",
         "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "FOX SPORTS 2 MX",
+        "name": "FOX SPORTS 2 AR",
         "icono": "https://i.ibb.co/ZpqYKFGf/image.png",
         "url": "http://138.59.227.20:8000/play/a09b/index.m3u8"
       },
