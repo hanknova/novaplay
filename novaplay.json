@@ -271,11 +271,6 @@
         "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
-        "name": "RURAL",
-        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/rural.playlist.m3u8",
-        "icono": "https://i.ibb.co/8LCyhBDK/Ng-IBb-PX.png"
-      },
-      {
         "name": "CANAL 6 POSADAS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_6_Digital_Posadas_%28Logo_2025%29.png",
         "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
@@ -295,24 +290,6 @@
       },
       {
         "name": "TELEFE",
-        "icono": "https://i.ibb.co/VWCyGtP6/image.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TELEFE - SEÑAL EXTRA",
         "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
         "icono": "https://i.ibb.co/VWCyGtP6/image.png"
       },
