@@ -465,6 +465,7 @@
     "items": [
       {
         "name": "FOX SPORTS 1 AR",
+        "info": "Argentina",
         "icono": "https://i.ibb.co/0yCtMZVW/image.png",
         "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
       },
