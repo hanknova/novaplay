@@ -33,12 +33,6 @@
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-       {
-        "name": "NOVASPORTS2",
-        "texto": " Barcelona vs Real Madrid",
-         "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       }
     ]
   },
