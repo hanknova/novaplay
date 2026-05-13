@@ -121,7 +121,7 @@
         "name": "TRECE - SEÑAL EXTRA",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
-        "texto": "SOLO FUNCIONA CON NOVAPLAY 2.0.0 Y MODO ALTO RENDIMIENTO"
+        "texto": "Conexión via Dailymotion"
       },
       {
         "name": "PARAGUAY TV",
@@ -130,6 +130,11 @@
       },
       {
         "name": "ÑANDUTI TV",
+        "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+        "icono": "https://i.ibb.co/qMTf7sNt/image.png"
+      },
+      {
+        "name": "ÑANDUTI TV - SEÑAL EXTRA",
         "url": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
@@ -168,7 +173,7 @@
         "name": "UNICANAL - SEÑAL EXTRA",
         "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
         "icono": "https://i.ibb.co/G4KnJjPY/image.png",
-        "texto": "SOLO FUNCIONA CON NOVAPLAY 2.0.0 Y MODO ALTO RENDIMIENTO"
+        "texto": "Conexión via Dailymotion"
       },
       {
         "name": "UNION TV",
