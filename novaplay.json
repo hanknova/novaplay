@@ -659,8 +659,14 @@
         "url": "http://41.223.30.230/FOXSPORTS1/index.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png"
       },
+       {
+        "name": "TUDN",
+        "url": "http://201.151.118.136:8000/play/a00g/index.m3u8",
+        "icono": "https://i.ibb.co/21rG76g7/image.png"
+      },
       {
         "name": "TUDN",
+        "info": "Señal Extra",
         "url": "https://streaming.alwaysdata.net/tudn.php",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
@@ -2400,7 +2406,7 @@
            {
     "name": "Señal No Asignada 2",
     "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-    "url": "http://138.59.227.20:8000/play/a098/index.m3u8"      
+    "url": "http://181.119.111.25:4000/play/a04e/56684160.m3u8"      
     },
  {
   "name": "TEST ",
