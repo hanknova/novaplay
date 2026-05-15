@@ -682,22 +682,30 @@
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
             {
-        "name": "TNT SPORTS",
+        "name": "TNT SPORTS PREMIUM",
         "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
         "icono": "https://i.ibb.co/FkKkR38v/image.png"
       },
       {
-        "name": "TNT SPORTS - SEÑAL EXTRA",
+        "name": "TNT SPORTS PREMIUM",
+        "info": "Señal Extra 1",   
+        "url": "http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8",
+        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
+      },
+            {
+        "name": "TNT SPORTS PREMIUM",
+        "info": "Señal Extra 2",   
+        "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
+        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "info": "Señal Extra 3",
         "url": "https://streamtpnew.com/global1.php?stream=tntsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/jk1GRNKS/image.png"
       },
-         {
-        "name": "TNT SPORTS",
-        "info": "Señal Extra",   
-        "url": "http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8",
-        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
-      },
+         
       {
         "name": "TYC SPORTS",
         "status": "false",
@@ -2403,7 +2411,9 @@
      {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://205.235.6.29:8000/play/a0pz/index.m3u8"
+       "referrer": "https://play.tycsports.com/",
+       "user": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36",
+        "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8"
       }
     ]
   }
