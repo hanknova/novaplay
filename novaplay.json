@@ -649,16 +649,6 @@
                 "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
                 "icono": "https://i.ibb.co/JjGGTTmv/image.png"
       },
-      {
-        "name": "BEIN SPORTS USA",
-        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
-        "icono": "https://i.ibb.co/7fn4Pkm/image.png"
-      },
-      {
-        "name": "FOX SPORTS 1 USA",
-        "url": "http://41.223.30.230/FOXSPORTS1/index.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png"
-      },
        {
         "name": "TUDN",
         "url": "http://201.151.118.136:8000/play/a00g/index.m3u8",
@@ -672,7 +662,7 @@
       },
             {
         "name": "TNT SPORTS",
-        "url": "200.112.174.230/mtcast_tntsportshd/mpegts",
+        "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
         "icono": "https://i.ibb.co/FkKkR38v/image.png"
       },
       {
