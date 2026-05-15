@@ -2374,20 +2374,8 @@
      {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.0.0 Mobile/15E148 Safari/604.1",
-        "url": "https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true"
-      },
-    
-           {
-    "name": "Señal No Asignada 2",
-    "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-    "url": "https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true"      
-    },
- {
-  "name": "TEST ",
-  "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-  "url": "http://38.199.4.105:9999/play/a0gr/index.m3u8"
-}
+        "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
+      }
     ]
   }
   
