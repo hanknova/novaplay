@@ -503,10 +503,9 @@
         "type": "hls"
       },
       {
-        "visible": "true",
-        "name": "COMEDY CENTRAL",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-60.playlist.m3u8",
-        "icono": "https://i.ibb.co/b5q03N6D/image.pngg",
+        "name": "UNIVERSAL COMEDY",
+        "url": "http://177.10.184.193:8000/play/a09x/index.m3u8",
+        "icono": "https://i.ibb.co/rKvj7dqv/image.png",
         "type": "hls"
       },
       {
@@ -548,6 +547,7 @@
       },
       {
         "name": "STAR CHANNEL HD",
+        "status": "false",
         "url": "http://181.78.82.6:46090/play/a0cf/index.m3u8",
         "icono": "https://i.ibb.co/MkxJnp7W/image.png"
       },
@@ -591,6 +591,7 @@
       },
       {
         "name": "SONY CHANNEL",
+        "status": "false",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70.playlist.m3u8",
         "icono": "https://i.ibb.co/YFC4QqcB/image.png"
       }
@@ -656,6 +657,7 @@
       },
        {
         "name": "TUDN",
+         "status": "false",
         "url": "http://201.151.118.136:8000/play/a00g/index.m3u8",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
@@ -678,6 +680,7 @@
       },
       {
         "name": "TYC SPORTS",
+        "status": "false",
         "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/462.m3u8",
         "icono": "https://i.ibb.co/5WKwQfYb/image.png"
       },
@@ -689,6 +692,7 @@
       },
       {
         "name": "MOVISTAR - LA LIGA",
+        "status": "false",
         "url": "http://fastream.xyz:8080/live/Moont2025*34/3mLW3GXBzh4T/495.m3u8",
         "icono": "https://i.ibb.co/20jn91fq/image.png"
       }
@@ -914,6 +918,7 @@
       },
       {
         "name": "PAKA PAKA",
+        "status": "false",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
@@ -986,6 +991,7 @@
       },
       {
         "name": "DISNEY CHANNEL",
+        "status": "false",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/29jxjbh4i8hty39ndi5fr/clearkey_disneyhd.json?rlkey=jnllgciun10tmhdxkv1i2glfi&st=kw1j2cwe&dl=0",
@@ -1063,6 +1069,7 @@
       },
       {
         "name": "DISCOVERY KIDS",
+        "status": "false",
         "icono": "https://i.ibb.co/nqqVw9dY/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-34.playlist.m3u8"
       },
@@ -1079,11 +1086,13 @@
         
        {
         "name": "CARTOONITO",
+         "status": "false",
         "icono": "https://i.ibb.co/VWDzXmT3/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-30.playlist.m3u8"
       },
       {
         "name": "DISNEY JR",
+        "status": "false",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8"
       }
@@ -1096,38 +1105,37 @@
     "items": [
       {
         "name": "TVE",
+        "status": "false",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-23.playlist.m3u8",
         "icono": "https://i.ibb.co/sM9vjmV/image.png"
       },
       {
         "name": "TELEMUNDO INTERNACIONAL",
+        "status": "false",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-26.playlist.m3u8",
         "icono": "https://i.ibb.co/hJMHmsy9/image.png"
       },
       {
         "name": "DISCOVERY CHANNEL",
+        "status": "false",
         "icono": "https://i.ibb.co/KzK3qZMG/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-44.playlist.m3u8"
       },
        {
-        "name": "DISCOVERY ITALY",
-        "url": "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8",
-        "icono": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
-        "texto": "Idioma: Italiano"
-      },
-      
-       {
         "name": "DISCOVERY H&H",
-        "icono": "https://i.ibb.co/PvsDWh2Q/image.png",
+        "status": "false",
+         "icono": "https://i.ibb.co/PvsDWh2Q/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-43.playlist.m3u8"
       },
       {
         "name": "MTV",
+        "status": "false",
         "icono": "https://i.ibb.co/yFyT373t/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-50.playlist.m3u8"
       },
        {
         "name": "HISTORY",
+         "status": "false",
         "icono": "https://i.ibb.co/fVDKcp3S/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40.playlist.m3u8"
       },
@@ -1138,6 +1146,7 @@
       },
        {
         "name": "ID - INVESTIGATION DISCOVERY",
+         "status": "false",
         "icono": "https://i.ibb.co/Kc7V9LtX/image.png",
         "url": "http://177.10.184.193:8000/play/a0a8/index.m3u8"
       },
