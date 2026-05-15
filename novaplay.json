@@ -2411,9 +2411,7 @@
      {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-       "referrer": "https://play.tycsports.com/",
-       "user": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36",
-        "url": "https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8"
+        "url": "http://191.97.14.162:8000/play/a016/index.m3u8"
       }
     ]
   }
