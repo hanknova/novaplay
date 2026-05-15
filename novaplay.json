@@ -306,6 +306,13 @@
         "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",      
         "icono": "https://i.ibb.co/VWCyGtP6/image.png"
       },
+       {
+        "name": "TELEFE",
+        "info": "Santa Fe",      
+        "url": "https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8",
+        "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",      
+        "icono": "https://i.ibb.co/VWCyGtP6/image.png"
+      },
       {
         "name": "EL TRECE",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",
@@ -683,6 +690,12 @@
         "name": "TNT SPORTS - SEÑAL EXTRA",
         "url": "https://streamtpnew.com/global1.php?stream=tntsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "icono": "https://i.ibb.co/jk1GRNKS/image.png"
+      },
+         {
+        "name": "TNT SPORTS",
+        "info": "Señal Extra",   
+        "url": "http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8",
         "icono": "https://i.ibb.co/jk1GRNKS/image.png"
       },
       {
