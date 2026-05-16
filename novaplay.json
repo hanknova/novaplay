@@ -604,38 +604,12 @@
       {
         "name": "TYC SPORTS FAN",
         "icono": "https://i.ibb.co/5WKwQfYb/image.png",
-        "type": "CLEARKEY",
-        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
-        "drm_license_uri": "https://DL.dropbox.com/scl/fi/i6npptnp7m4apf6pakd86/clearkey_tycsports.json?rlkey=fmyz3j13z4kbjv6usbjx45nch&st=o3mip5ys&dl=0",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
       },
       {
         "name": "BEIN SPORTPS Ñ",
         "icono": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76955_dark_360w_270h.png",
-        "type": "CLEARKEY",
-        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/2h8t724qefpmbxy7pc3z3/clearkey_tntsports.json?rlkey=b1atg34l31mcea91btzz9a9ia&st=icijhveh&dl=0",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8"
       },
       {
         "name": "CLARO SPORTS",
@@ -643,11 +617,9 @@
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
       {
-                "name": "BEIN SPORTS EXTRA Ñ",
-                "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://dl.dropbox.com/scl/fi/mvxasp2naascu373f4fev/paravision.json?rlkey=dojgg1ya7fani8ye608y3i91n&st=cc95n5mp&dl=0",
-                "icono": "https://i.ibb.co/pNgwzvq/Zz1m-Nm-Ex-MWMy-ZWVl-Nm-Ex-MWVm-OWJh-Nj-Rh-Yz-Ew-Mjk2-ODg1-YQ.jpg"
+       "name": "BEIN SPORTS EXTRA Ñ",
+       "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+       "icono": "https://i.ibb.co/pNgwzvq/Zz1m-Nm-Ex-MWMy-ZWVl-Nm-Ex-MWVm-OWJh-Nj-Rh-Yz-Ew-Mjk2-ODg1-YQ.jpg"
       },
             {
                 "name": "BEIN SPORTS EXTRA Ñ - SEÑAL EXTRA",
@@ -693,8 +665,8 @@
          
       {
         "name": "TYC SPORTS",
-        "status": "false",
-        "url": "http://fastream.xyz:8080/live/JOSEWEBTV25*201/39*22hdkult202/462.m3u8",
+        "status": "TRUE",
+        "url": "http://181.13.252.102:8000/play/a02s/index.m3u8",
         "icono": "https://i.ibb.co/5WKwQfYb/image.png"
       },
       {
