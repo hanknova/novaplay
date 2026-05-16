@@ -859,11 +859,17 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/k31DCf4/Do0-qz-Jj-Xw-GBUbh-K7n-CQi-Vro2-YT51-DHh-Bw7-On-Tv-Jr35-PEACSqaqhxf-Hdmed-SZr-Ei-LTiuq-ERb-s900-c-k.webp",
-    "title": "NOTICIA INTERNACIONALES",
+    "title": "NOTICIAS INTERNACIONALES",
     "items": [
       {
-        "name": "RT - RUSSIA TODAY - ESPAÑOL",
-        "type": "hls",
+        "name": "Meganoticias",
+        "info": "Chile",
+        "icono": "https://i.ibb.co/rJDsB0r/image.png",
+        "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
+      },
+      {
+        "name": "RT - RUSSIA TODAY",
+        "info": "En Español",
         "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png"
       },
@@ -874,23 +880,25 @@
       },
       {
         "name": "CNN",
-        "texto": "EN ESPAÑOL",
+        "info": "En Español",
         "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/4gDZSNZC/image.png"
       },
             {
-        "name": "CNN INTERNACIONAL",
-        "texto": "SEÑAL INTERNACIONAL",
+        "name": "CNN",
+        "info": "Internacional",
         "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
         "icono": "https://i.ibb.co/3mN9Wb0K/image.png"
       },
       {
-        "name": "DW EN ESPAÑOL",
+        "name": "DW",
+        "info": "En Español",
         "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8",
         "icono": "https://i.ibb.co/Lzz8MCDR/image.png"
       },
       {
-        "name": "FRANCE24 EN ESPAÑOL",
+        "name": "FRANCE24",
+        "info": "En Español",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
         "type": "hls",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png"
@@ -928,18 +936,39 @@
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
     "title": "VARIADOS - INTERNACIONALES",
     "items": [
-      {
-        "name": "Meganoticias - CHILE",
-        "icono": "https://i.ibb.co/rJDsB0r/image.png",
-        "url": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8"
-      },
        {
-        "name": "UCL -  URUGUAY",
+        "name": "UCL",
+         "info": "Uruguay",
         "icono": "https://i.ibb.co/ZzpYCgPD/image.png",
         "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
       },
              {
+        "name": "TELEMUNDO",
+         "info": "Puerto Rico",
+        "icono": "https://i.ibb.co/DgwRzpvZ/image.png",
+        "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+      },
+      {
+        "name": "CANAL 57",
+         "info": "USA",
+        "icono": "https://i.ibb.co/ZRQVRWKH/image.png",
+        "url": "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8"
+      },
+      {
+        "name": "CGTN",
+         "info": "En Español",
+        "icono": "https://i.ibb.co/ymSYCKq7/image.png",
+        "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+      },
+      {
+        "name": "VENEVISION",
+         "info": "Internacional",
+        "icono": "https://i.ibb.co/Xfd5VZdp/image.png",
+        "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8"
+      },
+             {
         "name": "VTV CANAL 23 -  REP. DOMINICANA",
+        "info": "Rep. Dominicana",       
         "icono": "https://i.ibb.co/9k2C9zWw/image.png",
         "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
       }
