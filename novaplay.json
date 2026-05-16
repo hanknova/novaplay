@@ -334,20 +334,6 @@
         "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
         "icono": "https://i.ibb.co/p6YxK2mt/image.png"
       },
-            {
-        "name": "TELEFE",
-        "info": "Rosario",      
-        "url": "https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
-        "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",      
-        "icono": "https://i.ibb.co/p6YxK2mt/image.png"
-      },
-       {
-        "name": "TELEFE",
-        "info": "Santa Fe",      
-        "url": "https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8",
-        "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",      
-        "icono": "https://i.ibb.co/p6YxK2mt/image.png"
-      },
       {
         "name": "EL TRECE",
         "icono": "https://i.ibb.co/vxYT2dp9/image.png",
