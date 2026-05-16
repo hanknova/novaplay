@@ -146,6 +146,7 @@
       },
       {
         "name": "E40",
+        "status": "false",
         "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/7xNk16GM/image.png"
       },
@@ -181,11 +182,10 @@
         "icono": "https://i.ibb.co/1tBQJT8p/rcctv.png"
       },
       {
-        "name": "ASPEN FM - TV ",
-        "url": "https://copacogen.desdeparaguay.net/aspentv/aspentv/chunklist_w705527381.m3u8?admin=nacion",
-        "icono": "https://i.ibb.co/FkFnSx22/aspentv.png",
-        "status": "false",
-        "texto": "RADIO - TV 102.7 FM"
+        "name": "VISION TV",
+        "url": "https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist_w1906112169.m3u8?admin=nacion",
+        "icono": "https://i.ibb.co/Q7y4whkw/image.png",
+        "info": "97.5 FM"
       },
         {
         "name": "VENUS MEDIA ",
