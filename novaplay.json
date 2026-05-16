@@ -43,6 +43,11 @@
     "title": "PARAGUAY",
     "items": [
       {
+        "name": "BRUNO MASI TV",
+        "url": "https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8",
+        "icono": "https://i.ibb.co/nNxzjQzD/image.png"
+      },
+      {
         "name": "TVS ENCARNACIÓN",
         "url": "https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8",
         "icono": "https://i.ibb.co/MxQTkyjk/image.png"
