@@ -73,7 +73,8 @@
         "icono": "https://i.ibb.co/ML37fmW/image.png"
       },
       {
-        "name": "VISIÓN TV VILLARRICA",
+        "name": "VISIÓN TV",
+        "info": "Villarica",
         "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/3m0tTkt6/unnamed.png"
       },
@@ -145,10 +146,9 @@
         "texto": "INTERCABLE - INTERFLASH"
       },
       {
-        "name": "E40",
-        "status": "false",
-        "url": "https://rds3gen.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "icono": "https://i.ibb.co/7xNk16GM/image.png"
+        "name": "PRO",
+        "url": "https://www.desde-paraguay.com/pro.m3u8?admin=nacion",
+        "icono": "https://i.ibb.co/TBHgtFCC/image.png"
       },
       {
         "name": "POPU TV",
