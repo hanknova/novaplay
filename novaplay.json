@@ -222,7 +222,7 @@
       },
       {
         "name": "MONUMENTAL TV",
-        "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
+        "url": "https://tigocloud.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/HTx1zLrP/image.png",
         "texto": "SEÑAL TV Y RADIO"
       },
@@ -244,9 +244,27 @@
     "image": "https://i.ibb.co/zbWxZ95/fs1.png",
     "title": " ARGENTINA",
     "items": [
+       {
+        "name": "TN",
+        "info": "TELE NOTICIAS",
+        "icono": "https://i.ibb.co/wm1j5x9/image.png",
+        "url": "https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8"
+      },     
+      {
+        "name": "Canal 4",
+        "info": "Posadas",
+        "icono": "https://i.ibb.co/XfzDVfzB/image.png",
+        "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
+      },
+      {
+        "name": "UNI TEVE",
+        "info": "Canal Universitario",
+        "icono": "https://i.ibb.co/HT4X04Gs/image.png",
+        "url": "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8"
+      },
       {
         "name": "COSMOS TV",
-        "info": "Radio FM - TV",
+        "info": "Radio FM/TV",
         "icono": "https://i.ibb.co/YrNjw3J/image.png",
         "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"
       },
@@ -289,25 +307,25 @@
       {
         "name": "TELEFE",
         "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
-        "icono": "https://i.ibb.co/VWCyGtP6/image.png"
+        "icono": "https://i.ibb.co/p6YxK2mt/image.png"
       },
             {
         "name": "TELEFE",
         "info": "Rosario",      
         "url": "https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8",
         "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",      
-        "icono": "https://i.ibb.co/VWCyGtP6/image.png"
+        "icono": "https://i.ibb.co/p6YxK2mt/image.png"
       },
        {
         "name": "TELEFE",
         "info": "Santa Fe",      
         "url": "https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8",
         "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",      
-        "icono": "https://i.ibb.co/VWCyGtP6/image.png"
+        "icono": "https://i.ibb.co/p6YxK2mt/image.png"
       },
       {
         "name": "EL TRECE",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png",
+        "icono": "https://i.ibb.co/vxYT2dp9/image.png",
         "url": "http://45.5.151.147:8000/play/a00f/index.m3u8",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/xghil2hmiyc4afg8ibuvp/trece.json?rlkey=3ijcz4cad4f6qzpfr8g5ogzoz&st=ysd9g4at&dl=08688f094d092",
