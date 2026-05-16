@@ -584,11 +584,6 @@
         "url": "https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8"
       },
       {
-        "name": "DISCOVERY SCIENCE",
-        "icono": "https://i.ibb.co/sdDBv4v4/image.png",
-        "url": "http://177.10.184.193:8000/play/a02m/index.m3u8"
-      },
-      {
         "name": "SONY CHANNEL",
         "status": "false",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70.playlist.m3u8",
@@ -2367,7 +2362,7 @@
      {
         "name": "Señal No Asignada",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "http://177.10.184.193:8000/play/a061/index.m3u8"
+        "url": "https://trs.cdn.rcs.net.ar/mnp/cinear/output.mpd"
       },
         {
         "name": "Señal No Asignada",
