@@ -620,9 +620,18 @@
       },
       {
         "name": "SONY CHANNEL",
-        "status": "false",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70.playlist.m3u8",
+        "url": "http://138.36.24.8:8000/play/a03d/index.m3u8",
         "icono": "https://i.ibb.co/YFC4QqcB/image.png"
+      },
+      {
+        "name": "HISTORY",
+        "url": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
+        "icono": "https://i.ibb.co/h1BSG3y5/image.png"
+      },
+      {
+        "name": "HISTORY 2",
+        "url": "http://38.188.48.83:8000/play/a0kp/index.m3u8",
+        "icono": "https://i.ibb.co/hxnBDPpS/image.png"
       }
     ]
   },
