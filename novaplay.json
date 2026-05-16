@@ -1107,9 +1107,9 @@
       },
       {
         "name": "DISNEY JR",
-        "status": "false",
+        "status": "TRUE",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8"
+        "url": "http://190.0.247.38:8000/play/a00f"
       }
     ]
   },
