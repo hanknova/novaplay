@@ -348,55 +348,64 @@
      {
     "type": "category",
     "image": "https://i.ibb.co/9mkcw2dN/espn-seeklogo.png",
-    "title": "⚽ ESPN ⚽",
+    "title": "⚽ DEPORTES ⚽",
     "items": [
       {
-        "name": "ESPN 1 COLOMBIA",
+        "name": "ESPN 1",
+        "info": "Colombia",
         "url": "https://streamtpnew.com/premier.php?stream=espn",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/20cw7BQs/image.png"
       },
       {
-        "name": "ESPN 1 ARGENTINA ",
+        "name": "ESPN 1",
+        "info": "Argentina",
         "texto": "Se Recomienda ingresar 1 hora o 30 min antes de cada partido",
         "url": "http://138.59.227.20:8000/play/a099/index.m3u8",
         "icono": "https://i.ibb.co/20cw7BQs/image.png"
       },
       {
-        "name": "ESPN 2 COLOMBIA ",
+        "name": "ESPN 2",
+        "info": "Colombia",
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
       },
             {
-        "name": "ESPN 2 ARGENTINA ",
+        "name": "ESPN 2",
+        "info": "Argentina",      
         "url": "http://138.59.227.20:8000/play/a098/index.m3u8",
         "icono": "https://i.ibb.co/v4J6Z7KB/image.png"
       },
             {
-        "name": "ESPN 3 COLOMBIA ",
+        "name": "ESPN 3",
+        "info": "Colombia",      
         "url": "https://streamtpnew.com/premier.php?stream=espn3",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
       },
             {
-        "name": "ESPN 3 ARGENTINA ",
+        "name": "ESPN 3",
+        "info": "Argentina",
         "url": "http://138.59.227.20:8000/play/a09a/index.m3u8",
         "icono": "https://i.ibb.co/B5F8kRZ1/image.png"
       },
       {
-        "name": "ESPN 4 COLOMBIA ",
+        "name": "ESPN 4",
+        "info": "Colombia",
         "url": "https://streamtpnew.com/premier.php?stream=espn4",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
        {
-        "name": "ESPN 4 ARGENTINA ",
+        "name": "ESPN 4",
+         "info": "Argentina",
         "url": "http://138.59.227.20:8000/play/a084/index.m3u8",
         "icono": "https://i.ibb.co/GQH5cMVg/image.png"
       },
        {
-        "name": "ESPN 5 COLOMBIA",
+        "name": "ESPN 5",
+        "info": "Colombia", 
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
          "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/nqcYm9rV/image.png"
@@ -412,23 +421,11 @@
         "icono": "https://i.ibb.co/CsnDfrKD/image.png"
       },
       {
-        "name": "ESPN 6 - SEÑAL EXTRA",
+        "name": "ESPN 6",
+        "info": "Señal Extra",
         "icono": "https://i.ibb.co/CsnDfrKD/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn6",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "type": "CLEARKEY",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
       },
       {
         "name": "ESPN 7",
@@ -436,25 +433,11 @@
         "icono": "https://i.ibb.co/C58TyQ02/image.pngg"
       },
       {
-        "name": "ESPN 7 - SEÑAL EXTRA",
+        "name": "ESPN 7",
+        "info": "Señal Extra",
         "icono": "https://i.ibb.co/C58TyQ02/image.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn7",
-        "drm_license_uri": "https://vimetrix.lat/api/license.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
-        "type": "CLEARKEY",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "headers": [
-          {
-            "name": "Origin",
-            "value": "https://portal.app.flow.com.py"
-          },
-          {
-            "name": "Referer",
-            "value": "https://portal.app.flow.com.py/"
-          }
-        ],
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-            
+        "url": "https://streamtpnew.com/global1.php?stream=espn7"
+       },      
        {
         "name": "ESPN PREMIUM ",
         "url": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8",
