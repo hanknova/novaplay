@@ -263,22 +263,10 @@
         "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8"
       },
       {
-        "name": "CANAL 4",
-        "info": "San Juan",
-        "icono": "https://i.ibb.co/kjJk592/image.png",
-        "url": "http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
-      },
-      {
         "name": "CANAL 34",
         "info": "San Juan",
         "icono": "https://i.ibb.co/6JXgDyPk/image.png",
         "url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
-      },
-       {
-        "name": "CATAMARCA TV",
-        "info": "RADIO/TV",
-        "icono": "https://i.ibb.co/Q7msJV6J/image.png",
-        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/.m3u8"
       },
        {
         "name": "TN",
