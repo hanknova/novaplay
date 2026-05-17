@@ -538,11 +538,6 @@
       },
       {
         "name": "DIRECTV SPORTS",
-        "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
-      },
-      {
-        "name": "DIRECTV SPORTS",
         "info": "Peru",
         "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
         "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
@@ -596,6 +591,17 @@
       {
         "name": "CLARO SPORTS",
         "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
+      },
+            {
+        "name": "CLARO SPORTS",
+        "info": "Señal Extra",        
+        "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
+      },
+            {
+        "name": "CLARO SPORTS MX",
+        "url": "http://181.78.109.48:9998/play/a06u/index.m3u8",
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       }
     ]
@@ -995,12 +1001,6 @@
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-26.playlist.m3u8",
         "icono": "https://i.ibb.co/hJMHmsy9/image.png"
       },
-      {
-        "name": "DISCOVERY CHANNEL",
-        "status": "false",
-        "icono": "https://i.ibb.co/KzK3qZMG/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-44.playlist.m3u8"
-      },
        {
         "name": "DISCOVERY H&H",
          "icono": "https://i.ibb.co/PvsDWh2Q/image.png",
@@ -1011,12 +1011,6 @@
         "status": "false",
         "icono": "https://i.ibb.co/yFyT373t/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-50.playlist.m3u8"
-      },
-       {
-        "name": "HISTORY",
-         "status": "false",
-        "icono": "https://i.ibb.co/fVDKcp3S/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40.playlist.m3u8"
       },
       {
         "name": "GARAGE TV",
