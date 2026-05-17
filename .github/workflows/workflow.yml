@@ -11,7 +11,7 @@ jobs:
 
     permissions:
       contents: write
-      workflows: write
+      actions: write
 
     steps:
       - name: Clonar repo original como mirror
