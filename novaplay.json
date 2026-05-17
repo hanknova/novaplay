@@ -824,6 +824,12 @@
         "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
         "icono": "https://i.ibb.co/3mN9Wb0K/image.png"
       },
+       {
+        "name": "CNN",
+        "info": "Brasil",
+        "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
+        "icono": "https://i.ibb.co/LzQZP2Sf/image.png"
+      },
       {
         "name": "DW",
         "info": "En Español",
