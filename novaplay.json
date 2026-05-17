@@ -559,7 +559,17 @@
         "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
         "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
-  }
+  },
+       {
+        "name": "TYC SPORTS FAN",
+        "icono": "https://i.ibb.co/5WKwQfYb/image.png",
+        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+      },
+      {
+        "name": "CLARO SPORTS",
+        "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
+        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
+      }
     ]
   },
   
@@ -723,65 +733,6 @@
         "icono": "https://i.ibb.co/WpcVSV2G/image.png"
       }
     ]
-  },
-  {
-    "type": "category",
-    "image": "https://i.ibb.co/60QvHcnr/R-2.png",
-    "title": "⚽DEPORTES⚽",
-    "items": [
-      {
-        "name": "TYC SPORTS FAN",
-        "icono": "https://i.ibb.co/5WKwQfYb/image.png",
-        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
-      },
-      {
-        "name": "CLARO SPORTS",
-        "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
-        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
-      },
-      {
-        "name": "MOVISTAR - LA LIGA",
-        "status": "false",
-        "url": "http://fastream.xyz:8080/live/Moont2025*34/3mLW3GXBzh4T/495.m3u8",
-        "icono": "https://i.ibb.co/20jn91fq/image.png"
-      }
-    ]
-  },
-  {
-    "type": "category",
-    "image": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-    "title": "⚽DSPORT⚽",
-    "items": [
-      {
-        "name": "DIRECTV SPORTS",
-        "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
-      },
-      {
-        "name": "DIRECTV SPORTS",
-        "info": "Señal Extra",
-        "url": "http://201.230.121.85:8000/play/a0yv/index.m3u8",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
-      },
-      {
-        "name": "DIRECTV SPORTS 2",
-        "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png"
-      },
-      {
-        "name": "DIRECTV SPORTS 2",
-        "info": "Señal Extra",
-        "url": "https://streamtpnew.com/global1.php?stream=dsports2",
-        "icono": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
-  },
-  {
-        "name": "DIRECTV SPORTS PLUS",
-        "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
-        "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
-  }
-      ]
   },
   {
     "type": "category",
