@@ -641,6 +641,16 @@
         "info": "Señal Extra",
         "url": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
+      },
+            {
+        "name": "HGTV",
+        "url": "http://190.0.247.38:8000/play/a00u",
+        "icono": "https://i.ibb.co/WpcVSV2G/image.png"
+      },
+      {
+        "name": "DE PELICULA",
+        "url": "http://190.0.247.38:8000/play/a01j",
+        "icono": "https://i.ibb.co/99SyPrbJ/image.png"
       }
     ]
   },
@@ -2267,7 +2277,7 @@
         "name": "Señal No Asignada",
          "loop": "true", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://goo.su/gGaYX"
+        "url": "https://goo.su/KoXJ"
       }
     ]
   }
