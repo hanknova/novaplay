@@ -871,6 +871,16 @@
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
     "title": "VARIADOS - INTERNACIONALES",
     "items": [
+      {
+        "name": "GARAGE TV",
+        "icono": "https://i.ibb.co/dsztVcvP/image.png",
+        "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
+      },
+       {
+        "name": "UNIVISION",
+        "url": "http://177.10.184.193:8000/play/a0a7/index.m3u8",
+        "icono": "https://i.ibb.co/fzTdSP8F/image.png"
+      },
        {
         "name": "UCL",
          "info": "Uruguay",
@@ -999,57 +1009,6 @@
         "name": "DISNEY JR",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
         "url": "http://190.0.247.38:8000/play/a00f"
-      }
-    ]
-  },
-  {
-    "type": "category",
-    "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
-    "title": "CANALES INTERNACIONAL",
-    "items": [
-      {
-        "name": "TVE",
-        "status": "false",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-23.playlist.m3u8",
-        "icono": "https://i.ibb.co/sM9vjmV/image.png"
-      },
-      {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "status": "false",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-26.playlist.m3u8",
-        "icono": "https://i.ibb.co/hJMHmsy9/image.png"
-      },
-       {
-        "name": "DISCOVERY H&H",
-         "icono": "https://i.ibb.co/PvsDWh2Q/image.png",
-        "url": "https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/12.m3u8"
-      },
-      {
-        "name": "MTV",
-        "status": "false",
-        "icono": "https://i.ibb.co/yFyT373t/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-50.playlist.m3u8"
-      },
-      {
-        "name": "GARAGE TV",
-        "icono": "https://i.ibb.co/dsztVcvP/image.png",
-        "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
-      },
-       {
-        "name": "ID - INVESTIGATION DISCOVERY",
-         "status": "false",
-        "icono": "https://i.ibb.co/Kc7V9LtX/image.png",
-        "url": "http://177.10.184.193:8000/play/a0a8/index.m3u8"
-      },
-      {
-        "name": "ANIMAL PLANET",
-        "icono": "https://i.ibb.co/LWxZ307/image.png",
-        "url": "http://177.10.184.193:8000/play/a0cw/index.m3u8"
-      },
-      {
-        "name": "UNIVISION",
-        "url": "http://177.10.184.193:8000/play/a0a7/index.m3u8",
-        "icono": "https://i.ibb.co/fzTdSP8F/image.png"
       }
     ]
   },
