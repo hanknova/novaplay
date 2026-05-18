@@ -784,9 +784,29 @@
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
       },
       {
+        "name": "DISCOVERY H&H",
+        "icono": "https://i.ibb.co/20WP0XmJ/image.png",
+        "url": "http://cablemaxsigloxxi.com:8000/play/a080/index.m3u8?hls"
+      },
+            {
+        "name": "DISCOVERY THEATER",
+        "icono": "https://i.ibb.co/x8h0Lmp0/image.png",
+        "url": "http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls"
+      },
+       {
+        "name": "DISCOVERY SCIENCE",
+        "icono": "https://i.ibb.co/5Wx5R2nH/image.png",
+        "url": "http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls"
+      },
+      {
         "name": "DISCOVERY TURBO",
         "icono": "https://i.ibb.co/LX1JWdhH/image.png",
         "url": "http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls"
+      },
+            {
+        "name": "DISCOVERY WORLD",
+        "icono": "https://i.ibb.co/KpvXmvV9/image.png",
+        "url": "http://cablemaxsigloxxi.com:8000/play/a086/index.m3u8?hls"
       },
       {
         "name": "SUN CHANNEL",
@@ -999,8 +1019,7 @@
       },
       {
         "name": "DISNEY CHANNEL",
-        "status": "false",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32_720.m3u8",
+        "url": "http://cablemaxsigloxxi.com:8000/play/a0sx/index.m3u8?hls",
         "icono": "https://lokos.pages.dev/webp/logos/disney.webp"
       },
       {
