@@ -4,63 +4,59 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>NovaPlay Admin Panel</title>
+<title>NovaPlay Admin</title>
 
 <style>
 
 body{
   margin:0;
-  font-family:Arial;
-  background:#0f1115;
+  font-family:system-ui, Arial;
+  background:#0b0f14;
   color:#fff;
 }
 
-.container{
-  max-width:520px;
+/* layout */
+.wrapper{
+  max-width:600px;
   margin:auto;
   padding:20px;
 }
 
+/* card */
 .card{
-  background:#161a22;
+  background:#121824;
+  border:1px solid #1f2a3a;
+  border-radius:16px;
   padding:20px;
-  border-radius:14px;
-  box-shadow:0 10px 30px rgba(0,0,0,0.4);
+  box-shadow:0 10px 30px rgba(0,0,0,0.35);
 }
 
+/* title */
 h1{
-  font-size:20px;
-  margin-bottom:20px;
+  font-size:18px;
+  margin-bottom:15px;
 }
 
-label{
-  font-size:12px;
-  opacity:0.7;
-}
-
+/* inputs */
 input, select, textarea{
   width:100%;
   padding:12px;
-  margin-top:5px;
-  margin-bottom:15px;
-  border:none;
+  margin-top:6px;
+  margin-bottom:14px;
   border-radius:10px;
-  background:#0f1115;
+  border:1px solid #2a3445;
+  background:#0e141d;
   color:#fff;
   outline:none;
 }
 
-textarea{
-  height:80px;
-  resize:none;
-}
-
+/* button */
 button{
   width:100%;
   padding:14px;
-  background:#00bcd4;
   border:none;
   border-radius:10px;
+  background:#00d0ff;
   color:#000;
   font-weight:bold;
   cursor:pointer;
@@ -70,6 +66,20 @@ button:hover{
   opacity:0.9;
 }
 
+/* section */
+.section-title{
+  font-size:12px;
+  opacity:0.6;
+  margin-top:10px;
+  margin-bottom:5px;
+}
+
+/* hidden block animation */
+.hidden{
+  display:none;
+}
+
+/* status */
 .status{
   margin-top:10px;
   font-size:13px;
@@ -77,65 +87,56 @@ button:hover{
   opacity:0.8;
 }
 
-.badge{
-  display:inline-block;
-  padding:3px 8px;
-  background:#2a2f3a;
-  border-radius:8px;
-  font-size:11px;
-  margin-bottom:10px;
-}
-
 </style>
 </head>
 
 <body>
 
-<div class="container">
+<div class="wrapper">
 
   <div class="card">
 
-    <div class="badge">NovaPlay Admin</div>
+    <h1>NovaPlay Panel</h1>
 
-    <h1>Agregar Canal</h1>
+    <div class="section-title">Categoría</div>
+    <select id="category"></select>
 
-    <label>Categoría</label>
-    <select id="category">
-      <option>Cargando...</option>
-    </select>
+    <div class="section-title">Información básica</div>
 
-    <label>Nombre</label>
-    <input id="name" placeholder="Ej: ESPN HD">
+    <input id="name" placeholder="Nombre del canal">
+    <input id="url" placeholder="URL stream">
+    <input id="logo" placeholder="Logo URL">
 
-    <label>URL Stream</label>
-    <input id="url" placeholder="https://...m3u8">
+    <input id="info" placeholder="Info (Ej: Español)">
+    <textarea id="texto" placeholder="Descripción"></textarea>
 
-    <label>Logo</label>
-    <input id="logo" placeholder="https://logo.png">
-
-    <label>Info</label>
-    <input id="info" placeholder="En Español">
-
-    <label>Texto adicional</label>
-    <textarea id="texto"></textarea>
-
-    <label>NSFW</label>
+    <div class="section-title">NSFW</div>
     <select id="nsfw">
       <option value="no">No</option>
       <option value="yes">Sí</option>
     </select>
 
-    <label>Protección</label>
-    <select id="protection">
+    <div class="section-title">Protección</div>
+    <select id="protection" onchange="toggleProtection()">
       <option value="no">No</option>
       <option value="yes">Sí</option>
     </select>
 
-    <input id="referer" placeholder="Referer">
-    <input id="drmType" placeholder="DRM Type">
-    <input id="license" placeholder="License URL">
+    <!-- SOLO SI PROTECCIÓN = YES -->
+    <div id="protectBox" class="hidden">
 
-    <button onclick="send()">Enviar Canal</button>
+      <div class="section-title">Referer</div>
+      <input id="referer" placeholder="https://...">
+
+      <div class="section-title">DRM Type</div>
+      <input id="drmType" placeholder="widevine / playready">
+
+      <div class="section-title">License URL</div>
+      <input id="license" placeholder="https://license...">
+
+    </div>
+
+    <button onclick="send()">Agregar Canal</button>
 
     <div class="status" id="status"></div>
 
@@ -148,33 +149,32 @@ button:hover{
 const API =
 "https://api.github.com/repos/ThedarkSoldier996/test/dispatches";
 
-const RAW_JSON =
+const RAW =
 "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json";
 
+/* cargar categorias */
 async function loadCategories(){
 
   try{
 
-    const res = await fetch(RAW_JSON + "?t=" + Date.now());
+    const res = await fetch(RAW + "?t=" + Date.now());
     const data = await res.json();
 
     const select = document.getElementById("category");
     select.innerHTML = "";
 
-    const categories = data.filter(
-      c => c.type === "category"
-    );
+    data
+      .filter(x => x.type === "category")
+      .forEach(cat => {
 
-    categories.forEach(cat => {
+        const opt = document.createElement("option");
 
-      const option = document.createElement("option");
+        opt.value = cat.title;
+        opt.textContent = cat.title;
 
-      option.value = cat.title;
-      option.textContent = cat.title;
+        select.appendChild(opt);
 
-      select.appendChild(option);
-
-    });
+      });
 
   }catch(e){
 
@@ -184,21 +184,33 @@ async function loadCategories(){
   }
 }
 
+/* mostrar/ocultar protección */
+function toggleProtection(){
+
+  const val =
+    document.getElementById("protection").value;
+
+  document.getElementById("protectBox").style.display =
+    val === "yes" ? "block" : "none";
+}
+
+/* enviar */
 async function send(){
 
   const payload = {
 
-    category: document.getElementById("category").value,
-    name: document.getElementById("name").value,
-    url: document.getElementById("url").value,
-    logo: document.getElementById("logo").value,
-    info: document.getElementById("info").value,
-    texto: document.getElementById("texto").value,
-    nsfw: document.getElementById("nsfw").value,
-    protection: document.getElementById("protection").value,
-    referer: document.getElementById("referer").value,
-    drmType: document.getElementById("drmType").value,
-    license: document.getElementById("license").value
+    category: category.value,
+    name: name.value,
+    url: url.value,
+    logo: logo.value,
+    info: info.value,
+    texto: texto.value,
+    nsfw: nsfw.value,
+
+    protection: protection.value,
+    referer: referer.value,
+    drmType: drmType.value,
+    license: license.value
 
   };
 
@@ -207,7 +219,7 @@ async function send(){
 
   try{
 
-    await fetch(API, {
+    await fetch(API,{
       method:"POST",
       headers:{
         "Accept":"application/vnd.github+json",
@@ -220,15 +232,14 @@ async function send(){
     });
 
     document.getElementById("status").innerText =
-      "Canal enviado ✔";
+      "Canal agregado ✔";
 
   }catch(e){
 
     document.getElementById("status").innerText =
-      "Error al enviar";
+      "Error";
 
   }
-
 }
 
 loadCategories();
