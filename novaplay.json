@@ -891,6 +891,11 @@
     "title": "VARIADOS - INTERNACIONALES",
     "items": [
       {
+      "name": "AZTECA INTERNACIONAL",
+      "url": "https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8",
+      "icono": "https://i.ibb.co/0VtYrtXD/image.png"
+      },
+      {
         "name": "VIVO LATINO",
         "info": "Música",
         "icono": "https://i.ibb.co/DHDVCk10/image.png",
