@@ -784,6 +784,11 @@
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
       },
       {
+        "name": "DISCOVERY TURBO",
+        "icono": "https://i.ibb.co/LX1JWdhH/image.png",
+        "url": "http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls"
+      },
+      {
         "name": "SUN CHANNEL",
         "url": "http://138.121.12.126:8000/play/a02u/index.m3u8",
         "icono": "https://i.ibb.co/BFsJVVG/image.png"
@@ -1020,9 +1025,8 @@
       },
       {
         "name": "DISCOVERY KIDS",
-        "status": "false",
         "icono": "https://i.ibb.co/nqqVw9dY/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-34.playlist.m3u8"
+        "url": "http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls"
       },
       {
         "name": "NICK JR",
