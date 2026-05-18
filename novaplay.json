@@ -2285,6 +2285,7 @@
         "name": "Señal No Asignada",
          "loop": "true", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "nsfw":"yes",  
         "url": "https://goo.su/KoXJ"
       }
     ]
