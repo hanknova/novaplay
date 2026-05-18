@@ -10,11 +10,11 @@
 
 *{
   box-sizing:border-box;
-  font-family:system-ui;
 }
 
 body{
   margin:0;
+  font-family:system-ui, Arial;
   background:#0a0d12;
   color:#fff;
 }
@@ -23,28 +23,31 @@ body{
 .app{
   display:flex;
   height:100vh;
+  overflow:hidden;
 }
 
 /* sidebar */
 .sidebar{
-  width:220px;
+  width:240px;
   background:#0f141c;
   border-right:1px solid #1f2a3a;
-  padding:15px;
+  padding:12px;
   overflow-y:auto;
 }
 
-.sidebar h2{
-  font-size:14px;
-  opacity:0.7;
+.sidebar h3{
+  font-size:13px;
+  opacity:0.6;
+  margin-bottom:10px;
 }
 
 .cat{
   padding:10px;
-  margin:5px 0;
+  margin-bottom:6px;
   border-radius:8px;
-  cursor:pointer;
   background:#151c27;
+  cursor:pointer;
+  font-size:13px;
 }
 
 .cat:hover{
@@ -54,31 +57,14 @@ body{
 /* main */
 .main{
   flex:1;
-  padding:20px;
+  padding:16px;
   overflow-y:auto;
-}
-
-/* top bar */
-.topbar{
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  margin-bottom:15px;
-}
-
-button{
-  background:#00d0ff;
-  border:none;
-  padding:10px 14px;
-  border-radius:8px;
-  cursor:pointer;
-  font-weight:bold;
 }
 
 /* grid */
 .grid{
   display:grid;
-  grid-template-columns:repeat(auto-fill, minmax(160px,1fr));
+  grid-template-columns:repeat(auto-fill, minmax(140px,1fr));
   gap:12px;
 }
 
@@ -86,57 +72,43 @@ button{
 .card{
   background:#121a25;
   border:1px solid #1f2a3a;
-  padding:12px;
   border-radius:12px;
-  cursor:pointer;
+  padding:10px;
+  text-align:center;
+  transition:0.2s;
+}
+
+.card:hover{
+  transform:scale(1.03);
 }
 
 .card img{
   width:100%;
-  height:80px;
+  height:70px;
   object-fit:contain;
+}
+
+.name{
+  font-size:12px;
+  margin-top:6px;
+}
+
+/* header */
+.top{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:12px;
 }
 
 .badge{
   font-size:10px;
+  background:#ff2d55;
   padding:2px 6px;
   border-radius:6px;
-  background:red;
+  margin-top:4px;
   display:inline-block;
-  margin-top:5px;
 }
-
-/* modal */
-.modal{
-  position:fixed;
-  top:0;
-  left:0;
-  width:100%;
-  height:100%;
-  background:rgba(0,0,0,0.7);
-  display:none;
-  justify-content:center;
-  align-items:center;
-}
-
-.modal-content{
-  width:400px;
-  background:#121a25;
-  padding:20px;
-  border-radius:12px;
-}
-
-input, select, textarea{
-  width:100%;
-  margin-bottom:10px;
-  padding:10px;
-  background:#0f141c;
-  border:1px solid #1f2a3a;
-  color:#fff;
-  border-radius:8px;
-}
-
-.hidden{ display:none; }
 
 </style>
 </head>
@@ -147,16 +119,15 @@ input, select, textarea{
 
   <!-- SIDEBAR -->
   <div class="sidebar">
-    <h2>CATEGORÍAS</h2>
+    <h3>CATEGORÍAS</h3>
     <div id="cats"></div>
   </div>
 
   <!-- MAIN -->
   <div class="main">
 
-    <div class="topbar">
-      <h3>Canales</h3>
-      <button onclick="openModal()">+ Agregar</button>
+    <div class="top">
+      <h3 id="title">Canales</h3>
     </div>
 
     <div class="grid" id="grid"></div>
@@ -165,192 +136,107 @@ input, select, textarea{
 
 </div>
 
-<!-- MODAL -->
-<div class="modal" id="modal">
-
-  <div class="modal-content">
-
-    <h3>Nuevo Canal</h3>
-
-    <select id="category"></select>
-
-    <input id="name" placeholder="Nombre">
-    <input id="url" placeholder="URL">
-    <input id="logo" placeholder="Logo">
-
-    <select id="nsfw">
-      <option value="no">Normal</option>
-      <option value="yes">NSFW</option>
-    </select>
-
-    <select id="protection" onchange="toggle()">
-      <option value="no">Sin protección</option>
-      <option value="yes">Con protección</option>
-    </select>
-
-    <div id="prot" class="hidden">
-
-      <input id="referer" placeholder="Referer">
-      <input id="drmType" placeholder="DRM">
-      <input id="license" placeholder="License">
-
-    </div>
-
-    <button onclick="send()">Guardar</button>
-    <button onclick="closeModal()">Cerrar</button>
-
-  </div>
-
-</div>
-
 <script>
-
-const API =
-"https://api.github.com/repos/ThedarkSoldier996/test/dispatches";
 
 const RAW =
 "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json";
 
-/* cargar data */
 let DATA = [];
 
+/* INIT */
 async function load(){
 
   const res = await fetch(RAW + "?t=" + Date.now());
   DATA = await res.json();
 
-  renderCats();
-  renderGrid(DATA);
+  renderCategories();
 
-  loadSelect();
 }
 
-/* categorias sidebar */
-function renderCats(){
+/* FILTRO GLOBAL */
+function isAllowed(text){
+
+  if(!text) return true;
+
+  const t = text.toLowerCase();
+
+  return !t.includes("pluto") &&
+         !t.includes("pluto tv") &&
+         !t.includes("rakuten") &&
+         !t.includes("rakuten tv");
+}
+
+/* CATEGORÍAS */
+function renderCategories(){
 
   const el = document.getElementById("cats");
   el.innerHTML = "";
 
   DATA
-    .filter(x =>
-      x.type === "category" &&
-      !x.title.toLowerCase().includes("pluto") &&
-      !x.title.toLowerCase().includes("rakuten")
+    .filter(c =>
+      c.type === "category" &&
+      isAllowed(c.title)
     )
-    .forEach(c => {
+    .forEach(cat => {
 
       const div = document.createElement("div");
       div.className = "cat";
-      div.innerText = c.title;
+
+      div.innerHTML = `
+        ${cat.title}
+        <div style="font-size:10px;opacity:0.5;">
+          ${(cat.channels || []).length} canales
+        </div>
+      `;
 
       div.onclick = () => {
-
-        const cat = DATA.find(x => x.title === c.title);
-
-        renderGrid(cat.channels || []);
-
+        renderChannels(cat.channels || []);
       };
 
       el.appendChild(div);
 
     });
 
+  // auto primera categoría
+  const first = DATA.find(x =>
+    x.type === "category"
+  );
+
+  if(first){
+    renderChannels(first.channels || []);
+  }
 }
 
-/* grid canales */
-function renderGrid(channels){
+/* CANALES */
+function renderChannels(channels){
 
   const grid = document.getElementById("grid");
   grid.innerHTML = "";
 
-  channels.forEach(ch => {
+  document.getElementById("title").innerText =
+    "Canales";
 
-    const card = document.createElement("div");
-    card.className = "card";
+  channels
+    .filter(ch =>
+      isAllowed(ch.name)
+    )
+    .forEach(ch => {
 
-    card.innerHTML = `
-      <img src="${ch.logo || ''}">
-      <div>${ch.name}</div>
-      ${ch.nsfw === "yes" ? '<div class="badge">NSFW</div>' : ''}
-    `;
+      const card = document.createElement("div");
+      card.className = "card";
 
-    grid.appendChild(card);
+      card.innerHTML = `
+        <img src="${ch.logo || ''}">
+        <div class="name">${ch.name}</div>
+        ${ch.nsfw === "yes"
+          ? '<div class="badge">NSFW</div>'
+          : ''
+        }
+      `;
 
-  });
+      grid.appendChild(card);
 
-}
-
-/* select categorias */
-function loadSelect(){
-
-  const sel = document.getElementById("category");
-  sel.innerHTML = "";
-
-  DATA.filter(x => x.type === "category")
-      .forEach(c => {
-
-        const opt = document.createElement("option");
-        opt.value = c.title;
-        opt.innerText = c.title;
-
-        sel.appendChild(opt);
-
-      });
-
-}
-
-/* modal */
-function openModal(){
-  modal.style.display="flex";
-}
-
-function closeModal(){
-  modal.style.display="none";
-}
-
-/* proteccion */
-function toggle(){
-
-  prot.style.display =
-    protection.value === "yes"
-    ? "block"
-    : "none";
-
-}
-
-/* enviar */
-async function send(){
-
-  const payload = {
-
-    category: category.value,
-    name: name.value,
-    url: url.value,
-    logo: logo.value,
-
-    nsfw: nsfw.value,
-
-    protection: protection.value,
-    referer: referer.value,
-    drmType: drmType.value,
-    license: license.value
-
-  };
-
-  await fetch(API,{
-    method:"POST",
-    headers:{
-      "Content-Type":"application/json"
-    },
-    body:JSON.stringify({
-      event_type:"add_channel",
-      client_payload:payload
-    })
-  });
-
-  alert("Enviado ✔");
-
-  closeModal();
+    });
 
 }
 
