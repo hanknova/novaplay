@@ -8,17 +8,13 @@ permissions:
   contents: write
 
 jobs:
-
   update-json:
-
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
 
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Update JSON
+      - name: Update novaplay.json
         run: |
 
           python <<EOF
@@ -30,28 +26,26 @@ jobs:
           with open(FILE, "r", encoding="utf8") as f:
               data = json.load(f)
 
-          category = """${{ github.event.client_payload.category }}"""
-          name = """${{ github.event.client_payload.name }}"""
-          url = """${{ github.event.client_payload.url }}"""
-          logo = """${{ github.event.client_payload.logo }}"""
+          payload = "${{ github.event.client_payload }}"
 
-          info = """${{ github.event.client_payload.info }}"""
-          texto = """${{ github.event.client_payload.texto }}"""
-          nsfw = """${{ github.event.client_payload.nsfw }}"""
+          category = "${{ github.event.client_payload.category }}"
+          name = "${{ github.event.client_payload.name }}"
+          url = "${{ github.event.client_payload.url }}"
+          logo = "${{ github.event.client_payload.logo }}"
+          info = "${{ github.event.client_payload.info }}"
+          texto = "${{ github.event.client_payload.texto }}"
+          nsfw = "${{ github.event.client_payload.nsfw }}"
 
-          protection = """${{ github.event.client_payload.protection }}"""
-
-          referer = """${{ github.event.client_payload.referer }}"""
-          drm_type = """${{ github.event.client_payload.drmType }}"""
-          license_uri = """${{ github.event.client_payload.license }}"""
+          protection = "${{ github.event.client_payload.protection }}"
+          referer = "${{ github.event.client_payload.referer }}"
+          drm_type = "${{ github.event.client_payload.drmType }}"
+          license_uri = "${{ github.event.client_payload.license }}"
 
           new_channel = {
               "name": name,
               "url": url,
               "logo": logo
           }
-
-          # opcionales
 
           if info:
               new_channel["info"] = info
@@ -62,46 +56,30 @@ jobs:
           if nsfw == "yes":
               new_channel["nsfw"] = "yes"
 
-          # protección
-
           if protection == "yes":
-
               if referer:
                   new_channel["referer"] = referer
-
               if drm_type:
                   new_channel["type"] = drm_type
-
               if license_uri:
                   new_channel["drm_license_uri"] = license_uri
 
-          category_found = False
+          # buscar categoría
+          found = False
 
           for item in data:
+              if item.get("type") == "category" and item.get("name") == category:
 
-              if (
-                  item.get("type") == "category"
-                  and item.get("name") == category
-              ):
+                  item.setdefault("channels", [])
 
-                  if "channels" not in item:
-                      item["channels"] = []
-
-                  exists = any(
-                      ch.get("url") == url
-                      for ch in item["channels"]
-                  )
-
-                  if not exists:
+                  if not any(ch.get("url") == url for ch in item["channels"]):
                       item["channels"].append(new_channel)
 
-                  category_found = True
+                  found = True
                   break
 
-          # crear categoría automática
-
-          if not category_found:
-
+          # si no existe crearla
+          if not found:
               data.append({
                   "name": category,
                   "type": "category",
@@ -109,23 +87,15 @@ jobs:
               })
 
           with open(FILE, "w", encoding="utf8") as f:
-              json.dump(
-                  data,
-                  f,
-                  indent=2,
-                  ensure_ascii=False
-              )
+              json.dump(data, f, indent=2, ensure_ascii=False)
 
           EOF
 
-      - name: Commit changes
+      - name: Commit
         run: |
-
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add novaplay.json
-
-          git commit -m "Agregar canal" || exit 0
-
+          git commit -m "Add channel" || exit 0
           git push
