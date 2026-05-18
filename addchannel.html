@@ -1,0 +1,50 @@
+<script>
+
+const API =
+"https://api.github.com/repos/ThedarkSoldier996/test/dispatches";
+
+async function send(){
+
+  const category = document.getElementById("category").value;
+  const name = document.getElementById("name").value;
+  const url = document.getElementById("url").value;
+  const logo = document.getElementById("logo").value;
+
+  const info = document.getElementById("info").value;
+  const texto = document.getElementById("texto").value;
+
+  const nsfw = document.getElementById("nsfw").value;
+
+  const protection = document.getElementById("protection").value;
+  const referer = document.getElementById("referer").value;
+  const drmType = document.getElementById("drmType").value;
+  const license = document.getElementById("license").value;
+
+  await fetch(API, {
+    method: "POST",
+    headers: {
+      "Accept": "application/vnd.github+json",
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      event_type: "add_channel",
+      client_payload: {
+        category,
+        name,
+        url,
+        logo,
+        info,
+        texto,
+        nsfw,
+        protection,
+        referer,
+        drmType,
+        license
+      }
+    })
+  });
+
+  alert("Enviado a GitHub Actions");
+}
+
+</script>
