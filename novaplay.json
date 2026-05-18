@@ -625,6 +625,12 @@
         "icono": "https://i.ibb.co/rKWH0YF8/image.png"
       },
       {
+        "name": "WIN SPORTS+",
+        "url": "http://190.60.37.118:4000/play/a0bw",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/HTCTn0yX/image.png"
+      },
+      {
         "name": "FIFA+",
         "info": "Spain",
         "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
