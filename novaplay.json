@@ -2291,12 +2291,12 @@
     "items": [
      {
         "name": "Señal No Asignada",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "user":"Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37",
-       "referer":"https://trs.cdn.rcs.net.ar/",
-         "type": "widevine",
-         "drm_license_uri": "https://drm.mc.rocstar.tv/widevine/license?drmToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiIyMjY1MyIsInJvbGVzIjpbXSwibmFtZSI6Im51bGwgbnVsbCIsImN1c3RvbWVySWQiOjIxNzAyLCJleHAiOjE3NzkwNjExMzAsInR5cGUiOiJBVVRIT1JJWkFUSU9OIiwidXNlcklkIjoyMjY1MywicHJvZHVjdHMiOiJbIDc0LCAzMjcsIDI1NCwgMjEwIF0ifQ.UDWOGyBug_KgQLhBPqyZZAxEmcbdA3iQ7IhC4EDpa35pIoUPlasBeNdiQT0cJdOhzSacEEf9OZ_nx0wF5zhOcb7wKHoWZfcvSINn8br8NVGnQHQJz6UqE5nQUKOpjFJrLhb-gRQMDf5VhkuZYnOXFl5i7wfEkaU4VzrIRU0bI-WOffgNXq9KT0jU6Pm9pXhkB3JfX04jvSRYFrVQKUwVUjCXr56pwChdbKqPJg70gr7-kGTkQqFnRyywTaZTzeeGNj5lZPqeY3UH3NDy69QgjES7k4-LQjXkRqsIZOokhPlExIdj8n5sDrrwhHi1ndQLNLFIeeEAL2xgrW0Y8tYeUw",
-        "url": "https://trs.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_DASH_ENCR/Universal.mpd"
+        "info": "TEST 001",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd",
+         "type": "CLEARKEY",
+         "drm_license_uri": "8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45",
+        "referer": "https://chromecast.cvattv.com.ar/",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
 {
         "name": "Señal No Asignada",
