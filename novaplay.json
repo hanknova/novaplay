@@ -2290,12 +2290,11 @@
     "items": [
      {
         "name": "Señal No Asignada",
-        "info": "TEST 003",
-        "url": "https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?",
+        "info": "TEST 004",
+        "url": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd",
          "type": "CLEARKEY",
-         "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GQTE2EapnpQJAxdL26t08A\",\"k\":\"CKTKlyzQN6H-BCUVwxC_4Q\"}],\"type\":\"temporary\"}",
-       "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
-        "referer": "https://webclient.ctcplus.com.ar/",
+         "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/warnertest.json",
+        "referer": "https://portal.app.flow.com.ar/",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
 {
@@ -2320,7 +2319,7 @@
           "info": "TEST SEÑAL 3",
          "loop": "true", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "loader":"no",
+        "loader":"yes",
         "nsfw":"yes",  
         "url": "https://goo.su/KoXJ"
       }
