@@ -2309,15 +2309,27 @@
       },
        {
         "name": "Señal No Asignada",
-         "info": "TUDN USA TEST 1",
+         "info": "Tv Publica ARG TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8"
+         "url": "http://45.5.149.220:8000/play/a03g/index.m3u8?hls"
       },
        {
         "name": "Señal No Asignada",
-         "info": "TUDN MX TEST 1",
+         "info": "C5N TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "http://45.5.119.43:4000/play/a05q/index.m3u8"
+         "url": "http://181.13.252.102:8000/play/a01p/index.m3u8?hls"
+      },
+      {
+        "name": "Señal No Asignada",
+         "info": "TOONCAST TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+         "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls"
+      },
+       {
+        "name": "Señal No Asignada",
+         "info": "CRONICA TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+         "url": "http://45.5.149.220:8000/play/a037/index.m3u8?hls"
       },
           
         {
