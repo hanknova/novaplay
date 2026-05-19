@@ -101,7 +101,7 @@
       },
       {
         "name": "TELEFUTURO",
-        "opt":"yes",
+        "status":"false",
         "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
@@ -113,13 +113,6 @@
             {
         "name": "SNT",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
-        "icono": "https://i.ibb.co/SCdymVh/image.png"
-      },
-      {
-        "name": "SNT",
-        "info":"Señal Extra",
-        "status":"false",
-        "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
         "icono": "https://i.ibb.co/SCdymVh/image.png"
       },
       {
