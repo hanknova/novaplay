@@ -6,7 +6,7 @@
     "items": [
             {
         "name": "NOVASPORTS",
-        "info": "Tigo Sports PY - TEST 24/7",
+        "info": "Tigo Sports PY - 24/7",
         "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
@@ -102,12 +102,6 @@
       {
         "name": "TELEFUTURO",
         "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
-        "icono": "https://i.ibb.co/4wMg7y8X/image.png"
-      },
-      {
-        "name": "TELEFUTURO",
-        "info": "Señal Extra",
-        "url": "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w742318169.m3u8",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
       {
