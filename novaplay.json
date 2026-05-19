@@ -596,15 +596,8 @@
         "icono": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
   },
-       {
-        "name": "SKY SPORTS",
-        "opt":"yes", 
-        "url": "http://45.5.119.43:4000/play/a05r/index.m3u8",
-       "icono": "https://i.ibb.co/r2y0gQgc/image.png"
-      },
-             {
-        "name": "SKY SPORTS",
-        "info": "Señal Extra",  
+      {
+        "name": "SKY SPORTS", 
         "url": "http://181.78.109.48:9998/play/a06r/index.m3u8 ",
        "icono": "https://i.ibb.co/r2y0gQgc/image.png"
       },
@@ -703,12 +696,6 @@
        "name": "TLN",
        "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
        "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
-      },
-      {
-        "name": "RETRO X TV",
-        "status":"false",
-        "url": "https://live20.bozztv.com/giatv/giatv-RTVN/RTVN/playlist.m3u8",
-        "icono": "https://i.ibb.co/MkX4XXrZ/image.png"
       },
       {
         "name": "TNT NOVELAS",
