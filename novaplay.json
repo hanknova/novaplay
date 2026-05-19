@@ -2291,7 +2291,7 @@
     "items": [
      {
         "name": "Señal No Asignada",
-        "info": "TEST 002",
+        "info": "TEST 003",
         "url": "https://cdn.sensa.com.ar/live/eds/Deportv/live_dash_cld/Deportv.mpd?",
          "type": "CLEARKEY",
          "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GQTE2EapnpQJAxdL26t08A\",\"k\":\"CKTKlyzQN6H-BCUVwxC_4Q\"}],\"type\":\"temporary\"}",
