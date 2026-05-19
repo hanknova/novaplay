@@ -2319,7 +2319,7 @@
           "info": "TEST SEÑAL 3",
          "loop": "true", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "loader":"yes",
+        "loader":"no",
         "nsfw":"yes",  
         "url": "https://goo.su/KoXJ"
       }
