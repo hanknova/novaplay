@@ -101,8 +101,13 @@
       },
       {
         "name": "TELEFUTURO",
-        "status":"false",
-        "url": "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
+        "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
+        "icono": "https://i.ibb.co/4wMg7y8X/image.png"
+      },
+      {
+        "name": "TELEFUTURO",
+        "info": "Señal Extra",
+        "url": "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/chunklist_w742318169.m3u8",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
       {
