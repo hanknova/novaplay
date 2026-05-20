@@ -2329,6 +2329,7 @@
        {
         "name": "Señal No Asignada",
          "info": "AMERICA PY TEST",
+         "escalado":"yes",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
          "url": "https://cdn.cvattv.com.ar/live/c4eds/America_PY/sa_hls_full_e_95AEFABF606F67368D62A486/America_PY.m3u8",
           "drm_license_uri": "4e4a187474de8e29a8507d496c8a594f:daab5ccf306d67749740f7ce02c07850"
