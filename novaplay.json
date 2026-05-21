@@ -2312,103 +2312,13 @@
 {
         "name": "Señal No Asignada",
         "info": "TEST1",
+        "vpn": "yes",
         "url": "https://cdn.bitmovin.com/content/assets/art-of-motion_drm/mpds/11331.mpd",
          "type": "widevine",
          "drm_license_uri": "https://cwip-shaka-proxy.appspot.com/no_auth",
          "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "referer": "https://bitmovin.com/",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-
-       {
-        "name": "Señal No Asignada",
-         "info": "AMERICA PY TEST",
-          "vpn":"yes", 
-         "escalado":"yes",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c4eds/America_PY/sa_hls_full_e_95AEFABF606F67368D62A486/America_PY.m3u8",
-          "drm_license_uri": "4e4a187474de8e29a8507d496c8a594f:daab5ccf306d67749740f7ce02c07850"
-      },
-             {
-        "name": "Señal No Asignada",
-         "info": "TV CAMARA TEST",
-         "escalado":"yes",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/sa_hls_full_e_95AEFABF606F67368D62A486/TV_Camara.m3u8",
-          "drm_license_uri": "9357704ade444dc3b23be89865af2f58:3d03e0a79d8f7b7aa2897c3d24bd4b6a"
-      },
-      {
-        "name": "Señal No Asignada",
-         "info": "SUR TV TEST",
-         "escalado":"yes",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/sa_hls_full_e_95AEFABF606F67368D62A486/SUR_TV_C4.m3u8",
-          "drm_license_uri": "988ae4e8408981609ded9f8b23bbf79d:b867c66791bcad67ee142be1e21c2577"
-      },
-      {
-        "name": "Señal No Asignada",
-         "info": "PARAVISION TEST",
-         "escalado":"yes",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/sa_hls_full_e_95AEFABF606F67368D62A486/PARAVISION_C4.m3u8",
-          "drm_license_uri": "bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91"
-      },
-      {
-        "name": "Señal No Asignada",
-         "info": "ABC TV TEST",
-         "escalado":"yes",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/sa_hls_full_e_95AEFABF606F67368D62A486/ABC_TV_C4.m3u8",
-          "drm_license_uri": "c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff"
-      },
-      {
-        "name": "Señal No Asignada",
-         "info": "CANAL 12 POSADAS TEST",
-         "escalado":"yes",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/sa_hls_full_e_95AEFABF606F67368D62A486/CH_12_Posadas.m3u8",
-          "drm_license_uri": "9c996a1465acddc9c3f7a2dd9b86aa88:a2b63e48c99bebb52bfcdb1830efdd3e"
-      },
-       {
-        "name": "Señal No Asignada",
-        "info": "SIN TEST :C 001",
-        "escalado":"yes",
-        "loader":"yes",
-        "nsfw":"yes",  
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c6eds/Venus/sa_hls_full_e_95AEFABF606F67368D62A486/Venus.m3u8",
-          "drm_license_uri": "34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af"
-      },
-       {
-        "name": "Señal No Asignada",
-        "info": "SIN TEST :C 002",
-        "escalado":"yes",
-        "loader":"yes",
-        "nsfw":"yes",  
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c6eds/Playboy/sa_hls_full_e_95AEFABF606F67368D62A486/Playboy.m3u8",
-          "drm_license_uri": "8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb"
-      },
-       {
-        "name": "Señal No Asignada",
-        "info": "SIN TEST :C 003",
-        "escalado":"yes",
-        "loader":"yes",
-        "nsfw":"yes",  
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c7eds/Hustler/sa_hls_full_e_95AEFABF606F67368D62A486/Hustler.m3u8",
-          "drm_license_uri": "cf37db556be5ee1ecd1ee1f1bcf39390:cb2d8390f9c6c39311939fb51ba42ab2"
-      },
-        {
-        "name": "Señal No Asignada",
-        "info": "SIN TEST :C 004",
-        "escalado":"yes",
-        "loader":"yes",
-        "vpn":"yes",  
-        "nsfw":"yes",  
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-         "url": "https://cdn.cvattv.com.ar/live/c6eds/Sextreme/sa_hls_full_e_95AEFABF606F67368D62A486/Sextreme.m3u8",
-          "drm_license_uri": "95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434"
       },
         {
         "name": "Señal No Asignada",
