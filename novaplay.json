@@ -2323,6 +2323,7 @@
        {
         "name": "Señal No Asignada",
          "info": "AMERICA PY TEST",
+          "vpn":"yes", 
          "escalado":"yes",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
          "url": "https://cdn.cvattv.com.ar/live/c4eds/America_PY/sa_hls_full_e_95AEFABF606F67368D62A486/America_PY.m3u8",
