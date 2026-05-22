@@ -22,6 +22,7 @@
       {
         "name": "TIGO SPORTS PY",
         "info":"Eventos 1",
+        "status": "false",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
         "type": "CLEARKEY",
@@ -31,6 +32,7 @@
       {
         "name": "TIGO SPORTS PY",
         "info":"Eventos 2",
+        "status": "false",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
         "type": "CLEARKEY",
@@ -40,6 +42,7 @@
       {
         "name": "TIGO SPORTS PY",
         "info":"Eventos 3",
+        "status": "false",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
         "type": "CLEARKEY",
