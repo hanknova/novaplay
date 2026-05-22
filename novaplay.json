@@ -2338,32 +2338,15 @@
         "url": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
-            {
-        "name": "Señal no Asignada",
-        "info":"TEST TIGO EVENTO 1",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-        "url": "https://opchannel01.tigosports.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+          {
+         "name": "Señal No Asignada",
+        "url": "https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/23RHTMbY/image.png"
-      },
-      {
-        "name": "Señal no Asignada",
-        "info":"TEST TIGO EVENTO 2",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-        "url": "https://opchannel01.tigosports.com.py/ccur-session/6a070eb182/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://magisvideo.com/KEYFLOW/TIGO3.json",
-        "icono": "https://i.ibb.co/23RHTMbY/image.png"
-      },
-      {
-                "name": "Señal no Asignada",
-                "info":"TEST ABC TV",
-                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(6ruw4QH_9iTmGLP03es7AwscRKVsguuv5aKCQU-RgOG8NPVZs3AqwH22CjqRaE_Twa_spYf4RDp3r26zQzO5B4AymplNXiqnXuSdQ1i3T8HAhsi8JOA5QXvbUwbf_-JS)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45",
-                "icono": "https://i.ibb.co/23RHTMbY/image.png"
-            },
+        "drm_license_uri": "https://results.femon.net?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
+        "Referer": "https://portal.app.flow.com.py/",
+        "Origin": "https://portal.app.flow.com.py",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png"
+         },    
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
