@@ -2347,11 +2347,10 @@
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
           {
-  "name": "DP+",
-  "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-  "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"g/gcTMFEOZFUPeTiLup1hg\",\"k\":\"3f18plPW81VD2O2zxojiDw\"}],\"type\":\"temporary\"}",
-  "referer": "https://www.primevideo.com/",
-  "user": "AivAndroidPlayer/1.0 (AndroidDevice)",
+  "name": "LATIN",
+  "url": "https://1025-tbx.vrioott.com/bloomberglat/manifest.mpd",
+  "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qlV3zM3zVpqEgle7QxN5rw\",\"k\":\"M6cA4ybJk8I5LB18W06hCw\"}],\"type\":\"temporary\"}",
+  "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
   "icono": "https://i.ibb.co/NdfLDnF7/image.png"
         },
         {
