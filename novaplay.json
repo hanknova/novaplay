@@ -2347,12 +2347,11 @@
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
           {
-  "name": "Cartoonito",
-  "url": "https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(BOOMERANG_HD)/manifest.mpd",
-  "drm_license_uri": "1eb4e06b93c8409cbbe44f3319bb0984:ea11715a6dd9d820e0e8ec2fe4c3b447",
-  "origin": "https://nagracovoslive.lcdn.claro.net.co",
-  "referer": "https://nagracovoslive.lcdn.claro.net.co",
-  "user": "Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.82 Mobile Safari/537.36",
+  "name": "DP+",
+  "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+  "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"g/gcTMFEOZFUPeTiLup1hg\",\"k\":\"3f18plPW81VD2O2zxojiDw\"}],\"type\":\"temporary\"}",
+  "referer": "https://www.primevideo.com/",
+  "user": "AivAndroidPlayer/1.0 (AndroidDevice)",
   "icono": "https://i.ibb.co/NdfLDnF7/image.png"
         },
         {
