@@ -380,7 +380,19 @@
       },
       {
         "name": "ESPN 1",
-        "opt":"yes",
+        "info": "Colombia",
+        "url": "https://streamtpnew.com/premier.php?stream=espn",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "icono": "https://i.ibb.co/20cw7BQs/image.png"
+      },
+      {
+        "name": "ESPN 1",
+        "info": "Colombia - Extra",
+        "url": "http://181.118.150.27:8000/play/a01b/index.m3u8",
+        "icono": "https://i.ibb.co/20cw7BQs/image.png"
+      },
+      {
+        "name": "ESPN 1",
         "info": "Argentina",
         "texto": "Se Recomienda ingresar 1 hora o 30 min antes de cada partido",
         "url": "http://138.59.227.20:8000/play/a099/index.m3u8",
