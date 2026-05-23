@@ -2342,17 +2342,22 @@
       },
       {
         "name": "Señal No Asignada",
-        "info": "TEST4",
-        "url": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
+        "info": "MEGA HD CHILE",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/28244",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
-          {
-  "name": "LATIN",
-  "url": "https://1140-tbx.vrioott.com/hbo/manifest.mpd",
-  "drm_license_uri": "https://vertex-plus.es/licence/HBO.DGO.json",
-  "user": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-  "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-        },
+         {
+        "name": "Señal No Asignada",
+        "info": "CHILEVISION",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/58287",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      },
+      {
+        "name": "Señal No Asignada",
+        "info": "FOX SPORTS 1 CHILE",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/120545",
+        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      },
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
