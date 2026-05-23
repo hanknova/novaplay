@@ -1,7 +1,6 @@
 [
   {
     "type": "category",
-    "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "EVENTOS",
     "items": [
             {
@@ -659,11 +658,15 @@
         "url": "http://190.234.82.52:8000/play/ac1q/index.m3u8",
         "icono": "https://i.ibb.co/rKWH0YF8/image.png"
       },
+       {
+        "name": "WIN SPORTS",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/167739",
+        "icono": "https://i.ibb.co/60Z9mmCt/image.png"
+      },
       {
         "name": "WIN SPORTS+",
         "url": "http://190.60.37.118:4000/play/a0bw",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/HTCTn0yX/image.png"
+        "icono": "https://i.ibb.co/MDvrb8HX/image.png"
       },
       {
         "name": "FIFA+",
