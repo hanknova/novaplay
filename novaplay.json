@@ -264,6 +264,11 @@
         "name": "MITV",
         "icono": "https://i.ibb.co/93ZMbXCy/image.png",
         "url": "https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion"
+      },
+      {
+        "name": "NEXT",
+        "icono": "https://i.ibb.co/mCyTDjS6/image.png",
+        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
       }
     ]
  },
@@ -277,6 +282,11 @@
         "info": "Posadas",
         "icono": "https://i.ibb.co/TDT2DbbF/image.png",
         "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8"
+      },
+            {
+        "name": "LN+",
+        "icono": "https://i.ibb.co/jvNtSsWj/image.png",
+        "url": "https://val04.ride.com.ar/tvmia/an14/playlist.m3u8"
       },
              {
         "name": "CRONICA",
@@ -709,9 +719,15 @@
         "url": "http://totalplay.site:80/HoracioLopez/KhS3W7Te25/592039.m3u8",
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
   },
+             {
+        "name": "DIRECTV SPORTS +",
+        "info": "Señal Extra 1",
+        "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+        "icono": "https://i.ibb.co/QvQsMP14/image.png"
+  },
   {
         "name": "DIRECTV SPORTS +",
-        "info": "Señal Extra",
+        "info": "Señal Extra 2",
         "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
         "icono": "https://i.ibb.co/QvQsMP14/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
@@ -2457,12 +2473,56 @@
         "info": "TEST3",
         "url": "http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+      },      {
+        "name": "Señal no Asignada",
+        "info":"Tigo Eventos Test",
+        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "1c62a216a5fe423f959cb1ca02f62d83:54f2fdc83c1da33cd9269bf21e08218c",
+        "referer":"https://sam-py-edge02.tigo.com.py",
+        "icono": "https://i.ibb.co/23RHTMbY/image.png"
+      },
+       {
+        "name": "Señal no Asignada -- 0001",
+        "url": "https://1071-aws-da-mt.vrioott.com/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1",
+        "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
       },
       {
-        "name": "Señal No Asignada",
-        "info": "FOX SPORTS 1 CHILE",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/120545",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
+        "name": "Señal no Asignada",
+        "url": "https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1",
+        "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
+      },
+      {
+        "name": "Señal no Asignada",
+        "url": "https://1063-aws-da-mt.vrioott.com/1063_DIRECTV_SPORTS_2_HD_DASH/manifest.mpd",
+         "type": "CLEARKEY",
+        "drm_license_uri": "c1863664cbc33e9b951ac0e270309891:6e50b1ed60c0feb12836cb6a37d299b5",
+        "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
+      },   
+      {
+       "name": "Señal no Asignada",
+        "url": "https://cdn.trimi.com.ar/live/sm-live/TYC_SPORTS_BACKUP4/sa_live_dash_ll/TYC_SPORTS_BACKUP4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "58b7b99c78d841bd841ffcf001a2c397:eccfd978965e89e1afe14d7c3b38f7d8",
+        "icono": "https://i.ibb.co/tK20mxz/tycsports.png"
+      },
+      {
+       "name": "Señal no Asignada",
+        "url": "https://cdn.trimi.com.ar/live/sm-live/TV_PUBLICA_BACKUP/sa_live_dash_ll/TV_PUBLICA_BACKUP.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "9825d6a017d5406e8bc50bb2bc7857c9:26196b3593c359c226bb7637cb188ce4",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png"
+      },
+      {
+       "name": "Señal no Asignada",
+        "url": "https://cdn.trimi.com.ar/live/sm-live/TELEFE_BACKUP2/sa_live_dash/TELEFE_BACKUP2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "9b7904f8b7164dfd88c3c419b930da7d:a33aef3122f21c24e85cf10c5f61c5df",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png"
       },
         {
         "name": "Señal No Asignada",
