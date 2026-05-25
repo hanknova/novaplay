@@ -12,64 +12,40 @@
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
       },
       {
-        "name": "NOVASPORTS 2",
-        "info": "Solo Sobre RED TIGO",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-      {
-        "name": "NOVASPORTS 3",
-        "info": "Solo Sobre RED TIGO",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-      {
-        "name": "NOVASPORTS 4",
-        "info": "Solo Sobre RED TIGO",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },
-      {
         "name": "NOVASPORTS EVENTOS",
         "info": "Tigo Sports PY - EVENTOS",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/NdfLDnF7/image.png"
-      },     
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "TIGO SPORTS - SOLO INTERNET TIGO",
+    "items": [
       {
-        "name": "TIGO SPORTS PY",
-        "info":"Eventos 1",
-        "status": "false",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-        "url": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd",
+        "name": "TIGO SPORTS 1",
+        "info": "INTERNET TIGO OBLIGATORIO",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
       {
-        "name": "TIGO SPORTS PY",
-        "info":"Eventos 2",
-        "status": "false",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-        "url": "https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd",
+        "name": "NOVASPORTS 2",
+        "info": "INTERNET TIGO OBLIGATORIO",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       },
       {
-        "name": "TIGO SPORTS PY",
-        "info":"Eventos 3",
-        "status": "false",
-        "texto": "Señal Disponbile generalmente 30 min antes del evento",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd",
+        "name": "NOVASPORTS 3",
+        "info": "INTERNET TIGO OBLIGATORIO",
+        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://magisvideo.com/KEYFLOW/TIGO3.json",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/23RHTMbY/image.png"
       }
     ]
