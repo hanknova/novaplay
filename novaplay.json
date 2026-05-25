@@ -2471,18 +2471,6 @@
         "user":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", 
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
-       {
-        "name": "TEST SIN PROXY",
-        "info": "TEST SIN PROXY",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
-        "type": "clearkey",
-        "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
-        "origin": "https://portal.app.flow.com.py",
-        "referer": "https://portal.app.flow.com.py/",
-        "user":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", 
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-        
-      },
 {
   "name": "PARAVISION",
   "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",
@@ -2501,6 +2489,14 @@
   ],
   "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
 },
+      {
+        "name": "SEÑAL NO ASIGNADA",
+        "info": "TEST DIRECTV POR AMAZON",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
