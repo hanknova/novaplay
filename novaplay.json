@@ -395,7 +395,12 @@
    "name": "SAN LUIS +",
    "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
    "icono": "https://i.ibb.co/Kp4bRkkZ/image.png"
-            }
+            },
+		{
+        "name": "GARAGE TV",
+        "icono": "https://i.ibb.co/dsztVcvP/image.png",
+        "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
+      }
       ]
       },
     {
@@ -414,6 +419,37 @@
       }
     ]
   },
+{
+    "type": "category",
+    "title": "Brasil",
+    "items": [
+         {
+        "name": "TOP TV BR",
+        "url": "https://isaocorp.cloudecast.com/toptv/index.m3u8",
+        "icono": "https://i.ibb.co/dwDrhCCD/image.png"
+        },
+		{
+        "name": "SBT",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+        "icono": "https://i.ibb.co/LDPbfxW9/image.png"
+        },
+		 {
+        "name": "TV BAND",
+         "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
+         "icono": "https://i.ibb.co/Xr7yhXBS/image.png"
+        },
+		{
+        "name": "REDE MINAS BR",
+        "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w115990305_b2771072.m3u8",
+        "icono": "https://i.ibb.co/XfnZG43P/image.png"
+        },
+		{
+        "name": "TV MAIS BR",
+        "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+        "icono": "https://i.ibb.co/5P85xrF/image.png"
+        }
+    ]
+  },	
   {
     "type": "category",
     "title": "MEXICO",
@@ -426,7 +462,7 @@
 		{
                 "name": "CANAL ONCE",
                 "url": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8",
-                "icono": "https://i.postimg.cc/k4T5dvN1/CANALONCEMX.png"
+                "icono": "https://i.ibb.co/g1rZnr8/image.png"
             },
 		 {
       "name": "AZTECA INTERNACIONAL",
@@ -447,7 +483,12 @@
                 "name": "TELEDIARIO NOW",
                 "url": "https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8",
                 "icono": "https://i.ibb.co/JLCHvc7/image.png"
-            }
+            },
+		{
+                "name": "CORAZON",
+                "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
+                "icono": "https://i.ibb.co/rG5C7VHJ/image.png"
+            },
     ]
   },
      {
@@ -1124,11 +1165,6 @@
         "info": "Música",
         "icono": "https://i.ibb.co/8LVXtd1Q/image.png",
         "url": "https://jmp2.uk/stvp-US39000038W"
-      },
-      {
-        "name": "GARAGE TV",
-        "icono": "https://i.ibb.co/dsztVcvP/image.png",
-        "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
       },
        {
         "name": "UNIVISION",
