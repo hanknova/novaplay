@@ -366,7 +366,36 @@
         "name": "CANAL 26",
         "icono": "https://i.ibb.co/4wBDgN3C/image.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
-      }
+      },
+	  {
+      "name": "Canal 11",
+      "info": "Machagay Chaco",
+      "url": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
+      "icono": "https://i.ibb.co/FbS4K9rD/image.png"
+     },
+		 {
+     "name": "Canal 13",
+	"info": "La Rioja",		 
+     "url": "http://arcast.net:1935/mp/mp/playlist.m3u8",  
+    "icono": "https://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png"
+            },
+		 {
+  "name": "Canal 34",
+  "info": "San Juan",					 
+  "url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+  "icono": "https://i.ibb.co/VcGMYxzr/image.png"
+            },
+		{
+    "name": "Rtv",
+	"info": "Neuquen",				
+    "url": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
+   "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
+            },
+		 {
+   "name": "SAN LUIS +",
+   "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+   "icono": "https://i.ibb.co/Kp4bRkkZ/image.png"
+            }
       ]
       },
     {
