@@ -2472,7 +2472,7 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
        {
-        "name": "Señal No Asignada",
+        "name": "TEST SIN PROXY",
         "info": "TEST SIN PROXY",
         "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "type": "clearkey",
