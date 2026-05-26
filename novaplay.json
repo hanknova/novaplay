@@ -19,6 +19,14 @@
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo2.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/mF8S7Kx9/image.png"
       },
+		  {
+        "name": "NOVASPORTS 3",
+        "info": "TIGO Sports PY - NO 24/7",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
       {
         "name": "NOVASPORTS EVENTOS",
         "info": "Tigo Sports PY - EVENTOS",
@@ -2482,44 +2490,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
-      {
-        "name": "Señal No Asignada",
-        "info": "TEST CON PROXY",
-        "warp":"yes",
-        "url": "https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
-        "type": "clearkey",
-        "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
-        "origin": "https://portal.app.flow.com.py",
-        "referer": "https://portal.app.flow.com.py/",
-        "user":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", 
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-{
-  "name": "PARAVISION",
-  "icono": "https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1.png",
-  "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
-  "type": "CLEARKEY",
-  "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
-  "headers": [
-    {
-      "name": "Origin",
-      "value": "https://portal.app.flow.com.py"
-    },
-    {
-      "name": "Referer",
-      "value": "https://portal.app.flow.com.py/"
-    }
-  ],
-  "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-},
-      {
-        "name": "SEÑAL NO ASIGNADA",
-        "info": "TEST  DE TIGO SPORTS 1",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
 		      {
         "name": "SEÑAL NO ASIGNADA",
 		"info": "TEST  DE TIGO SPORTS 2",
