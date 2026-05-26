@@ -2514,10 +2514,18 @@
 },
       {
         "name": "SEÑAL NO ASIGNADA",
-        "info": "TEST DIRECTV POR AMAZON",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "info": "TEST TIGO SPORTS 1",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		      {
+        "name": "SEÑAL NO ASIGNADA",
+		"info": "TEST TIGO SPORTS 2",
+        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
         {
