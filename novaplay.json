@@ -2514,7 +2514,7 @@
 },
       {
         "name": "SEÑAL NO ASIGNADA",
-        "info": "TEST TIGO SPORTS 1",
+        "info": "TEST  DE TIGO SPORTS 1",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
@@ -2522,7 +2522,7 @@
       },
 		      {
         "name": "SEÑAL NO ASIGNADA",
-		"info": "TEST TIGO SPORTS 2",
+		"info": "TEST  DE TIGO SPORTS 2",
         "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
