@@ -22,7 +22,7 @@
       },
 		 {
         "name": "NOVASPORTS 2",
-        "info": "Tigo Sports PY",
+        "info": "Tigo Sports PY - EVENT",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
 		"url2": "https://sam-py-edge01.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
 		"url3": "https://sam-py-edge02.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
@@ -39,7 +39,7 @@
       },
 		  {
         "name": "NOVASPORTS 3",
-        "info": "TIGO Sports PY - 24/7",
+        "info": "TIGO Sports PY - EVENT",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
 		"url2": "https://sam-py-edge01.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
 		"url3": "https://sam-py-edge02.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
@@ -56,7 +56,7 @@
       },
 		{
         "name": "NOVASPORTS 4",
-        "info": "TIGO Sports PY",
+        "info": "TIGO Sports PY - EVENT",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
 		"url2": "https://sam-py-edge01.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",	
 		"url3": "https://sam-py-edge02.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
