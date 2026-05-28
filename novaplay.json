@@ -128,6 +128,7 @@
       },
       {
         "name": "VISIÓN TV",
+		  "status": "false",
         "info": "Villarica",
         "url": "https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/3m0tTkt6/unnamed.png"
@@ -246,6 +247,7 @@
       },
       {
         "name": "VISION TV",
+		  "status": "false",
         "url": "https://copacogen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist_w1906112169.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/Q7y4whkw/image.png",
         "info": "97.5 FM"
@@ -701,12 +703,6 @@
         "name": "ESPN PREMIUM",
         "info": "Señal Extra",  
         "url": "http://138.59.227.20:8000/play/a086/index.m3u8",
-       "icono": "https://i.ibb.co/9m3XVqHr/image.png"
-      },
-      {
-        "name": "ESPN PREMIUM",
-        "info": "Chile",  
-        "url": "http://205.235.6.29:8000/play/a0pz/index.m3u8",
        "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
       {
