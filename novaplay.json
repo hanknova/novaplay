@@ -578,20 +578,26 @@
         "url": "http://38.226.49.253:8000/play/a07l/index.m3u8",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
+	  {
+        "name": "ESPN 2",
+        "info": "Colombia",      
+        "url": "http://181.118.153.15:8000/play/aj01/index.m3u8",
+        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
+      },	
       {
         "name": "ESPN 2",
-        "info": "Colombia",
+        "info": "Colombia - Extra",
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
-            {
+          
+		 {
         "name": "ESPN 2",
         "info": "Argentina",      
         "url": "http://138.59.227.20:8000/play/a098/index.m3u8",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
-      
             {
         "name": "ESPN 3",
         "info": "Colombia",      
@@ -2545,14 +2551,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
-		      {
-        "name": "SEÑAL NO ASIGNADA",
-		"info": "TEST  DE TIGO SPORTS 2",
-        "url": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0f7a/rolling-buffer/APP_CHN1/APP_CHN1/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
