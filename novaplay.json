@@ -580,32 +580,18 @@
     "type": "category",
     "title": "DEPORTES",
     "items": [
-      {
-        "name": "ESPN",
-        "info": "Colombia",
-        "url": "https://streamtpnew.com/premier.php?stream=espn",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/Pvq156K0/image.png"
-      },
-      {
-        "name": "ESPN",
-        "info": "Colombia - Extra",
-        "url": "http://181.118.150.27:8000/play/a01b/index.m3u8",
-        "icono": "https://i.ibb.co/Pvq156K0/image.png"
-      },
-      {
-        "name": "ESPN",
-        "info": "Argentina",
-        "texto": "Se Recomienda ingresar 1 hora o 30 min antes de cada partido",
-        "url": "http://138.59.227.20:8000/play/a099/index.m3u8",
-        "icono": "https://i.ibb.co/Pvq156K0/image.png"
-      },
 		 {
         "name": "ESPN",
         "url": "http://38.226.49.253:8000/play/a07l/index.m3u8",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
-		
+      {
+        "name": "ESPN",
+        "info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
+        "url": "https://streamtpnew.com/premier.php?stream=espn",
+        "icono": "https://i.ibb.co/Pvq156K0/image.png"
+      },
 	  {
         "name": "ESPN 2",
 		"url":  "http://38.226.49.253:8000/play/a06g/index.m3u8",  
@@ -614,66 +600,44 @@
       {
         "name": "ESPN 2",
         "info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
-      },
-          
-		 {
-        "name": "ESPN 2",
-        "info": "Argentina",      
-        "url": "http://138.59.227.20:8000/play/a098/index.m3u8",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
 		 {
         "name": "ESPN 3",
-        "info": "Colombia",
         "url": "http://38.226.49.253:8000/play/a07g/index.m3u8",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
             {
         "name": "ESPN 3",
-        "info": "Colombia - Extra 1",      
+        "info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO",       
         "url": "https://streamtpnew.com/premier.php?stream=espn3",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/MkxW7vqS/image.png"
-      },
-            {
-        "name": "ESPN 3",
-        "info": "Argentina",
-        "url": "http://138.59.227.20:8000/play/a09a/index.m3u8",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
 		{
         "name": "ESPN 4",
-         "info": "Colombia",
         "url": "http://38.226.49.253:8000/play/a065/index.m3u8",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
       {
         "name": "ESPN 4",
-        "info": "Colombia - Extra",
+        "info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO",   
         "url": "https://streamtpnew.com/premier.php?stream=espn4",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
-        "icono": "https://i.ibb.co/HTrmQvrj/image.png"
-      },
-       {
-        "name": "ESPN 4",
-         "info": "Argentina",
-        "url": "http://138.59.227.20:8000/play/a084/index.m3u8",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
 		 {
-        "name": "ESPN 5",
-		"info": "Colombia", 	 
+        "name": "ESPN 5",	 
         "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
        {
         "name": "ESPN 5",
-        "info": "Colombia - Extra", 
+        "info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO",   
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
-         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
              {
