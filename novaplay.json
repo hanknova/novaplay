@@ -2600,6 +2600,12 @@
         "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7378.m3u8",
 		"nsfw":"yes",  
         "icono": "https://i.ibb.co/S7WcSgPM/Pink-Erotic-5.webp"
+      },
+		{
+        "name": "SEXTREME",
+        "url": "http://24.152.42.29:8000/play/a0c2/index.m3u8",
+		"nsfw":"yes",  
+        "icono": "https://i.ibb.co/jZGvtfKJ/image.png"
       }
     ]
   },
@@ -2610,25 +2616,20 @@
     "items": [
 		{
         "name": "PARAVISION TEST",
-        "url": "http://24.152.42.29:8000/play/a02c/index.m3u8",
+        "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		{
         "name": "SURTV TEST",
-        "url": "http://24.152.42.29:8000/play/a02e/index.m3u8",
+        "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		{
         "name": "TV CAMARA TEST",
-        "url": "http://24.152.42.29:8000/play/a02a/index.m3u8",
+        "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
-		{
-        "name": "SEXTREME TEST",
-        "url": "http://24.152.42.29:8000/play/a0c2/index.m3u8",
-		"nsfw":"yes",  
-        "icono": "https://i.ibb.co/S7WcSgPM/Pink-Erotic-5.webp"
-      },
+		
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
