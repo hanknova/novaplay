@@ -60,6 +60,30 @@
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
+		{
+        "name": "BOCA VS Universidad Católica",
+        "info": "NOVASPORTS EVENTOS ",
+        "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
+		{
+        "name": "BOCA VS Universidad Católica",
+        "info": "NOVASPORTS EVENTOS ",
+        "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
+		{
+        "name": "América de Cali vs Macará",
+        "info": "NOVASPORTS EVENTOS ",
+        "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
+      },
+		{
+        "name": "Tigre vs Alianza Atlético",
+        "info": "NOVASPORTS EVENTOS ",
+        "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       }
     ]
   },
