@@ -9,21 +9,31 @@ r.raise_for_status()
 
 data = r.text
 
-# arregla JSON si viene sin []
-if not data.strip().startswith("["):
-    data = "[" + data + "]"
+json_data = json.loads(data)
 
-canales = json.loads(data)
+canales = []
 
+# recorrer categorías
+for categoria in json_data:
+    items = categoria.get("items", [])
+    nombre_cat = categoria.get("title", "SIN CATEGORIA")
+
+    for c in items:
+        canales.append({
+            "name": c.get("name") or c.get("title") or "Sin nombre",
+            "url": c.get("url", ""),
+            "logo": c.get("icono", ""),
+            "group": nombre_cat
+        })
+
+# generar M3U
 with open(SALIDA, "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n")
 
     for c in canales:
-        nombre = c.get("name", "Sin nombre")
-        url = c.get("url", "")
-        logo = c.get("icono", "")
-
-        f.write(f'#EXTINF:-1 tvg-logo="{logo}",{nombre}\n')
-        f.write(url + "\n")
+        f.write(
+            f'#EXTINF:-1 group-title="{c["group"]}" tvg-logo="{c["logo"]}",{c["name"]}\n'
+        )
+        f.write(c["url"] + "\n")
 
 print("M3U generado correctamente")
