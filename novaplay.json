@@ -640,51 +640,47 @@
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
-             {
-        "name": "ESPN 5",
-        "url": "http://38.210.3.64:8090/play/a0jd/index.m3u8",
-        "icono": "https://i.ibb.co/JwKrdwmf/image.png"
-      },
       {
         "name": "ESPN 6",
         "url": "http://38.226.49.253:8000/play/a05p/index.m3u8",
-        "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
-      },
-		 {
-        "name": "ESPN 6",
-		"info": "Señal Extra",	 
-        "url": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
+		"url2": "http://38.210.3.64:8090/play/a0dj/index.m3u8",  
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
       },
       {
         "name": "ESPN 6",
-        "info": "Señal Extra 2",
+        "info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn6",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
+        "url": "https://streamtpnew.com/global1.php?stream=espn6"
       },
 		{
         "name": "ESPN 7",
-		"icono": "https://i.ibb.co/vxFK1Cvm/image.png",
-        "url": "http://38.226.49.253:8000/play/a087/index.m3u8"
+		"url": "http://38.226.49.253:8000/play/a087/index.m3u8"	
+		"icono": "https://i.ibb.co/vxFK1Cvm/image.png"
        },    
       {
         "name": "ESPN 7",
-        "info": "Señal Extra",
+        "info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
         "icono": "https://i.ibb.co/vxFK1Cvm/image.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn7",
-		"texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"  
+        "url": "https://streamtpnew.com/global1.php?stream=espn7"
        },      
        {
-        "name": "ESPN PREMIUM ",
+        "name": "ESPN PREMIUM AR",
         "url": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8",
-         "icono": "https://i.ibb.co/9m3XVqHr/image.png"
+        "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
-       {
-        "name": "ESPN PREMIUM",
-        "info": "Señal Extra",  
-        "url": "http://138.59.227.20:8000/play/a086/index.m3u8",
-       "icono": "https://i.ibb.co/9m3XVqHr/image.png"
+	  {
+        "name": "ESPN PREMIUM AR",
+		"info": "Serv. Externo",
+		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
+        "url": "https://streamtp-abc.net/global1.php?stream=espnpremium",
+        "icono": "https://i.ibb.co/9m3XVqHr/image.png"
+      },
+		{
+        "name": "ESPN PREMIUM CL",
+        "url": "http://38.226.49.253:8000/play/a07t/index.m3u8",
+        "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
       {
         "name": "FOX SPORTS 1",
