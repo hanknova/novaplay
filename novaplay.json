@@ -916,7 +916,8 @@
       },
       {
         "name": "A&E",
-        "url": "http://181.78.82.6:46090/play/a07y/index.m3u8",
+        "url": "http://38.226.49.253:8000/play/a05m/index.m3u8",
+		"url2": "http://38.226.49.253:8000/play/a05u/index.m3u8",  
         "icono": "https://i.ibb.co/vvDdW11M/image.png"
       },
       {
