@@ -253,6 +253,7 @@
       },
         {
         "name": "VENUS MEDIA ",
+		"status": "false",	
         "url": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
@@ -262,8 +263,7 @@
         "icono": "https://i.ibb.co/XkLZ49BM/image.png"
       },
        {
-        "name": "REPUBLICA FM TV",
-		"status": "false",   
+        "name": "REPUBLICA FM TV", 
         "url": "https://tigocloud.desdeparaguay.net/republicatv/republicatv/index.m3u8",
         "icono": "https://i.ibb.co/VWY7TB29/image.png",
         "texto": "RADIO - TV 101.3 FM"
