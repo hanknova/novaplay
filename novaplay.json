@@ -137,6 +137,11 @@
         "url": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
+		{
+        "name": "ABC TV",
+        "url": "http://138.59.227.20:8000/play/a0g6/index.m3u8",
+        "icono": "https://i.ibb.co/8LD7vRkq/image.png"
+      },
       {
         "name": "TELEFUTURO",
         "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
@@ -1433,8 +1438,8 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		{
-        "name": "ABC COLOR TEST",
-        "url": "http://138.59.227.20:8000/play/a0g6/index.m3u8",
+        "name": "SURTV TEST 2",
+        "url": "http://138.59.227.20:8000/play/a0e9/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
         {
