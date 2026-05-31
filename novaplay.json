@@ -669,6 +669,7 @@
       },
       {
         "name": "BEIN SPORTS Ñ",
+		 "status":"false". 
         "icono": "https://i.ibb.co/jY8D7RG/image.png",
         "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8"
       },
@@ -702,6 +703,7 @@
       },
       {
         "name": "TNT SPORTS PREMIUM",
+		"status":"false".  
         "info": "Señal Extra",   
         "url": "http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
@@ -791,6 +793,7 @@
       },
              {
         "name": "SKY SPORTS",
+		"status":"false".		 
         "info": "Señal Extra 2",  
         "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
        "icono": "https://i.ibb.co/r2y0gQgc/image.png"
