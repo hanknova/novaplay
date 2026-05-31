@@ -375,5 +375,5 @@ http://24.152.42.29:8000/play/a01s/index.m3u8?hls
 http://24.152.42.29:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TV CAMARA TEST
 http://24.152.42.29:8000/play/a02a/index.m3u8?hls
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TNT NOVELAS TEST
-http://38.226.49.253:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",ABC COLOR TEST
+http://138.59.227.20:8000/play/a0g6/index.m3u8
