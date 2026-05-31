@@ -29,8 +29,6 @@ https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=n
 https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/4wMg7y8X/image.png",TELEFUTURO
 https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/4wMg7y8X/image.png",TELEFUTURO
-https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/Q74wSJNp/image.png",C9N
 https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/SCdymVh/image.png",SNT
@@ -45,8 +43,6 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/qMTf7sNt/image.png",ÑANDUTI TV
 https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/qMTf7sNt/image.png",ÑANDUTI TV
-https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/pmnkppb/image.png",RB TV-RADIO
 https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/gZgY8gY7/image.png",REGIONAL TV
