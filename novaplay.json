@@ -703,14 +703,7 @@
       },
       {
         "name": "TNT SPORTS PREMIUM",
-		"status":"false",  
-        "info": "Señal Extra",   
-        "url": "http://zapster.trapemn.tv:1935/Zapsterv2/TNTSportsHD.stream/playlist.m3u8",
-        "icono": "https://i.ibb.co/wFFYtChx/image.png"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "info": "Señal Extra 2",
+        "info": "Señal Extra",
         "url": "https://streamtpnew.com/global1.php?stream=tntsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
@@ -788,14 +781,7 @@
   },
       {
         "name": "SKY SPORTS", 
-        "url": "http://181.78.109.48:9998/play/a06r/index.m3u8 ",
-       "icono": "https://i.ibb.co/r2y0gQgc/image.png"
-      },
-             {
-        "name": "SKY SPORTS",
-		"status":"false",		 
-        "info": "Señal Extra 2",  
-        "url": "http://190.92.10.66:4000/play/a001/index.m3u8",
+        "url": "http://181.78.109.48:9998/play/a06r/index.m3u8",
        "icono": "https://i.ibb.co/r2y0gQgc/image.png"
       },
        {
@@ -803,26 +789,16 @@
         "icono": "https://i.ibb.co/fY9pYbP9/image.png",
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
       },
-      {
-        "name": "CLARO SPORTS",
-        "url": "https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8",
-        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
-      },
             {
-        "name": "CLARO SPORTS",
-        "info": "Señal Extra",        
+        "name": "CLARO SPORTS",       
         "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
             {
         "name": "MOVISTAR DEPORTES",
-        "url": "http://38.188.100.18:8000/play/a0fb/index.m3u8",
-        "icono": "https://i.ibb.co/rKWH0YF8/image.png"
-      },
-      {
-        "name": "MOVISTAR DEPORTES",
-         "info": "Señal Extra", 
-        "url": "http://190.234.82.52:8000/play/ac1q/index.m3u8",
+		"url": "http://38.226.49.253:8000/play/a0gf/index.m3u8",		
+		"url1": "http://190.234.82.52:8000/play/ac1q/index.m3u8",		
+        "url2": "http://38.188.100.18:8000/play/a0fb/index.m3u8",
         "icono": "https://i.ibb.co/rKWH0YF8/image.png"
       },
        {
