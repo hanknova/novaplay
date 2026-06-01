@@ -26,7 +26,7 @@ https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/3m0tTkt6/unnamed.png",VISIÓN TV
 https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/HTDjm7Pn/image.png",GEN TV
-https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion
+http://138.59.227.20:8000/play/a0ej/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/8LD7vRkq/image.png",ABC TV
 http://138.59.227.20:8000/play/a0g6/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/4wMg7y8X/image.png",TELEFUTURO
