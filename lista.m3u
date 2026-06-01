@@ -9,6 +9,8 @@ https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN
 http://45.170.130.224:8000/play/a04i/index.m3u8
 #EXTINF:-1 group-title="NOVA SPORTS" tvg-logo="https://i.ibb.co/dwfkcZ7J/image.webp",NOVASPORTS
 https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd
+#EXTINF:-1 group-title="NOVA SPORTS" tvg-logo="https://i.ibb.co/dwfkcZ7J/image.webp",NOVASPORTS 2
+http://138.59.227.20:8000/play/a0g9/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/WNks2gQ1/image.png",BRUNO MASI TV
 https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/MxQTkyjk/image.png",TVS ENCARNACIÓN
