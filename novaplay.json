@@ -229,7 +229,6 @@
       {
         "name": "POPU TV",
         "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
-		"url2":"http://138.59.227.20:8000/play/a0fq/index.m3u8",  
         "icono": "https://i.ibb.co/Z1v1gxFq/image.png"
       },
       {
