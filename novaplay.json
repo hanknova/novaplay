@@ -1431,16 +1431,19 @@
     "items": [
 		{
         "name": "PARAVISION TEST",
+		"VLC": "true",	
         "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		{
         "name": "SURTV TEST",
+		"VLC": "true",	
         "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
 		{
         "name": "TV CAMARA TEST",
+		"VLC": "true",	
         "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
