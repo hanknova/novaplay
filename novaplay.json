@@ -1455,6 +1455,11 @@
         "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
         "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png"
       },	
+		{
+        "name": "Prueba TEST",
+        "youtube": "https://youtu.be/SC_HySSCUe4?si=k-AUnJGPOPIuaDWU",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
         {
         "name": "Señal No Asignada",
           "info": "SIN TEST :C",
