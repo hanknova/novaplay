@@ -208,15 +208,13 @@ http://45.181.120.65:9087/play/057/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Sw3JDnkK/image.png",TYC SPORTS
 http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DIRECTV SPORTS
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DIRECTV SPORTS
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DIRECTV SPORTS
+http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDP0DhTv/image.png",DIRECTV SPORTS 2
-http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/SDP0DhTv/image.png",DIRECTV SPORTS 2
-http://190.238.43.117:8000/play/a09g/index.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/QvQsMP14/image.png",DIRECTV SPORTS +
-http://217.26.190.76:8888/play/a0jb/index.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/r2y0gQgc/image.png",SKY SPORTS
 http://181.78.109.48:9998/play/a06r/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fY9pYbP9/image.png",TYC SPORTS FAN
