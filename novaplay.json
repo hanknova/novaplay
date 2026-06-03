@@ -766,59 +766,6 @@
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
       {
-        "name": "DIRECTV SPORTS",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-	    "url2": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-		"url3": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
-		"drm_license_uri2": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",    
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-	      {
-        "name": "DIRECTV SPORTS",
-		 "info": "PERU",	  
-        "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },	
-      {
-        "name": "DIRECTV SPORTS 2",
-		"url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-		"url2": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",  
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",  
-        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },
-
-      {
-        "name": "DIRECTV SPORTS 2",
-        "info": "Señal Extra",
-        "url": "https://streamtpnew.com/global1.php?stream=dsports2",
-        "icono": "https://i.ibb.co/SDP0DhTv/image.png",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
-  },
-   {
-        "name": "DIRECTV SPORTS 2",
-         "info": "Peru",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
-        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },   
-      {
-        "name": "DIRECTV SPORTS +",
-		"url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-		"url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",  
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",  
-        "icono": "https://i.ibb.co/QvQsMP14/image.png"
-  },
-  {
-        "name": "DIRECTV SPORTS +",
-        "info": "Señal Extra",
-        "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
-        "icono": "https://i.ibb.co/QvQsMP14/image.png",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
-  },
-      {
         "name": "SKY SPORTS", 
         "url": "http://181.78.109.48:9998/play/a06r/index.m3u8",
        "icono": "https://i.ibb.co/r2y0gQgc/image.png"
@@ -1446,11 +1393,6 @@
         "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
       },
       {
         "name": "SKY SPORTS LA LIGA",
