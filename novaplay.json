@@ -20,26 +20,9 @@
 		"drm_license_uri2":	"https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",	 
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
-		  {
-        "name": "NOVASPORTS",
-        "info": "EVENTOS 2",
-        "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url2": "https://sam-py-edge01.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url3": "https://sam-py-edge02.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url4": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url5": "https://sam-py-edge04.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url6": "https://sam-py-edge06.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url7": "https://sam-py-edge07.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url8": "https://sam-py-edge07.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",	  
-		"url9": "https://sam-py-edge07.tigo.com.py/ccur-session/6a010b0af7/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",	  
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-		"drm_license_uri2":	"https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",	  
-        "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      },
 		{
         "name": "NOVASPORTS",
-        "info": "EVENTOS 3",
+        "info": "EVENTOS 2",
         "url": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
 		"url2": "https://sam-py-edge01.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",	
 		"url3": "https://sam-py-edge02.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
@@ -56,11 +39,17 @@
       },
       {
         "name": "NOVASPORTS",
-        "info": "EVENTOS 4",
+        "info": "EVENTOS 3",
         "texto": "Señal Disponbile generalmente 30 min antes del evento",
         "url": "http://45.170.130.224:8000/play/a04i/index.m3u8",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
-      }
+      },
+		{
+        "name": "NOVASPORTS",
+        "info": "EVENTOS 4",	
+        "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
+		 "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
+      }	
     ]
   },
 	{
@@ -83,13 +72,7 @@
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
 		"drm_license_uri2":	"https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",	 		
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
-      },
-		{
-        "name": "NOVASPORTS 2",
-        "info": "Tigo Sports+ PY - 24/7",	
-        "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
-		 "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
-      }	
+      }
     ]
   },
   {
