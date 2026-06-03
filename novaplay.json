@@ -829,7 +829,7 @@
         "name": "SKY SPORTS LA LIGA",
         "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
 		"url2": "http://181.78.109.48:9998/play/a06r/index.m3u8",  
-         "icono": "https://i.ibb.co/r2y0gQgc/image.png"
+        "icono": "https://i.ibb.co/r2y0gQgc/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
       },
