@@ -371,3 +371,5 @@ http://24.152.42.29:8000/play/a01s/index.m3u8?hls
 http://24.152.42.29:8000/play/a01w/index.m3u8?hls
 #EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TV CAMARA TEST
 http://24.152.42.29:8000/play/a02a/index.m3u8?hls
+#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png",DSports Amazon
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
