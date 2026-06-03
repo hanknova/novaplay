@@ -11,6 +11,10 @@ http://138.59.227.20:8000/play/a0g9/index.m3u8
 https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/WNks2gQ1/image.png",BRUNO MASI TV
 https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/BK7rpy4p/image.png",ROCK & POP PY
+https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/YFWNVfmM/image.png",ALMAYA TV PILAR
+https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/MxQTkyjk/image.png",TVS ENCARNACIÓN
 https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/PyS6QSz/image.png",Pilar Streaming
