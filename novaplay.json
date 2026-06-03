@@ -324,7 +324,8 @@
         "texto": "SEÑAL TV Y RADIO"
       },
       {
-        "name": "COSMOS TV",            
+        "name": "COSMOS TV",
+		 "status":"false", 
         "info": "TV Y RADIO",
         "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
         "icono": "https://i.ibb.co/m5BwgvgL/image.png"
@@ -765,6 +766,56 @@
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
+      {
+        "name": "DIRECTV SPORTS",
+        "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+      {
+        "name": "DIRECTV SPORTS",
+        "info": "Peru",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+		"url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+      {
+        "name": "DIRECTV SPORTS 2",
+        "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
+        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
+      },
+       {
+        "name": "DIRECTV SPORTS 2",
+         "info": "Señal Extra 1",
+        "url": "http://190.238.43.117:8000/play/a09g/index.m3u8",
+        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
+      },
+      {
+        "name": "DIRECTV SPORTS 2",
+        "info": "Señal Extra 2",
+        "url": "https://streamtpnew.com/global1.php?stream=dsports2",
+        "icono": "https://i.ibb.co/SDP0DhTv/image.png",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
+  },
+   {
+        "name": "DIRECTV SPORTS 2",
+         "info": "Peru",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
+        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
+      },   
+      {
+        "name": "DIRECTV SPORTS +",
+        "url": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
+        "icono": "https://i.ibb.co/QvQsMP14/image.png"
+  },
+  {
+        "name": "DIRECTV SPORTS +",
+        "info": "Señal Extra",
+        "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
+        "icono": "https://i.ibb.co/QvQsMP14/image.png",
+        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
+  },
       {
         "name": "SKY SPORTS", 
         "url": "http://181.78.109.48:9998/play/a06r/index.m3u8",
@@ -1387,19 +1438,27 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
-		{
-        "name": "LA LIGA TV",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-        "icono": "https://i.ibb.co/HDqc38p/LaLigaTV.png",
+	 {
+        "name": "DSports TEST 2",
+     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv.png"
       },
-      {
-        "name": "SKY SPORTS LA LIGA",
-        "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249",
+		{
+        "name": "DSports2 TEST 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
+        "drm_license_uri": "https://results.femon.net?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
+        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv2.png"
+      },
+
+		{
+        "name": "DSports+ TEST 1",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
+        "icono": "https://raw.githubusercontent.com/rolnando-play/RP/refs/heads/master/app/canalesImg/dtv+.png"
       },
 		{
         "name": "Prueba TEST",
