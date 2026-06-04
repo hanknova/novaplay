@@ -1475,7 +1475,20 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
-	 
+	 {
+          "name": "CAZE TV [YOUTUBE]",
+          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+        },
+		{
+          "name": "SPORTV",
+          "image": "https://i.ibb.co/NKs6v0v/sportv.png",
+          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+          "type": "CLEARKEY",
+          "license_key": "https://thedarksoldier996.github.io/internaldates/sporttv.json",
+          "user": "AivAndroidPlayer/1.0 (AndroidDevice)",
+            "Referer": "https://www.primevideo.com/"
+        },
 		{
         "name": "TEST",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
