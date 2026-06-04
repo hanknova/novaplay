@@ -884,6 +884,11 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414"
       },
+		{
+        "name": "NICASPORTS",
+        "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
+        "icono": "https://i.ibb.co/7tZj27XV/image.png"
+      },
       {
         "name": "DAZN COMBAT",
         "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
