@@ -1495,15 +1495,17 @@
             "Referer": "https://www.primevideo.com/"
         },
 		{
-        "name": "TEST",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
-        "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
-        "origin": "https://portal.app.flow.com.py",
-        "referer": "https://portal.app.flow.com.py/",
-        "user": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-    },
+    "name": "TEST",
+    "url": "https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://results.femon.net?keyid=8f66fe15735b2b1b3d5eb3646caa405e&key=404b93fd7b499b1061c9a714e1cdb2d0",
+    "icono": "https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",
+    "headers": {
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    }
+},
 		{
         "name": "Prueba TEST",
         "youtube": "https://www.youtube.com/watch?v=XK9b86yB1ng",
