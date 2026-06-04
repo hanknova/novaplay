@@ -233,6 +233,8 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/8tcWVdP/image-639.jpg",EUROSPORT 2
 https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/7tZj27XV/image.png",NICASPORTS
+https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/LhNxBJ9Z/image-1314.jpg",DAZN COMBAT
 https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/rKvj7dqv/image.png",UNIVERSAL COMEDY
@@ -387,5 +389,3 @@ http://24.152.42.29:8000/play/a0c2/index.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="",SPORTV
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-#EXTINF:-1 group-title="SOLO PARA PRUEBAS DE CANALES A AGREGAR " tvg-logo="https://i.ibb.co/sgRZXh9/NPY-Noticias-Paraguay.png",TEST
-https://chromecast.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc/NOTICIAS_PY_C4.mpd
