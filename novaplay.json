@@ -893,6 +893,11 @@
         "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
         "icono": "https://i.ibb.co/7tZj27XV/image.png"
       },
+	  {
+          "name": "CAZE TV",
+          "image": "https://i.ibb.co/tT7Lp6KG/image.png",
+          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+        },
       {
         "name": "DAZN COMBAT",
         "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
@@ -1489,20 +1494,16 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
-	 {
-          "name": "CAZE TV [YOUTUBE]",
-          "image": "https://i.ibb.co/W3XpzQy/cazetv.png",
-          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-        },
-		{
-          "name": "SPORTV",
-          "image": "https://i.ibb.co/NKs6v0v/sportv.png",
-          "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
-          "type": "CLEARKEY",
-          "license_key": "https://thedarksoldier996.github.io/internaldates/sporttv.json",
-          "user": "AivAndroidPlayer/1.0 (AndroidDevice)",
-            "Referer": "https://www.primevideo.com/"
-        },
+     {
+        "name": "PARAVISION TEST FOR INTERCABLE  ",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest/scale-to-width-down/188?cb=20201020230413&path-prefix=es",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
 		
 		{
         "name": "Prueba TEST",
