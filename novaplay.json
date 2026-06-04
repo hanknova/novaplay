@@ -94,6 +94,7 @@
 				{
                 "name": "TV MAX CNEL OVIEDO",
                 "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+				"url2": "http://138.59.227.20:8000/play/a0ew/index.m3u8",	
                 "icono": "https://i.ibb.co/0VCmZngC/image.png"
             },
 		{
@@ -259,11 +260,12 @@
             {
         "name": "UNICANAL",
         "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8",
+		"url2":"http://138.59.227.20:8000/play/a0e8/index.m3u8",		
         "icono": "https://i.ibb.co/nNBj6fnk/image.png"
       },
       {
         "name": "UNICANAL",
-        "info": "Señal Extra",
+        "info": "Por Dailymotion",
         "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
         "icono": "https://i.ibb.co/G4KnJjPY/image.png",
         "texto": "Conexión via Dailymotion"
@@ -452,7 +454,8 @@
       {
         "name": "EL TRECE",
         "icono": "https://i.ibb.co/LhvLyCFh/image.png",
-        "url": "http://45.5.151.147:8000/play/a00f/index.m3u8"
+        "url": "http://45.5.151.147:8000/play/a00f/index.m3u8",
+		"url2":"http://138.59.227.20:8000/play/a07b/index.m3u8"  
       },
       {
         "name": "SOMOS UNO",
