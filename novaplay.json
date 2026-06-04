@@ -91,6 +91,11 @@
                 "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
                 "icono": "https://i.ibb.co/BK7rpy4p/image.png"
             },
+				{
+                "name": "TV MAX CNEL OVIEDO",
+                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+                "icono": "https://i.ibb.co/0VCmZngC/image.png"
+            },
 		{
         "name": "ALMAYA TV PILAR",
         "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
