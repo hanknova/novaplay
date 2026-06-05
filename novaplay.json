@@ -894,10 +894,53 @@
         "icono": "https://i.ibb.co/7tZj27XV/image.png"
       },
 	  {
-          "name": "CAZE TV",
-          "image": "https://i.ibb.co/tT7Lp6KG/image.png",
+          "name": "CAZÉTV",
+          "icono": "https://i.ibb.co/xSyvqf0F/image.png",
           "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
         },
+		{
+        "name": "CAZÉTV 1",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+        "icono": "https://i.ibb.co/zW3PRC9N/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
+},
+{
+        "name": "CAZÉTV 2",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+        "icono": "https://i.ibb.co/21BDZ7pC/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457"
+        
+},
+{
+        "name": "CAZÉTV 3",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
+        "icono": "https://i.ibb.co/G3rzpVNn/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621"
+},
+{
+        "name": "SPORTV 1",
+        "url": "https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+        "icono": "https://i.ibb.co/v6J2Lcj9/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733"
+},
+{
+        "name": "SPORTV 2",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+        "icono": "https://i.ibb.co/R4Jbm8z7/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=3de028eafb3b2caffec03be1c1c818b3&key=8fbdd8a9ae6748696bb13e547bb093fc"
+},
+ {
+        "name": "SPORTV 3",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "icono": "https://i.ibb.co/KcF6CwHj/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3"
+},
       {
         "name": "DAZN COMBAT",
         "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
