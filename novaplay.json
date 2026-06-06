@@ -588,6 +588,27 @@
         "drm_license_uri": "https://results.femon.net?keyid=9850bd2ac5d9089ce920ca127e67aa57&key=8561d5b02983577886cf1f40aed3a8fe",
         "icono": "https://i.ibb.co/qL61cbPs/image.png"
         }, 
+		 {
+        "name": "NU9VE ",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?key=41df11a0be44fd7272538728cec38bc6&keyid=79737d20a3eaa862f8cb77c61cb3b58c",
+        "icono": "https://i.ibb.co/BHzJsnTD/image.png"
+    },
+            {
+        "name": "AZTECA 7",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=ce8f86d2f0d1638574237ada8ac2e82a&key=642772ebf1832f1f2fa58cb7e8fcfd05",
+        "icono": "https://i.ibb.co/fdNfZg0G/image.png"
+    },
+            {
+        "name": "CANAL 5",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+        "icono": "https://i.ibb.co/zTFzVnmp/image.png"
+    },
       {
         "name": "CORAZON",
         "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
@@ -611,6 +632,20 @@
         "url": "https://streamtpnew.com/premier.php?stream=espn",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
+		{
+        "name": "ESPN",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14432/",
+        "icono": "https://i.ibb.co/Pvq156K0/image.png"
+},		
+{
+        "name": "ESPN",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
+        "icono": "https://i.ibb.co/Pvq156K0/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=38b63f9aaa7b7c7a822c8e14c8a7212e&key=d6b1f45a59d2dac1a730c7f56c74971a"
+},
       {
         "name": "ESPN 2",
         "url": "http://38.226.49.253:8000/play/a06g/index.m3u8",
@@ -623,6 +658,20 @@
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
+	      {
+        "name": "ESPN 2",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14438/",
+        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
+      },
+	        {
+        "name": "ESPN 2",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd",
+        "icono": "https://i.ibb.co/mwy8Vmj/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a49114957d155cacb2e027af14450b94&key=0fed6599a8740879a29f1a49ec6d482a"
+      },	
       {
         "name": "ESPN 3",
         "url": "http://38.226.49.253:8000/play/a07g/index.m3u8",
@@ -634,6 +683,20 @@
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/premier.php?stream=espn3",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
+      },
+		 {
+        "name": "ESPN 3",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14444/",
+        "icono": "https://i.ibb.co/MkxW7vqS/image.png"
+      },
+	        {
+        "name": "ESPN 3",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
+        "icono": "https://i.ibb.co/MkxW7vqS/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6"
       },
       {
         "name": "ESPN 4",
@@ -647,6 +710,20 @@
         "url": "https://streamtpnew.com/premier.php?stream=espn4",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
+		   {
+        "name": "ESPN 4",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14450/",
+        "icono": "https://i.ibb.co/HTrmQvrj/image.png"
+      },
+	  {
+        "name": "ESPN 4",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
+        "icono": "https://i.ibb.co/HTrmQvrj/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a1b8099b64726abc7723e17829b43a55&key=908a93fe41acf07538c88c1b30277656"
+      },
       {
         "name": "ESPN 5",
         "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
@@ -657,6 +734,12 @@
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
+        "icono": "https://i.ibb.co/JwKrdwmf/image.png"
+      },
+		   {
+        "name": "ESPN 5",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14456/",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
       {
@@ -671,6 +754,12 @@
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn6"
+      },
+		{
+        "name": "ESPN 6",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14462/",
+        "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
       },
       {
         "name": "ESPN 7",
@@ -744,10 +833,13 @@
         "icono": "https://i.ibb.co/ksgFdZ6z/image.png"
       },
       {
-        "name": "TUDN MX",
-        "url": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
-        "icono": "https://i.ibb.co/21rG76g7/image.png"
-      },
+        "name": "TUDN MX ",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
+         "url2": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
+        "icono": "https://i.ibb.co/21rG76g7/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=010efb17241d2f50c80d3ca5218770f4&key=ecfec27a0a1ad4004488263c33b51e9f"
+        },
       {
         "name": "TUDN MX",
         "info": "Señal Extra",
@@ -949,6 +1041,62 @@
         "icono": "https://i.ibb.co/KcF6CwHj/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3"
+      },
+		 {
+        "name": "PREMIERE  CLUBES",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "icono": "https://i.ibb.co/fdPJJTy4/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=56b79c1782b30e6b6fc973b0e8fd4104&key=fa38aaa865a57eda7c77444697ba8ed3"
+      },
+      {
+        "name": "PREMIERE 2",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+        "icono": "https://i.ibb.co/MDdgDD4k/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=9dc40460c93087aea84d6315f08ecb64&key=f69c8d4624fddff4ca89bd0b31bdc4a7"
+      },
+      {
+        "name": "PREMIERE 3",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+        "icono": "https://i.ibb.co/ZpZCzYfp/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=d23f7433798a652a7d4f6791d9e1036c&key=4942eebd598b5727c5cc484cc62b52e8"
+      },
+      {
+        "name": "PREMIERE 4",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+        "icono": "https://i.ibb.co/zqwDqMS/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=e23365c2ad97870c871712b73f0d6195&key=58709c714320bb862dbd07270df81c94"
+      },
+      {
+        "name": "PREMIERE 5",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+        "icono": "https://i.ibb.co/gZmzX2V8/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=332f62eb3cae824e98a4124da29a7d31&key=d1698cda3d040f9051125a61745b596b"
+      },
+      {
+        "name": "PREMIERE 6",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
+        "icono": "https://i.ibb.co/d4BVL0mK/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=561baa89676c89c1d047e1852ba01c09&key=a8c157826dfdf1299a329b77e2ab6a1a"
+      },
+      {
+        "name": "PREMIERE 7",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd",
+        "icono": "https://i.ibb.co/qLqZmPST/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=9ee352aac7ed8ee1cb42cfdf322b1cb0&key=053d635fc90e175881bef26cd29f371e"
+      },
+      {
+        "name": "PREMIERE 8",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd",
+        "icono": "https://i.ibb.co/zH62cwhM/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=19fb8464136594ce0c66fe3589e88ef4&key=6a0efc4a82a1e087f093c3e5de3e2a3e"
       },
       {
         "name": "VIX PREMIUM",
