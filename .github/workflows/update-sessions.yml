@@ -1,46 +1,40 @@
-import copy
+name: Sync ccur-session
 
-original = copy.deepcopy(nova)
+permissions:
+  contents: write
 
-changes = 0
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
 
-for item in nova:
-    for key in list(item.keys()):
-        if not key.startswith("url"):
-            continue
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-        url = item[key]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-        match = re.search(PATTERN, url)
-        if not match:
-            continue
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-        old_session = match.group(1)
-        channel = match.group(2)
+      - name: Run update
+        run: python update.py
 
-        if channel not in session_map:
-            continue
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
-        new_session = session_map[channel]
+          git add novaplay.json
 
-        # 🔥 SOLO CAMBIA SI ES DISTINTO
-        if old_session != new_session:
-            new_url = re.sub(
-                PATTERN,
-                f"/ccur-session/{new_session}/rolling-buffer/{channel}/",
-                url
-            )
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
 
-            item[key] = new_url
-            changes += 1
-            print(f"Actualizado {channel}: {old_session} -> {new_session}")
-
-print("Total cambios:", changes)
-
-# 🔥 COMPARACIÓN REAL (evita commits falsos)
-if nova == original:
-    print("No hubo cambios reales")
-    exit(0)
-
-with open("novaplay.json", "w", encoding="utf-8") as f:
-    json.dump(nova, f, indent=2, ensure_ascii=False)
+          git commit -m "update ccur-session"
+          git push
