@@ -1,51 +1,75 @@
 import json
 import re
-import requests
+from urllib.request import urlopen
 
-PATTERN = r"/ccur-session/([^/]+)/rolling-buffer/"
+CHANNELS = [
+    "APP_CHN1",
+    "APP_CHN2",
+    "APP_CHN3",
+    "APP_CHN4",
+    "TigoSP4_WM"
+]
 
-# Descargar archivos
-nova = requests.get(
-    "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json"
-).json()
+PATTERN = r"/ccur-session/([^/]+)/rolling-buffer/(" + "|".join(CHANNELS) + r")/"
 
-prueba = requests.get(
-    "https://archive.org/download/prueba7_202606/prueba.7/prueba7.json"
-).json()
+NOVA_URL = "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json"
+PRUEBA_URL = "https://archive.org/download/prueba7_202606/prueba.7/prueba7.json"
 
-# Crear mapa nombre -> session id
-sessiones = {}
+def load(url):
+    with urlopen(url) as f:
+        return json.load(f)
 
-for canal in prueba:
-    url = canal.get("url", "")
-    m = re.search(PATTERN, url)
-    if m:
-        sessiones[canal["name"]] = m.group(1)
+nova = load(NOVA_URL)
+prueba = load(PRUEBA_URL)
 
-# Actualizar novaplay
-cambios = 0
+# MAPA: canal -> session_id nuevo
+session_map = {}
 
-for canal in nova:
-    nombre = canal.get("name")
+for item in prueba:
+    url = item.get("url", "")
+    match = re.search(r"/ccur-session/([^/]+)/rolling-buffer/(" + "|".join(CHANNELS) + r")/", url)
+    if match:
+        session_id = match.group(1)
+        channel = match.group(2)
+        session_map[channel] = session_id
 
-    if nombre not in sessiones:
-        continue
+print("Mapa detectado:", session_map)
 
-    url = canal.get("url", "")
+changes = 0
 
-    nueva = sessiones[nombre]
+for item in nova:
+    for key in list(item.keys()):
+        if not key.startswith("url"):
+            continue
 
-    url_nueva = re.sub(
-        PATTERN,
-        f"/ccur-session/{nueva}/rolling-buffer/",
-        url
-    )
+        url = item[key]
 
-    if url_nueva != url:
-        canal["url"] = url_nueva
-        cambios += 1
+        match = re.search(PATTERN, url)
+        if not match:
+            continue
 
-print("Cambios:", cambios)
+        old_session = match.group(1)
+        channel = match.group(2)
+
+        if channel not in session_map:
+            continue
+
+        new_session = session_map[channel]
+
+        if old_session == new_session:
+            continue
+
+        new_url = re.sub(
+            PATTERN,
+            f"/ccur-session/{new_session}/rolling-buffer/{channel}/",
+            url
+        )
+
+        item[key] = new_url
+        changes += 1
+        print(f"Actualizado {channel}: {old_session} -> {new_session}")
+
+print("Total cambios:", changes)
 
 with open("novaplay.json", "w", encoding="utf-8") as f:
     json.dump(nova, f, indent=2, ensure_ascii=False)
