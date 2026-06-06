@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="TIGO SPORTS EVENTOS" tvg-logo="https://i.ibb.co/kgXL3qw8/image.png",NOVASPORTS
+#EXTINF:-1 group-title="NOVASPORTS EVENTOS" tvg-logo="https://i.ibb.co/kgXL3qw8/image.png",NOVASPORTS
 https://sam-py-edge09.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd
-#EXTINF:-1 group-title="TIGO SPORTS EVENTOS" tvg-logo="https://i.ibb.co/kgXL3qw8/image.png",NOVASPORTS
+#EXTINF:-1 group-title="NOVASPORTS EVENTOS" tvg-logo="https://i.ibb.co/kgXL3qw8/image.png",NOVASPORTS
 https://sam-py-edge09.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN4/APP_CHN2/transmux/index.mpd
-#EXTINF:-1 group-title="TIGO SPORTS EVENTOS" tvg-logo="https://i.ibb.co/kgXL3qw8/image.png",NOVASPORTS
+#EXTINF:-1 group-title="NOVASPORTS EVENTOS" tvg-logo="https://i.ibb.co/kgXL3qw8/image.png",NOVASPORTS
 https://sam-py-edge09.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd
-#EXTINF:-1 group-title="TIGO SPORTS EVENTOS" tvg-logo="https://i.ibb.co/dwfkcZ7J/image.webp",NOVASPORTS
+#EXTINF:-1 group-title="NOVASPORTS EVENTOS" tvg-logo="https://i.ibb.co/dwfkcZ7J/image.webp",NOVASPORTS
 http://138.59.227.20:8000/play/a0g9/index.m3u8
-#EXTINF:-1 group-title="NOVA SPORTS" tvg-logo="https://i.ibb.co/dwfkcZ7J/image.webp",NOVASPORTS
+#EXTINF:-1 group-title="NOVASPORTS EVENTOS" tvg-logo="https://i.ibb.co/dwfkcZ7J/image.webp",NOVASPORTS
 https://sam-py-edge09.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/WNks2gQ1/image.png",BRUNO MASI TV
 https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8
