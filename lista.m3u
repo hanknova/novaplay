@@ -179,12 +179,20 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Pvq156K0/image.png",ESPN
 http://38.226.49.253:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Pvq156K0/image.png",ESPN
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/mwy8Vmj/image.png",ESPN 2
 http://38.226.49.253:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/mwy8Vmj/image.png",ESPN 2
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/MkxW7vqS/image.png",ESPN 3
 http://38.226.49.253:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/MkxW7vqS/image.png",ESPN 3
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/HTrmQvrj/image.png",ESPN 4
 http://38.226.49.253:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/HTrmQvrj/image.png",ESPN 4
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/JwKrdwmf/image.png",ESPN 5
 http://38.226.49.253:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Ng8YhdcV/image.png",ESPN 6
@@ -209,8 +217,8 @@ https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/ksgFdZ6z/image.png",BEIN SPORTS EXTRA Ñ
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/21rG76g7/image.png",TUDN MX
-http://201.151.118.136:8000/play/a00g/index.m3u8?hls
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/21rG76g7/image.png",TUDN MX 
+https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/wFFYtChx/image.png",TNT SPORTS PREMIUM
 http://138.59.227.20:8000/play/a06z/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/wFFYtChx/image.png",TNT SPORTS PREMIUM
