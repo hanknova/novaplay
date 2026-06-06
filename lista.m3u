@@ -167,6 +167,8 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/JLCHvc7/image.png",TELEDIARIO NOW
 https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/qL61cbPs/image.png",LAS ESTRELLAS 
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ep2x5rkrf5/out/v1/4e18b1b6cb5a48e19b5062e782008c4e/cenc.mpd
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.ibb.co/rG5C7VHJ/image.png",CORAZON
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/Pvq156K0/image.png",ESPN
@@ -249,6 +251,18 @@ https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/KcF6CwHj/image.png",SPORTV 3
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fzBFJv2X/worldtv2.png",VIX PREMIUM
+https://paz-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fzBFJv2X/worldtv2.png",VIX PREMIUM
+https://paz-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fzBFJv2X/worldtv2.png",VIX PREMIUM
+https://paz-live1-ott.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fzBFJv2X/worldtv2.png",VIX PREMIUM
+https://paz-live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-HD/default.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fzBFJv2X/worldtv2.png",VIX PREMIUM
+https://paz-live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-HD/default.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fzBFJv2X/worldtv2.png",VIX PREMIUM
+https://paz-live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-HD/default.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/LhNxBJ9Z/image-1314.jpg",DAZN COMBAT
 https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/rKvj7dqv/image.png",UNIVERSAL COMEDY
