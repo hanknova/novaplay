@@ -588,6 +588,27 @@
         "drm_license_uri": "https://results.femon.net?keyid=9850bd2ac5d9089ce920ca127e67aa57&key=8561d5b02983577886cf1f40aed3a8fe",
         "icono": "https://i.ibb.co/qL61cbPs/image.png"
         }, 
+		 {
+        "name": "NU9VE ",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?key=41df11a0be44fd7272538728cec38bc6&keyid=79737d20a3eaa862f8cb77c61cb3b58c",
+        "icono": "https://i.ibb.co/BHzJsnTD/image.png"
+    },
+            {
+        "name": "AZTECA 7",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=ce8f86d2f0d1638574237ada8ac2e82a&key=642772ebf1832f1f2fa58cb7e8fcfd05",
+        "icono": "https://i.ibb.co/fdNfZg0G/image.png"
+    },
+            {
+        "name": "CANAL 5",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+        "icono": "https://i.ibb.co/zTFzVnmp/image.png"
+    },
       {
         "name": "CORAZON",
         "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
