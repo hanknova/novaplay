@@ -2,85 +2,85 @@
   {
     "type": "category",
     "title": "TIGO SPORTS EVENTOS",
-    "items": [  
-		 {
+    "items": [
+      {
         "name": "NOVASPORTS",
         "info": "EVENTOS 1",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-		"url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-		"url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
+        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
+        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
         "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-		"url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-		"url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
+        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
+        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
         "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-		"url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
-		"url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",	 
-		"type": "CLEARKEY",
+        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
+        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffbtutututu8d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
+        "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-		"drm_license_uri2":	"https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",	 
+        "drm_license_uri2": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
-		{
+      {
         "name": "NOVASPORTS",
         "info": "EVENTOS 2",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN4/APP_CHN2/transmux/index.mpd",
-		"url2": "https://sam-py-edge08.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",	
-		"url3": "https://sam-py-edge07.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-		"url4": "https://sam-py-edge06.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-		"url5": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-		"url6": "https://sam-py-edge04.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-		"url7": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
-		"url8": "https://sam-py-edge02.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",	
-		"url9": "https://sam-py-edge01.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",	
+        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
+        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/6a010b0afe/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "type": "CLEARKEY",
-		"drm_license_uri":	"https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
-		{
+      {
         "name": "NOVASPORTS",
         "info": "EVENTOS 3",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",	
-		"url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
-		"url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",	
-		"url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",	
+        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
+        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
+        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
+        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
+        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
+        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
+        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
+        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffutututub8d0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "type": "CLEARKEY",
-		"drm_license_uri":	"https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
         "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
-		{
+      {
         "name": "NOVASPORTS",
-        "info": "EVENTOS 4",	
+        "info": "EVENTOS 4",
         "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
-		 "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
-      }	
+        "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
+      }
     ]
   },
-	{
+  {
     "type": "category",
     "title": "NOVA SPORTS",
     "items": [
-            {
+      {
         "name": "NOVASPORTS",
-        "info": "Tigo Sports PY - 24/7",	
+        "info": "Tigo Sports PY - 24/7",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-		"url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",	
-		"url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-		"url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-		"url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-		"url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-		"url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-		"url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-		"url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",		
+        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-		"drm_license_uri2":	"https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",	 		
+        "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       }
     ]
@@ -93,25 +93,25 @@
       {
         "name": "BRUNO MASI TV",
         "url": "https://www.desde-paraguay.com/brunomasi/brunomasi.m3u8",
-		"url2": "http://138.59.227.20:8000/play/a0gg/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0gg/index.m3u8",
         "icono": "https://i.ibb.co/WNks2gQ1/image.png"
       },
-		{
-                "name": "ROCK & POP PY",
-                "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
-                "icono": "https://i.ibb.co/BK7rpy4p/image.png"
-            },
-				{
-                "name": "TV MAX CNEL OVIEDO",
-                "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-				"url2": "http://138.59.227.20:8000/play/a0ew/index.m3u8",	
-                "icono": "https://i.ibb.co/0VCmZngC/image.png"
-            },
-		{
+      {
+        "name": "ROCK & POP PY",
+        "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
+        "icono": "https://i.ibb.co/BK7rpy4p/image.png"
+      },
+      {
+        "name": "TV MAX CNEL OVIEDO",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "url2": "http://138.59.227.20:8000/play/a0ew/index.m3u8",
+        "icono": "https://i.ibb.co/0VCmZngC/image.png"
+      },
+      {
         "name": "ALMAYA TV PILAR",
         "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "icono": "https://i.ibb.co/YFWNVfmM/image.png"
-    },
+      },
       {
         "name": "TVS ENCARNACIÓN",
         "url": "https://stmv6.voxtvhd.com.br/tvs/tvs/playlist.m3u8",
@@ -131,17 +131,17 @@
         "name": "FarraTV",
         "icono": "https://i.ibb.co/tM77ZJ71/image.png",
         "url": "http://159.203.148.226/live/farra_src.m3u8",
-		"url2": "http://138.59.227.20:8000/play/a0gj/index.m3u8"  
-    },
+        "url2": "http://138.59.227.20:8000/play/a0gj/index.m3u8"
+      },
       {
         "name": "DELREY TV",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "icono": "https://i.ibb.co/W7bV4hm/image.png"
       },
-            {
-        "name": "MEGATV",    
+      {
+        "name": "MEGATV",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
-		"url2": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",		
+        "url2": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
         "icono": "https://i.ibb.co/ML37fmW/image.png"
       },
       {
@@ -154,11 +154,11 @@
         "name": "GEN TV",
         "url": "http://138.59.227.20:8000/play/a0ej/index.m3u8",
         "url2": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
-		 "url3": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
-		  "url4":"https://no.gendigi.net/origin-proxy/playlist.m3u8",
+        "url3": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+        "url4": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
-		{
+      {
         "name": "ABC TV",
         "url": "http://138.59.227.20:8000/play/a0g6/index.m3u8",
         "icono": "https://i.ibb.co/8LD7vRkq/image.png"
@@ -166,19 +166,19 @@
       {
         "name": "TELEFUTURO",
         "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
-		"url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-		 "url3": "http://138.59.227.20:8000/play/a0fh/index.m3u8", 
-		 "url4": "http://138.59.227.20:8000/play/a0ff/index.m3u8",  
+        "url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "url3": "http://138.59.227.20:8000/play/a0fh/index.m3u8",
+        "url4": "http://138.59.227.20:8000/play/a0ff/index.m3u8",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
       {
         "name": "C9N",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/medialist_15609871089997455276_hls.m3u8",
-		"url2": "http://138.59.227.20:8000/play/a0e6/index.m3u8",
-		"url3": "http://138.59.227.20:8000/play/a0fy/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0e6/index.m3u8",
+        "url3": "http://138.59.227.20:8000/play/a0fy/index.m3u8",
         "icono": "https://i.ibb.co/Q74wSJNp/image.png"
       },
-            {
+      {
         "name": "SNT",
         "url": "https://d2qsan2ut81n2k.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/medialist_15609871089997455276_hls.m3u8",
         "icono": "https://i.ibb.co/SCdymVh/image.png"
@@ -191,37 +191,37 @@
       {
         "name": "LA TELE",
         "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
-		"url2": "http://138.59.227.20:8000/play/a0fi/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0fi/index.m3u8",
         "url3": "http://138.59.227.20:8000/play/a0fg/index.m3u8",
-		  "icono": "https://i.ibb.co/SDwTc6gL/image.png"
+        "icono": "https://i.ibb.co/SDwTc6gL/image.png"
       },
-	{
+      {
         "name": "PARAVISION",
-		"VLC": "true",	
+        "VLC": "true",
         "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls",
         "icono": "https://i.ibb.co/qLwhBZMS/image.png"
       },
-		{
+      {
         "name": "SURTV",
-		"VLC": "true",	
+        "VLC": "true",
         "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls",
         "icono": "https://i.ibb.co/gMG7f9LH/image.png"
       },
-		{
+      {
         "name": "TV CAMARA",
-		"VLC": "true",	
+        "VLC": "true",
         "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
         "icono": "https://i.ibb.co/Rk8pT1Wx/image.png"
-      },	
+      },
       {
         "name": "TRECE",
-		"status":"false",  
+        "status": "false",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
-            {
+      {
         "name": "TRECE",
-        "info": "Por Dailymotion",      
+        "info": "Por Dailymotion",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
         "texto": "Conexión via Dailymotion"
@@ -229,13 +229,13 @@
       {
         "name": "PARAGUAY TV",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386_output_0.m3u8",
-		"url2":"http://138.59.227.20:8000/play/a0f8/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0f8/index.m3u8",
         "icono": "https://i.ibb.co/bRFH7D6c/channels4-profile.jpg"
       },
       {
         "name": "ÑANDUTI TV",
         "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
-		"url2": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",  
+        "url2": "https://rds3gen.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
         "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
       {
@@ -252,26 +252,26 @@
       {
         "name": "PRO",
         "url": "https://www.desde-paraguay.com/pro.m3u8?admin=nacion",
-		"url2":"http://138.59.227.20:8000/play/a0fn/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0fn/index.m3u8",
         "icono": "https://i.ibb.co/TBHgtFCC/image.png"
       },
       {
         "name": "POPU TV",
         "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/chunklist.m3u8?admin=nacion",
-		"url2": "http://138.59.227.20:8000/play/a0g8/index.m3u8", 
+        "url2": "http://138.59.227.20:8000/play/a0g8/index.m3u8",
         "icono": "https://i.ibb.co/Z1v1gxFq/image.png"
       },
       {
         "name": "NPY",
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-		"url2": "http://138.59.227.20:8000/play/a0fm/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0fm/index.m3u8",
         "icono": "https://i.ibb.co/bMLJL5G1/image.png"
       },
-            {
+      {
         "name": "UNICANAL",
-		"status": "false",		
+        "status": "false",
         "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8",
-		"url2":"http://138.59.227.20:8000/play/a0e8/index.m3u8",		
+        "url2": "http://138.59.227.20:8000/play/a0e8/index.m3u8",
         "icono": "https://i.ibb.co/nNBj6fnk/image.png"
       },
       {
@@ -297,19 +297,19 @@
         "icono": "https://i.ibb.co/Q7y4whkw/image.png",
         "info": "97.5 FM"
       },
-        {
+      {
         "name": "VENUS MEDIA ",
         "url": "https://copacogen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w531747868.m3u8?admin=nacion",
-		"url2":"http://138.59.227.20:8000/play/a0fc/index.m3u8",	
+        "url2": "http://138.59.227.20:8000/play/a0fc/index.m3u8",
         "icono": "https://i.ibb.co/7djVhTp6/unnamed.jpg"
       },
-        {
+      {
         "name": "HEI NOW ",
         "url": "https://tigocloud.desdeparaguay.net/heitv/heitv_py_baja/playlist.m3u8?admin=nacion",
         "icono": "https://i.ibb.co/XkLZ49BM/image.png"
       },
-       {
-        "name": "REPUBLICA FM TV", 
+      {
+        "name": "REPUBLICA FM TV",
         "url": "https://tigocloud.desdeparaguay.net/republicatv/republicatv/index.m3u8",
         "icono": "https://i.ibb.co/VWY7TB29/image.png",
         "texto": "RADIO - TV 101.3 FM"
@@ -317,7 +317,7 @@
       {
         "name": "CANAL 8",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
-		"url2": "http://138.59.227.20:8000/play/a0fy/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0fy/index.m3u8",
         "icono": "https://i.ibb.co/NgFyMzd1/image.png",
         "texto": "Conectados con la Realidad"
       },
@@ -336,12 +336,12 @@
       {
         "name": "MONUMENTAL TV",
         "url": "https://tigocloud.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion",
-		"url2":"http://138.59.227.20:8000/play/a0fr/index.m3u8",  
+        "url2": "http://138.59.227.20:8000/play/a0fr/index.m3u8",
         "icono": "https://i.ibb.co/q3DypFNJ/image.png",
         "texto": "SEÑAL TV Y RADIO"
       },
       {
-        "name": "COSMOS TV", 
+        "name": "COSMOS TV",
         "info": "TV Y RADIO",
         "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
         "icono": "https://i.ibb.co/m5BwgvgL/image.png"
@@ -355,21 +355,21 @@
         "name": "NEXT",
         "icono": "https://i.ibb.co/mCyTDjS6/image.png",
         "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-		"url2": "http://138.59.227.20:8000/play/a0dp/index.m3u8"  
+        "url2": "http://138.59.227.20:8000/play/a0dp/index.m3u8"
       }
     ]
- },
+  },
   {
     "type": "category",
     "image": "https://i.ibb.co/zbWxZ95/fs1.png",
     "title": " ARGENTINA",
     "items": [
-       {
+      {
         "name": "BAYRES TV",
         "icono": "https://i.ibb.co/G4KNLc5K/image.png",
         "url": "https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w23453938.m3u8"
       },
-       {
+      {
         "name": "NET TV",
         "icono": "https://i.ibb.co/wFPT19L9/image.png",
         "url": "https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8"
@@ -380,27 +380,27 @@
         "icono": "https://i.ibb.co/TDT2DbbF/image.png",
         "url": "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8"
       },
-            {
+      {
         "name": "LN+",
         "icono": "https://i.ibb.co/jvNtSsWj/image.png",
         "url": "https://val04.ride.com.ar/tvmia/an14/playlist.m3u8"
       },
-             {
+      {
         "name": "CRONICA",
         "icono": "https://i.ibb.co/ZRV8cJSg/image.png",
-         "url": "http://45.5.149.220:8000/play/a037/index.m3u8?hls"
+        "url": "http://45.5.149.220:8000/play/a037/index.m3u8?hls"
       },
-       {
+      {
         "name": "TV Publica",
         "icono": "https://i.ibb.co/VWcZhDKv/image.png",
-         "url": "http://45.5.149.220:8000/play/a03g/index.m3u8?hls"
+        "url": "http://45.5.149.220:8000/play/a03g/index.m3u8?hls"
       },
-       {
+      {
         "name": "TN",
         "info": "TeleNoticias",
         "icono": "https://i.ibb.co/wm1j5x9/image.png",
         "url": "https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8"
-      },     
+      },
       {
         "name": "Canal 4",
         "info": "Posadas",
@@ -418,8 +418,7 @@
         "info": "Radio FM/TV",
         "icono": "https://i.ibb.co/YrNjw3J/image.png",
         "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a0ek/index.m3u8"		  
-		  
+        "url2": "http://138.59.227.20:8000/play/a0ek/index.m3u8"
       },
       {
         "name": "CANAL 13",
@@ -432,18 +431,18 @@
         "icono": "https://i.ibb.co/GQ2n4jtV/image.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
       },
-            {
+      {
         "name": "ARGENTINISIMA SATELITAL",
         "icono": "https://i.ibb.co/5WRPR4S8/image.png",
         "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
       },
-       {
+      {
         "name": "A24",
         "icono": "https://i.ibb.co/b9qhSXx/image.png",
-         "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",
+        "user": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) FxiOS/1.0 Mobile/12F69 Safari/600.1.4",
         "url": "https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true"
       },
-            {
+      {
         "name": "AMERICA TV",
         "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
         "icono": "https://i.ibb.co/tpPLgJvv/image.png"
@@ -451,7 +450,8 @@
       {
         "name": "AMERICA TV INTERNACIONAL",
         "icono": "https://i.ibb.co/35gPz3bL/image.png",
-        "url": "https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8"      },
+        "url": "https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8"
+      },
       {
         "name": "CANAL 6 POSADAS",
         "icono": "https://i.ibb.co/KxSqb7j9/image.png",
@@ -466,7 +466,7 @@
         "name": "EL TRECE",
         "icono": "https://i.ibb.co/LhvLyCFh/image.png",
         "url": "http://45.5.151.147:8000/play/a00f/index.m3u8",
-		"url2":"http://138.59.227.20:8000/play/a07b/index.m3u8"  
+        "url2": "http://138.59.227.20:8000/play/a07b/index.m3u8"
       },
       {
         "name": "SOMOS UNO",
@@ -479,125 +479,125 @@
         "icono": "https://i.ibb.co/4wBDgN3C/image.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
       },
-	  {
-      "name": "Canal 11",
-      "info": "Machagay Chaco",
-      "url": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
-      "icono": "https://i.ibb.co/FbS4K9rD/image.png"
-     },
-		 {
-     "name": "Canal 13",
-	"info": "La Rioja",		 
-     "url": "http://arcast.net:1935/mp/mp/playlist.m3u8",  
-    "icono": "https://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png"
-            },
-		 {
-  "name": "Canal 34",
-  "info": "San Juan",					 
-  "url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
-  "icono": "https://i.ibb.co/VcGMYxzr/image.png"
-            },
-		{
-    "name": "Rtv",
-	"info": "Neuquen",				
-    "url": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
-   "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
-            },
-		{
+      {
+        "name": "Canal 11",
+        "info": "Machagay Chaco",
+        "url": "https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8",
+        "icono": "https://i.ibb.co/FbS4K9rD/image.png"
+      },
+      {
+        "name": "Canal 13",
+        "info": "La Rioja",
+        "url": "http://arcast.net:1935/mp/mp/playlist.m3u8",
+        "icono": "https://i.ibb.co/1ZC4K4q/Canal-13-La-Rioja.png"
+      },
+      {
+        "name": "Canal 34",
+        "info": "San Juan",
+        "url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+        "icono": "https://i.ibb.co/VcGMYxzr/image.png"
+      },
+      {
+        "name": "Rtv",
+        "info": "Neuquen",
+        "url": "http://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
+        "icono": "https://i.ibb.co/Fqf4R9T/descarga.jpg"
+      },
+      {
         "name": "GARAGE TV",
         "icono": "https://i.ibb.co/dsztVcvP/image.png",
         "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
       }
-      ]
-      },
-    {
+    ]
+  },
+  {
     "type": "category",
     "title": "CHILE",
     "items": [
-         {
+      {
         "name": "MEGA HD",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/28244",
         "icono": "https://i.ibb.co/Q3JPqXKZ/image.png"
       },
-         {
+      {
         "name": "CHILEVISION",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/58287",
         "icono": "https://i.ibb.co/n833Vgsq/image.png"
       }
     ]
   },
-{
+  {
     "type": "category",
     "title": "BRASIL",
     "items": [
-         {
+      {
         "name": "TOP TV BR",
         "url": "https://isaocorp.cloudecast.com/toptv/index.m3u8",
         "icono": "https://i.ibb.co/dwDrhCCD/image.png"
-        },
-		{
+      },
+      {
         "name": "SBT",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
         "icono": "https://i.ibb.co/LDPbfxW9/image.png"
-        },
-		 {
+      },
+      {
         "name": "TV BAND",
-         "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
-         "icono": "https://i.ibb.co/Xr7yhXBS/image.png"
-        },
-		{
+        "url": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8",
+        "icono": "https://i.ibb.co/Xr7yhXBS/image.png"
+      },
+      {
         "name": "REDE MINAS BR",
         "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w115990305_b2771072.m3u8",
         "icono": "https://i.ibb.co/XfnZG43P/image.png"
-        },
-		{
+      },
+      {
         "name": "TV MAIS BR",
         "url": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
         "icono": "https://i.ibb.co/5P85xrF/image.png"
-        }
+      }
     ]
-  },	
+  },
   {
     "type": "category",
     "title": "MEXICO",
     "items": [
-          {
-                "name": "CANAL 6",
-                "url": "https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/cb563f16657765909ccb2167d4f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24af2aae75b47db69a9ac4e1b9d2658e68314c9c94eb8d1dc469a458376f540cbc4a3dad14188b8ab51f004905c633e0b5cbbd134c49331dcbf9966298c705a257434b6f9ec9424299578534ef1e9cabc7c8d62a4e62b946c3b84158b709422837dab0abebb39cac2bfda54483aa1fb576029a7f0a18dfe4757d704feb1b390191f9dff100a01a329de70296cc8f99f44c9914cc2e26ed1e53e4e75c1c610cbd0e486eae6da1e98239e9fa19e67292400080f922fc6f00ff5088708c2a61a275d7250b48a50b6e2b33c1e4315ffea34d5030b86d99e8ddb023eb80b7133eb61d75e096d82207a269047949b2c7cb6351e8a2738c44d278c3098d24edb86818f6c58b1d0d3309c058ee5508e9c61bc7f302b57d9a1244b515c6e8aa1291a276e8d46e5ddcfed764714fab8ddf2c14a3d1576145a0d85ece27cd48dc1271c1a971e22653913139b1ce469b578218185547ca9ce3c47c76b1423efb33a591a5f82c9a58494a4b22ed751f2bf30bdb259230e933c1732669397805cef31487f003dca6f3605d58f3d3369503241d9004ceee5fc99bba7ef77fd505d2e285f767103989127f456eb901cbe94f091ad85823f4a9f35af0d11d185923cb8a5b6ce410b9fbd445949a39376953d7d9c57e32286842483f04d5048750069d29e58fa68bcddb1ce3fd579fe184d2dbc38f3b7cb87fb4a1aa79d4338364972127c5979654c9bd2c76b0d7ea3ed73b413b6a505e71214003e41df900911d3bb2052cf630c15cfcafc82a3ce0c07d92ea525bb072d92175c7eaf9c42a9e9d4d4f588685805a3c68844a9ae85848c9b8a117705683f8cd21d3253dd35fb9808f1a77f25ba69ea1813b23f1318b548fd0dabedd7b44e8843d4e45089/95/854x480_1355200/index.m3u8",
-                "icono": "https://i.ibb.co/7t4wCF8n/image.png"
-            },
-		{
-                "name": "CANAL ONCE",
-                "url": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/index.m3u8",
-                "icono": "https://i.ibb.co/g1rZnr8/image.png"
-            },
-		 {
-      "name": "AZTECA INTERNACIONAL",
-      "url": "https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8",
-      "icono": "https://i.ibb.co/0VtYrtXD/image.png"
+      {
+        "name": "CANAL 6",
+        "url": "https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/cb563f16657765909ccb2167d4f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5daf6852db80148b6f4adafb8c2360625f5c98435ee3b24af2aae75b47db69a9ac4e1b9d2658e68314c9c94eb8d1dc469a458376f540cbc4a3dad14188b8ab51f004905c633e0b5cbbd134c49331dcbf9966298c705a257434b6f9ec9424299578534ef1e9cabc7c8d62a4e62b946c3b84158b709422837dab0abebb39cac2bfda54483aa1fb576029a7f0a18dfe4757d704feb1b390191f9dff100a01a329de70296cc8f99f44c9914cc2e26ed1e53e4e75c1c610cbd0e486eae6da1e98239e9fa19e67292400080f922fc6f00ff5088708c2a61a275d7250b48a50b6e2b33c1e4315ffea34d5030b86d99e8ddb023eb80b7133eb61d75e096d82207a269047949b2c7cb6351e8a2738c44d278c3098d24edb86818f6c58b1d0d3309c058ee5508e9c61bc7f302b57d9a1244b515c6e8aa1291a276e8d46e5ddcfed764714fab8ddf2c14a3d1576145a0d85ece27cd48dc1271c1a971e22653913139b1ce469b578218185547ca9ce3c47c76b1423efb33a591a5f82c9a58494a4b22ed751f2bf30bdb259230e933c1732669397805cef31487f003dca6f3605d58f3d3369503241d9004ceee5fc99bba7ef77fd505d2e285f767103989127f456eb901cbe94f091ad85823f4a9f35af0d11d185923cb8a5b6ce410b9fbd445949a39376953d7d9c57e32286842483f04d5048750069d29e58fa68bcddb1ce3fd579fe184d2dbc38f3b7cb87fb4a1aa79d4338364972127c5979654c9bd2c76b0d7ea3ed73b413b6a505e71214003e41df900911d3bb2052cf630c15cfcafc82a3ce0c07d92ea525bb072d92175c7eaf9c42a9e9d4d4f588685805a3c68844a9ae85848c9b8a117705683f8cd21d3253dd35fb9808f1a77f25ba69ea1813b23f1318b548fd0dabedd7b44e8843d4e45089/95/854x480_1355200/index.m3u8",
+        "icono": "https://i.ibb.co/7t4wCF8n/image.png"
       },
-		 {
-                "name": "CANAL JALISCO TV",
-                "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
-                "icono": "https://i.ibb.co/C5s9gLj1/image.png"
-            },
-		{
-                "name": "TELEDIARIO NOW",
-                "url": "https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8",
-                "icono": "https://i.ibb.co/JLCHvc7/image.png"
-            },
-		{
-                "name": "CORAZON",
-                "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
-                "icono": "https://i.ibb.co/rG5C7VHJ/image.png"
-            }
+      {
+        "name": "CANAL ONCE",
+        "url": "https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/index.m3u8",
+        "icono": "https://i.ibb.co/g1rZnr8/image.png"
+      },
+      {
+        "name": "AZTECA INTERNACIONAL",
+        "url": "https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8",
+        "icono": "https://i.ibb.co/0VtYrtXD/image.png"
+      },
+      {
+        "name": "CANAL JALISCO TV",
+        "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+        "icono": "https://i.ibb.co/C5s9gLj1/image.png"
+      },
+      {
+        "name": "TELEDIARIO NOW",
+        "url": "https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8",
+        "icono": "https://i.ibb.co/JLCHvc7/image.png"
+      },
+      {
+        "name": "CORAZON",
+        "url": "https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8",
+        "icono": "https://i.ibb.co/rG5C7VHJ/image.png"
+      }
     ]
   },
-     {
+  {
     "type": "category",
     "title": "DEPORTES",
     "items": [
-		 {
+      {
         "name": "ESPN",
         "url": "http://38.226.49.253:8000/play/a07l/index.m3u8",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
@@ -605,35 +605,35 @@
       {
         "name": "ESPN",
         "info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/premier.php?stream=espn",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
-	  {
+      {
         "name": "ESPN 2",
-		"url":  "http://38.226.49.253:8000/play/a06g/index.m3u8",  
+        "url": "http://38.226.49.253:8000/play/a06g/index.m3u8",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
-      },	
+      },
       {
         "name": "ESPN 2",
         "info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
-		 {
+      {
         "name": "ESPN 3",
         "url": "http://38.226.49.253:8000/play/a07g/index.m3u8",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
-            {
+      {
         "name": "ESPN 3",
         "info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO",       
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/premier.php?stream=espn3",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
-		{
+      {
         "name": "ESPN 4",
         "url": "http://38.226.49.253:8000/play/a065/index.m3u8",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
@@ -641,60 +641,60 @@
       {
         "name": "ESPN 4",
         "info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO",   
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/premier.php?stream=espn4",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
-		 {
-        "name": "ESPN 5",	 
+      {
+        "name": "ESPN 5",
         "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
-       {
+      {
         "name": "ESPN 5",
         "info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO",   
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
       {
         "name": "ESPN 6",
         "url": "http://38.226.49.253:8000/play/a05p/index.m3u8",
-		"url2": "http://38.210.3.64:8090/play/a0dj/index.m3u8",  
+        "url2": "http://38.210.3.64:8090/play/a0dj/index.m3u8",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
       },
       {
         "name": "ESPN 6",
         "info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn6"
       },
-		{
+      {
         "name": "ESPN 7",
-		"url": "http://38.226.49.253:8000/play/a087/index.m3u8",
-		"icono": "https://i.ibb.co/vxFK1Cvm/image.png"
-       },    
+        "url": "http://38.226.49.253:8000/play/a087/index.m3u8",
+        "icono": "https://i.ibb.co/vxFK1Cvm/image.png"
+      },
       {
         "name": "ESPN 7",
         "info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/vxFK1Cvm/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn7"
-       },      
-       {
+      },
+      {
         "name": "ESPN PREMIUM AR",
         "url": "http://200.112.174.230/mtcast_espnpremiumhd/index.m3u8",
         "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
-	  {
+      {
         "name": "ESPN PREMIUM AR",
-		"info": "Serv. Externo",
-		"texto": "EL CANAL PUEDE NO ESTAR ACTIVO", 
+        "info": "Serv. Externo",
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtp-abc.net/global1.php?stream=espnpremium",
         "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
-		{
+      {
         "name": "ESPN PREMIUM CL",
         "url": "http://38.226.49.253:8000/play/a07t/index.m3u8",
         "icono": "https://i.ibb.co/9m3XVqHr/image.png"
@@ -715,33 +715,32 @@
         "name": "FOX SPORTS 3",
         "info": "Argentina",
         "icono": "https://i.ibb.co/vxcj4GS9/image.png",
-        "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"        
+        "url": "http://138.59.227.20:8000/play/a06y/index.m3u8"
       },
-        {
+      {
         "name": "FOX DEPORTES",
-        "info": "Estados Unidos",  
+        "info": "Estados Unidos",
         "icono": "https://i.ibb.co/DD6X7bbW/image.png",
         "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
         "texto": "IDIOMA: ESPAÑOL"
       },
       {
         "name": "BEIN SPORTS Ñ",
-		 "status":"false", 
+        "status": "false",
         "icono": "https://i.ibb.co/jY8D7RG/image.png",
         "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8"
       },
       {
-       "name": "BEIN SPORTS EXTRA Ñ",
-       "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-       "icono": "https://i.ibb.co/ksgFdZ6z/image.png"
+        "name": "BEIN SPORTS EXTRA Ñ",
+        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+        "icono": "https://i.ibb.co/ksgFdZ6z/image.png"
       },
       {
-       "name": "BEIN SPORTS EXTRA Ñ",
+        "name": "BEIN SPORTS EXTRA Ñ",
         "info": "Señal Extra",
         "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
         "icono": "https://i.ibb.co/ksgFdZ6z/image.png"
       },
-      
       {
         "name": "TUDN MX",
         "url": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
@@ -749,7 +748,7 @@
       },
       {
         "name": "TUDN MX",
-         "info": "Señal Extra",
+        "info": "Señal Extra",
         "url": "https://streaming.alwaysdata.net/tudn.php",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
@@ -765,9 +764,9 @@
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
       },
-            {
+      {
         "name": "TNT SPORTS PREMIUM",
-        "info": "Chile",   
+        "info": "Chile",
         "url": "http://45.181.120.65:9087/play/057/index.m3u8",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
       },
@@ -778,65 +777,64 @@
       },
       {
         "name": "TYC SPORTS",
-        "info": "Señal Extra",  
+        "info": "Señal Extra",
         "url": "https://streamtpnew.com/global2.php?stream=tycsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
-	{
+      {
         "name": "DIRECTV SPORTS",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-      "url2": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
-    "url3": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
+        "url2": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "url3": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
-    "drm_license_uri2": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",    
+        "drm_license_uri2": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
-        {
+      {
         "name": "DIRECTV SPORTS",
-     "info": "PERU",    
+        "info": "PERU",
         "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },  
+      },
       {
         "name": "DIRECTV SPORTS 2",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-    "url2": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",  
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+        "url2": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",  
+        "drm_license_uri": "https://results.femon.net?keyid=03f12d6a3dbfd3a6fa7dd7f6417e0c11&key=ea07b87acdf2e45be824cde4a1cf3504",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
-
       {
         "name": "DIRECTV SPORTS 2",
         "info": "Señal Extra",
         "url": "https://streamtpnew.com/global1.php?stream=dsports2",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
-  },
-   {
+      },
+      {
         "name": "DIRECTV SPORTS 2",
-         "info": "Peru",
+        "info": "Peru",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },   
+      },
       {
         "name": "DIRECTV SPORTS +",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-    "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",  
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+        "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",  
+        "drm_license_uri": "https://results.femon.net?keyid=83f81c4cc1443991543de4e22eea7586&key=ddfd7ca653d6f35543d8edb3c688e20f",
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
-  },
-  {
+      },
+      {
         "name": "DIRECTV SPORTS +",
         "info": "Señal Extra",
         "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
         "icono": "https://i.ibb.co/QvQsMP14/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
-  },	
-		{
+      },
+      {
         "name": "LA LIGA TV",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
         "icono": "https://i.ibb.co/kg6tjpVT/image.png",
@@ -846,29 +844,29 @@
       {
         "name": "SKY SPORTS LA LIGA",
         "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-		"url2": "http://181.78.109.48:9998/play/a06r/index.m3u8",  
+        "url2": "http://181.78.109.48:9998/play/a06r/index.m3u8",
         "icono": "https://i.ibb.co/r2y0gQgc/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
       },
-       {
+      {
         "name": "TYC SPORTS FAN",
         "icono": "https://i.ibb.co/fY9pYbP9/image.png",
         "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
       },
-            {
-        "name": "CLARO SPORTS",       
+      {
+        "name": "CLARO SPORTS",
         "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
         "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
-            {
+      {
         "name": "MOVISTAR DEPORTES",
-		"url": "http://38.226.49.253:8000/play/a0gf/index.m3u8",		
-		"url1": "http://190.234.82.52:8000/play/ac1q/index.m3u8",		
+        "url": "http://38.226.49.253:8000/play/a0gf/index.m3u8",
+        "url1": "http://190.234.82.52:8000/play/ac1q/index.m3u8",
         "url2": "http://38.188.100.18:8000/play/a0fb/index.m3u8",
         "icono": "https://i.ibb.co/rKWH0YF8/image.png"
       },
-       {
+      {
         "name": "WIN SPORTS",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/167739",
         "icono": "https://i.ibb.co/60Z9mmCt/image.png"
@@ -884,7 +882,7 @@
         "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
         "icono": "https://i.ibb.co/6JtYzTKN/image.png"
       },
-		{
+      {
         "name": "EUROSPORT 1",
         "url": "https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
         "icono": "https://i.ibb.co/ks5gyCQP/image-934.jpg",
@@ -898,59 +896,58 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=e369d9ab101d4b60ba13c0384f503528&key=041e35e31381521b3398af5c6dd99414"
       },
-		{
+      {
         "name": "NICASPORTS",
         "url": "https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/index.m3u8",
         "icono": "https://i.ibb.co/7tZj27XV/image.png"
       },
-	  {
-          "name": "CAZÉTV",
-          "icono": "https://i.ibb.co/xSyvqf0F/image.png",
-          "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-        },
-		{
+      {
+        "name": "CAZÉTV",
+        "icono": "https://i.ibb.co/xSyvqf0F/image.png",
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+      },
+      {
         "name": "CAZÉTV 1",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "icono": "https://i.ibb.co/zW3PRC9N/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
-},
-{
+      },
+      {
         "name": "CAZÉTV 2",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
         "icono": "https://i.ibb.co/21BDZ7pC/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457"
-        
-},
-{
+      },
+      {
         "name": "CAZÉTV 3",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
         "icono": "https://i.ibb.co/G3rzpVNn/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621"
-},
-{
+      },
+      {
         "name": "SPORTV 1",
         "url": "https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
         "icono": "https://i.ibb.co/v6J2Lcj9/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=4bbcff3289d457b4dd5dbdd21221de9a&key=c4906b9a9f8dda3c0725bddb8c497733"
-},
-{
+      },
+      {
         "name": "SPORTV 2",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
         "icono": "https://i.ibb.co/R4Jbm8z7/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=3de028eafb3b2caffec03be1c1c818b3&key=8fbdd8a9ae6748696bb13e547bb093fc"
-},
- {
+      },
+      {
         "name": "SPORTV 3",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
         "icono": "https://i.ibb.co/KcF6CwHj/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=902e5ec0e3d05e665daa32fc23f4f59e&key=7b2322a273843921a43e2c61dac7cae3"
-},
+      },
       {
         "name": "DAZN COMBAT",
         "url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8",
@@ -964,21 +961,20 @@
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
     "title": "ENTRETENIMIENTO",
     "items": [
-
       {
         "name": "UNIVERSAL COMEDY",
-		"status":"false",  
+        "status": "false",
         "url": "http://38.226.49.253:8000/play/a03a/index.m3u8",
         "icono": "https://i.ibb.co/rKvj7dqv/image.png"
       },
       {
         "name": "CINEMAX",
         "url": "http://38.226.49.253:8000/play/a0ax/index.m3u8",
-		"url2": "http://38.226.49.253:8000/play/a05j/index.m3u8",
-		"url3": "http://45.5.151.62:8000/play/a012/index.m3u8",   
+        "url2": "http://38.226.49.253:8000/play/a05j/index.m3u8",
+        "url3": "http://45.5.151.62:8000/play/a012/index.m3u8",
         "icono": "https://i.ibb.co/Wvk5XLJC/image.png"
       },
-       {
+      {
         "name": "CINECANAL",
         "url": "http://38.226.49.253:8000/play/a05z/index.m3u8",
         "icono": "https://i.ibb.co/yB4Jjt4s/image.png"
@@ -989,9 +985,9 @@
         "icono": "https://i.ibb.co/N2TZV3Sv/image.png"
       },
       {
-       "name": "TLN",
-       "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-       "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
+        "name": "TLN",
+        "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+        "icono": "https://i.ibb.co/KHSrKnN/7314320.png"
       },
       {
         "name": "TNT NOVELAS",
@@ -1006,7 +1002,7 @@
       {
         "name": "STAR CHANNEL HD",
         "url": "http://cablemaxsigloxxi.com:8000/play/a0sy/index.m3u8?hls",
-		"url2": "http://38.226.49.253:8000/play/a06q/index.m3u8",  
+        "url2": "http://38.226.49.253:8000/play/a06q/index.m3u8",
         "icono": "https://i.ibb.co/MkxJnp7W/image.png"
       },
       {
@@ -1017,10 +1013,10 @@
       {
         "name": "A&E",
         "url": "http://38.226.49.253:8000/play/a05m/index.m3u8",
-		"url2": "http://38.226.49.253:8000/play/a05u/index.m3u8",  
+        "url2": "http://38.226.49.253:8000/play/a05u/index.m3u8",
         "icono": "https://i.ibb.co/vvDdW11M/image.png"
-      },     
-       {
+      },
+      {
         "name": "AXN",
         "url": "http://38.226.49.253:8000/play/a062/index.m3u8",
         "icono": "https://i.ibb.co/3m2nQZ1p/image.png"
@@ -1042,73 +1038,71 @@
       },
       {
         "name": "HISTORY",
-		"url": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
-		"url2": "http://38.226.49.253:8000/play/a0gc/index.m3u8",
+        "url": "http://38.226.49.253:8000/play/a0ge/index.m3u8",
+        "url2": "http://38.226.49.253:8000/play/a0gc/index.m3u8",
         "url3": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
         "icono": "https://i.ibb.co/h1BSG3y5/image.png"
       },
       {
         "name": "HISTORY 2",
-		"url": "http://38.226.49.253:8000/play/a03m/index.m3u8",  
+        "url": "http://38.226.49.253:8000/play/a03m/index.m3u8",
         "url2": "http://38.188.48.83:8000/play/a0kp/index.m3u8",
-		"url3": "http://38.211.118.50:50002/play/a0ab/index.m3u8",  
+        "url3": "http://38.211.118.50:50002/play/a0ab/index.m3u8",
         "icono": "https://i.ibb.co/hxnBDPpS/image.png"
       },
-       {
+      {
         "name": "DISCOVERY",
-		"url": "http://38.226.49.253:8000/play/a05s/index.m3u8",   
+        "url": "http://38.226.49.253:8000/play/a05s/index.m3u8",
         "url2": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
-		"url3": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",  
+        "url3": "http://191.97.59.33:8000/play/a07h/index.m3u8 ",
         "icono": "https://i.ibb.co/TxVd2wJd/image.png"
       },
       {
         "name": "DISCOVERY H&H",
-		"url": "http://38.226.49.253:8000/play/a0an/index.m3u8",    
-		"url2": "http://138.59.227.20:8000/play/a08f/index.m3u8",    
-		"url3": "http://190.7.19.197:232/play/a064/index.m3u8",  
+        "url": "http://38.226.49.253:8000/play/a0an/index.m3u8",
+        "url2": "http://138.59.227.20:8000/play/a08f/index.m3u8",
+        "url3": "http://190.7.19.197:232/play/a064/index.m3u8",
         "icono": "https://i.ibb.co/20WP0XmJ/image.png"
-        
       },
-      
-            {
+      {
         "name": "DISCOVERY THEATER",
         "icono": "https://i.ibb.co/x8h0Lmp0/image.png",
         "url": "http://38.226.49.253:8000/play/a06b/index.m3u8",
-		"url2": "http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls"		
+        "url2": "http://cablemaxsigloxxi.com:8000/play/a06w/index.m3u8?hls"
       },
-       {
+      {
         "name": "DISCOVERY SCIENCE",
         "icono": "https://i.ibb.co/5Wx5R2nH/image.png",
         "url": "http://38.226.49.253:8000/play/a03o/index.m3u8",
-		"url2": "http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls"   
+        "url2": "http://cablemaxsigloxxi.com:8000/play/a00g/index.m3u8?hls"
       },
       {
         "name": "DISCOVERY TURBO",
-        "icono": "https://i.ibb.co/LX1JWdhH/image.png", 
-		"url": "http://38.226.49.253:8000/play/a05i/index.m3u8",  
+        "icono": "https://i.ibb.co/LX1JWdhH/image.png",
+        "url": "http://38.226.49.253:8000/play/a05i/index.m3u8",
         "url2": "http://cablemaxsigloxxi.com:8000/play/a0u9/index.m3u8?hls"
       },
       {
         "name": "SUN CHANNEL",
-		"url": "http://38.226.49.253:8000/play/a06p/index.m3u8",  
+        "url": "http://38.226.49.253:8000/play/a06p/index.m3u8",
         "url2": "http://138.121.12.126:8000/play/a02u/index.m3u8",
         "icono": "https://i.ibb.co/BFsJVVG/image.png"
       },
-       {
+      {
         "name": "NAT GEO",
-		"url": "http://38.226.49.253:8000/play/a05x/index.m3u8",   
+        "url": "http://38.226.49.253:8000/play/a05x/index.m3u8",
         "url2": "http://181.224.255.210:8001/play/a0m2/index.m3u8",
         "icono": "https://i.ibb.co/ksfZR4Yj/image.png"
       },
-       {
+      {
         "name": "LIFETIME",
-		"url": "http://38.226.49.253:8000/play/a043/index.m3u8",   
+        "url": "http://38.226.49.253:8000/play/a043/index.m3u8",
         "url2": "http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318632.m3u8",
         "icono": "https://i.ibb.co/PsSfDL8Z/image.png"
       },
-            {
+      {
         "name": "HGTV",
-		"url": "http://38.226.49.253:8000/play/a03w/index.m3u8",		
+        "url": "http://38.226.49.253:8000/play/a03w/index.m3u8",
         "url2": "http://190.0.247.38:8000/play/a00u",
         "icono": "https://i.ibb.co/WpcVSV2G/image.png"
       }
@@ -1136,19 +1130,19 @@
         "url": "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/4gDZSNZC/image.png"
       },
-		 {
+      {
         "name": "CNN",
         "info": "Chile",
         "url": "http://38.226.49.253:8000/play/a04y/index.m3u8",
         "icono": "https://i.ibb.co/gbLRLR8G/image.png"
       },
-            {
+      {
         "name": "CNN",
         "info": "Internacional",
         "url": "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8",
         "icono": "https://i.ibb.co/3mN9Wb0K/image.png"
       },
-       {
+      {
         "name": "CNN",
         "info": "Brasil",
         "url": "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8",
@@ -1177,20 +1171,20 @@
         "name": "CNN HEADLINES INTERNATIONAL",
         "url": "https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ESBD190000137",
         "icono": "https://i.ibb.co/ywkjLWY/ESBD190000137-20260331-T032325-SQUARE.png",
-        "texto":"Idioma: English"
+        "texto": "Idioma: English"
       },
-       {
+      {
         "name": "RALLY TV FAST+",
         "url": "https://dupr7fgg2kr7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z9crmizz78jta/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ES51000017V",
         "icono": "https://i.ibb.co/n8cwXYqV/ES51000017-V-20260120-T031334-SQUARE.png",
-         "texto":"Idioma: English"
+        "texto": "Idioma: English"
       },
       {
         "name": "FOX NEWS USA",
         "url": "http://41.205.93.154/FOX-NEWS/index.m3u8",
         "type": "hls",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-        "texto":"Idioma: English"
+        "texto": "Idioma: English"
       }
     ]
   },
@@ -1199,7 +1193,7 @@
     "image": "https://i.ibb.co/Nd2FsWsZ/dazn1.png",
     "title": "VARIADOS - INTERNACIONALES",
     "items": [
-		{
+      {
         "name": "LA 1",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
@@ -1218,20 +1212,20 @@
         "icono": "https://i.ibb.co/8LVXtd1Q/image.png",
         "url": "https://jmp2.uk/stvp-US39000038W"
       },
-       {
+      {
         "name": "UNIVISION",
         "url": "http://177.10.184.193:8000/play/a0a7/index.m3u8",
         "icono": "https://i.ibb.co/fzTdSP8F/image.png"
       },
-       {
+      {
         "name": "UCL",
-         "info": "Uruguay",
+        "info": "Uruguay",
         "icono": "https://i.ibb.co/ZzpYCgPD/image.png",
         "url": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
       },
-             {
+      {
         "name": "TELEMUNDO",
-         "info": "Puerto Rico",
+        "info": "Puerto Rico",
         "icono": "https://i.ibb.co/DgwRzpvZ/image.png",
         "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
       },
@@ -1241,52 +1235,51 @@
         "url": "http://201.151.118.136:8000/play/a00h/index.m3u8"
       },
       {
-                "name": "TELEMUNDO NOTICIAS",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
-                "icono": "https://i.ibb.co/S4chHSSp/image.png"
-            },
-			{
-                "name": "TELEMUNDO 51",
-                "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
-                "icono": "https://i.ibb.co/gx16mJk/image.png"
-            },
-			{
-                "name": "TELEMUNDO 52",
-                "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
-                "icono": "https://i.ibb.co/tPNyJ6X3/image.png"
-            },	
-			
-			{
-                "name": "TELEMUNDO ACCION",
-                "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
-                "icono": "https://i.ibb.co/1fSwQRcC/image.png"
-            },
-			{
-                "name": "UNIVERSO",
-                "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
-                "icono": "https://i.ibb.co/Z66Y08qq/image.png"
-            },
+        "name": "TELEMUNDO NOTICIAS",
+        "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467",
+        "icono": "https://i.ibb.co/S4chHSSp/image.png"
+      },
+      {
+        "name": "TELEMUNDO 51",
+        "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8",
+        "icono": "https://i.ibb.co/gx16mJk/image.png"
+      },
+      {
+        "name": "TELEMUNDO 52",
+        "url": "https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8",
+        "icono": "https://i.ibb.co/tPNyJ6X3/image.png"
+      },
+      {
+        "name": "TELEMUNDO ACCION",
+        "url": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470",
+        "icono": "https://i.ibb.co/1fSwQRcC/image.png"
+      },
+      {
+        "name": "UNIVERSO",
+        "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
+        "icono": "https://i.ibb.co/Z66Y08qq/image.png"
+      },
       {
         "name": "CANAL 57",
-         "info": "USA",
+        "info": "USA",
         "icono": "https://i.ibb.co/ZRQVRWKH/image.png",
         "url": "https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8"
       },
       {
         "name": "CGTN",
-         "info": "En Español",
+        "info": "En Español",
         "icono": "https://i.ibb.co/ymSYCKq7/image.png",
         "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
       },
       {
         "name": "VENEVISION",
-         "info": "Internacional",
+        "info": "Internacional",
         "icono": "https://i.ibb.co/Xfd5VZdp/image.png",
         "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8"
       },
-             {
+      {
         "name": "VTV CANAL 23",
-        "info": "Rep. Dominicana",       
+        "info": "Rep. Dominicana",
         "icono": "https://i.ibb.co/9k2C9zWw/image.png",
         "url": "https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8"
       }
@@ -1314,10 +1307,10 @@
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
         "icono": "https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo=s485-rw"
       },
-     {
+      {
         "name": "TOONCAST",
         "icono": "https://i.ibb.co/mZL9dRm/image.png",
-         "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls"
+        "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls"
       },
       {
         "name": "NARUTO SHIPPUDEN",
@@ -1374,8 +1367,7 @@
         "icono": "https://i.ibb.co/B23WZvts/image.png",
         "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-31.playlist.m3u8"
       },
-        
-       {
+      {
         "name": "CARTOONITO",
         "icono": "https://i.ibb.co/VWDzXmT3/image.png",
         "url": "http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls"
@@ -1442,7 +1434,6 @@
         "url": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel_id=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=149.102.236.246&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=56537eae-a400-4133-a775-4ecbee36b88a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor\n\n",
         "icono": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg"
       },
-
       {
         "name": "CRIMEN",
         "url": "https://crime-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=149.102.236.246&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=6220&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=55da5dc8-3ac6-4d85-96cc-9633fcab1a6d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6220&publishing_platform_id=5&tenant_identifier=rtv",
@@ -1450,104 +1441,103 @@
       }
     ]
   },
-   {
+  {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "NOVAX",
     "items": [
-     {
+      {
         "name": "PLAYBOY",
         "url": "http://38.226.49.253:8000/play/a0e6/index.m3u8",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/PzQYG9qt/image.png"
       },
-		 {
+      {
         "name": "PLAYBOY +",
         "url": "http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6242/index.m3u8",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/PzQYG9qt/image.png"
       },
-		{
+      {
         "name": "SEXY HOT",
         "url": "http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6282/index.m3u8",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/rfN72c8Q/image.png"
       },
-		{
+      {
         "name": "DORCEL",
         "url": "http://kulis2026.xyz:8080/can35cn/cankmsucan/231280",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/tPHHjyBw/image.png"
       },
-		{
+      {
         "name": "BRAZZERS TV FHD",
         "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/146367.m3u8",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/rfpWNKYV/image.png"
       },
-
-		{
+      {
         "name": "AMAZING TV",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png"
       },
-		{
+      {
         "name": "PANDORA PERFECT",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png"
       },
-		{
+      {
         "name": "Sonsee 1",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png"
       },
-		{
+      {
         "name": "Sonsee 2",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png"
       },
-		{
+      {
         "name": "Sonsee 3",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png"
       },
-		{
+      {
         "name": "BANANA",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png"
       },
-		{
+      {
         "name": "EROTIC 5",
         "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7378.m3u8",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/S7WcSgPM/Pink-Erotic-5.webp"
       },
-		{
+      {
         "name": "VENUS",
         "url": "http://38.226.49.253:8000/play/a0eh/index.m3u8",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/mrjFxPz4/image.png"
       },
-		{
+      {
         "name": "SEXTREME",
         "url": "http://24.152.42.29:8000/play/a0c2/index.m3u8",
-		"nsfw":"yes",  
+        "nsfw": "yes",
         "icono": "https://i.ibb.co/jZGvtfKJ/image.png"
       }
     ]
   },
-   {
+  {
     "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SOLO PARA PRUEBAS DE CANALES A AGREGAR ",
     "items": [
-     {
+      {
         "name": "PARAVISION TEST FOR INTERCABLE  ",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
@@ -1556,23 +1546,21 @@
         "Origin": "https://portal.app.flow.com.py",
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-    },
-		
-		{
+      },
+      {
         "name": "Prueba TEST",
         "youtube": "https://www.youtube.com/watch?v=XK9b86yB1ng",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
-        {
+      {
         "name": "Señal No Asignada",
-          "info": "SIN TEST :C",
-         "loop": "true", 
+        "info": "SIN TEST :C",
+        "loop": "true",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "loader":"yes",
-        "nsfw":"yes",  
+        "loader": "yes",
+        "nsfw": "yes",
         "url": "https://goo.su/KoXJ"
       }
     ]
   }
-  
-    ]
+]
