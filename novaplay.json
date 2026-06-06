@@ -632,6 +632,20 @@
         "url": "https://streamtpnew.com/premier.php?stream=espn",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
+		{
+        "name": "ESPN",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14432/",
+        "icono": "https://i.ibb.co/Pvq156K0/image.png"
+},		
+{
+        "name": "ESPN",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
+        "icono": "https://i.ibb.co/Pvq156K0/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=38b63f9aaa7b7c7a822c8e14c8a7212e&key=d6b1f45a59d2dac1a730c7f56c74971a"
+},
       {
         "name": "ESPN 2",
         "url": "http://38.226.49.253:8000/play/a06g/index.m3u8",
@@ -644,6 +658,20 @@
         "url": "https://streamtpnew.com/premier.php?stream=espn2",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
+	      {
+        "name": "ESPN 2",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14438/",
+        "icono": "https://i.ibb.co/mwy8Vmj/image.png"
+      },
+	        {
+        "name": "ESPN 2",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd",
+        "icono": "https://i.ibb.co/mwy8Vmj/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a49114957d155cacb2e027af14450b94&key=0fed6599a8740879a29f1a49ec6d482a"
+      },	
       {
         "name": "ESPN 3",
         "url": "http://38.226.49.253:8000/play/a07g/index.m3u8",
@@ -655,6 +683,20 @@
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/premier.php?stream=espn3",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
+      },
+		 {
+        "name": "ESPN 3",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14444/",
+        "icono": "https://i.ibb.co/MkxW7vqS/image.png"
+      },
+	        {
+        "name": "ESPN 3",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
+        "icono": "https://i.ibb.co/MkxW7vqS/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6"
       },
       {
         "name": "ESPN 4",
@@ -668,6 +710,20 @@
         "url": "https://streamtpnew.com/premier.php?stream=espn4",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
+		   {
+        "name": "ESPN 4",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14450/",
+        "icono": "https://i.ibb.co/HTrmQvrj/image.png"
+      },
+	  {
+        "name": "ESPN 4",
+		"info": "MEXICO",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
+        "icono": "https://i.ibb.co/HTrmQvrj/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a1b8099b64726abc7723e17829b43a55&key=908a93fe41acf07538c88c1b30277656"
+      },
       {
         "name": "ESPN 5",
         "url": "http://38.226.49.253:8000/play/a078/index.m3u8",
@@ -678,6 +734,12 @@
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtpnew.com/global1.php?stream=espn5",
+        "icono": "https://i.ibb.co/JwKrdwmf/image.png"
+      },
+		   {
+        "name": "ESPN 5",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14456/",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
       {
@@ -692,6 +754,12 @@
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png",
         "url": "https://streamtpnew.com/global1.php?stream=espn6"
+      },
+		{
+        "name": "ESPN 6",
+		"info": "Brasil",
+        "url": "http://46.151.196.223:14462/",
+        "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
       },
       {
         "name": "ESPN 7",
@@ -765,10 +833,13 @@
         "icono": "https://i.ibb.co/ksgFdZ6z/image.png"
       },
       {
-        "name": "TUDN MX",
-        "url": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
-        "icono": "https://i.ibb.co/21rG76g7/image.png"
-      },
+        "name": "TUDN MX ",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/TUDN-HD/default.mpd",
+         "url2": "http://201.151.118.136:8000/play/a00g/index.m3u8?hls",
+        "icono": "https://i.ibb.co/21rG76g7/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=010efb17241d2f50c80d3ca5218770f4&key=ecfec27a0a1ad4004488263c33b51e9f"
+        },
       {
         "name": "TUDN MX",
         "info": "Señal Extra",
