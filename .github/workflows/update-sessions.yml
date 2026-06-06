@@ -2,7 +2,7 @@ name: Actualizar sesiones
 
 on:
   schedule:
-    - cron: "*/1 * * * *" # cada 30 minutos
+    - cron: "*/4 * * * *" # cada 3 minutos
   workflow_dispatch:
 
 jobs:
