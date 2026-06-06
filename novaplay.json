@@ -212,6 +212,8 @@
         "name": "TRECE",
         "status": "false",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
+		"url2": "http://138.59.227.20:8000/play/a0e3/index.m3u8",
+		"url3": "http://138.59.227.20:8000/play/a0fl/index.m3u8",  
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
@@ -264,8 +266,7 @@
       },
       {
         "name": "UNICANAL",
-        "status": "false",
-        "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8",
+        "url": "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8", 
         "url2": "http://138.59.227.20:8000/play/a0e8/index.m3u8",
         "icono": "https://i.ibb.co/nNBj6fnk/image.png"
       },
@@ -867,6 +868,7 @@
       {
         "name": "TYC SPORTS",
         "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
+		"url2": "http://138.59.227.20:8000/play/a06x/index.m3u8",  
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
       {
