@@ -843,22 +843,33 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=9f327d24c66fbd84e15ab5c9ead7c7a4&key=83837185529c0c4048f81386c2d36426"
       },
+     {
+        "name": "BEIN SPORTS 1",
+        "url": "https://global-cdn3.visionplus.id/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?key=142473ee925db0db0083c74a178c8298&keyid=3ae6a430c1b8420ea280e317143d8d3a",
+        "icono": "https://i.ibb.co/5Xqfjd7Q/image.png"
+      },     
+           {
+        "name": "BEIN SPORTS 2",
+        "url": "https://global-cdn4.visionplus.id/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?key=dbe4ad6803e74739b8f954d23cc58e7b&keyid=3d756d566ca94e6499518ffb1474d5d0",
+        "icono": "https://i.ibb.co/Gwrfydy/image.png"
+      },  
+           {
+        "name": "BEIN SPORTS 3",
+        "url": "https://global-cdn1.visionplus.id/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://oikoapp.xyz/owner/results.php?key=246cc6ee7ab235cb824ed3b904b7040b&keyid=344d320ca45641a88cf002db351ed9a4",
+        "icono": "https://i.ibb.co/fVc61gZy/image.png"
+      },  
       {
-        "name": "BEIN SPORTS Ñ",
-        "status": "false",
-        "icono": "https://i.ibb.co/jY8D7RG/image.png",
-        "url": "https://tx4.nexgen.bz:4000/BEIN_ESPANOL/index.m3u8"
-      },
-      {
-        "name": "BEIN SPORTS EXTRA Ñ",
-        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-        "icono": "https://i.ibb.co/ksgFdZ6z/image.png"
-      },
-      {
-        "name": "BEIN SPORTS EXTRA Ñ",
-        "info": "Señal Extra",
-        "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
-        "icono": "https://i.ibb.co/ksgFdZ6z/image.png"
+        "name": "BEIN SPORTS XTRA Ñ",
+        "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+		"url2": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8",
+		"url3": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol1080.m3u8",
+        "icono": "https://i.ibb.co/DPj3hQc4/image.png"
       },
       {
         "name": "TUDN MX ",
