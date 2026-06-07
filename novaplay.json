@@ -211,8 +211,7 @@
       {
         "name": "TRECE",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
-		"url2": "http://138.59.227.20:8000/play/a0e3/index.m3u8",
-		"url3": "http://138.59.227.20:8000/play/a0fl/index.m3u8",  
+		"url2": "http://138.59.227.20:8000/play/a0fl/index.m3u8",  
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
@@ -1758,6 +1757,26 @@
       {
         "name": "Prueba TEST",
         "youtube": "https://www.youtube.com/watch?v=XK9b86yB1ng",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		 {
+        "name": "Prueba PARAVISION TEST",
+        "url": "http://138.59.227.20:8000/play/a0e4/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		 {
+        "name": "Prueba PARAGUAY TV TEST",
+        "url": "http://138.59.227.20:8000/play/a0f8/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		 {
+        "name": "Prueba POPUTV TEST",
+        "url": "http://138.59.227.20:8000/play/a0fq/index.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+		 {
+        "name": "Prueba PROTV TEST",
+        "url": "http://138.59.227.20:8000/play/a0fn/index.m3u8",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
