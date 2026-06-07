@@ -972,6 +972,45 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
       },
+		{
+        "name": "SKY SPORTS F1",
+        "url": "https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd",
+        "icono": "https://i.ibb.co/DPJ86wBB/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a839dc5a88ce62da1fcc7ba78161abc2&key=30a2f0d4408d38aa5968f08a784c37ad"
+      },
+      {
+        "name": "SKY SPORTS",
+		"info": "Eventos 1",
+        "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
+        "icono": "https://i.ibb.co/gZFBT81R/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb"
+      },
+      {
+        "name": "SKY SPORTS",
+		"info": "Eventos 2",
+        "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
+       "icono": "https://i.ibb.co/gZFBT81R/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=1d220987b13a594b144d1bbb6bedd568&key=b1778e4c2200a3a885957500b13f5335"
+      },
+      {
+        "name": "SKY SPORTS",
+		"info": "Eventos 2",
+        "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
+       "icono": "https://i.ibb.co/gZFBT81R/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100"
+      },
+      {
+        "name": "SKY SPORTS",
+		"info": "Eventos 4",
+        "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
+        "icono": "https://i.ibb.co/gZFBT81R/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=6c89e84c52eae0428b7d2c8e887a48ec&key=758a1484f920a0f1aa73e95d5f2be225"
+      },
       {
         "name": "TYC SPORTS FAN",
         "icono": "https://i.ibb.co/fY9pYbP9/image.png",
