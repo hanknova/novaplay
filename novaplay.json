@@ -1844,7 +1844,7 @@
     "items": [
       {
 		"name": "Señal No Asignada",
-		"url":"https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/tracks-v1a1/index.m3u8",
+		"url":"https://stream-hls.castr.net/67ec32432023a34fc276e590/live_b94a5e402a1311f195c253d92db64c85/tracks-v1a1/mono.ts.m3u8",
 		"icono": "https://i.ibb.co/ymrjyWMP/image.png"
 	 },
       {
