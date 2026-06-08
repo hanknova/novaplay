@@ -639,7 +639,7 @@
         "name": "ESPN",
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtpnew.com/premier.php?stream=espn",
+        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
 		{
@@ -665,7 +665,7 @@
         "name": "ESPN 2",
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtpnew.com/premier.php?stream=espn2",
+        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn2",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
 	      {
@@ -691,7 +691,7 @@
         "name": "ESPN 3",
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtpnew.com/premier.php?stream=espn3",
+        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn3",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
 		 {
@@ -717,7 +717,7 @@
         "name": "ESPN 4",
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtpnew.com/premier.php?stream=espn4",
+        "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn4",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
 		   {
@@ -743,7 +743,7 @@
         "name": "ESPN 5",
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
-        "url": "https://streamtpnew.com/global1.php?stream=espn5",
+        "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn5",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
 		   {
@@ -763,7 +763,7 @@
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn6"
+        "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn6"
       },
 		{
         "name": "ESPN 6",
@@ -781,7 +781,7 @@
         "info": "Serv. Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/vxFK1Cvm/image.png",
-        "url": "https://streamtpnew.com/global1.php?stream=espn7"
+        "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn7"
       },
       {
         "name": "ESPN PREMIUM AR",
@@ -898,7 +898,7 @@
       {
         "name": "TNT SPORTS PREMIUM",
         "info": "Señal Extra",
-        "url": "https://streamtpnew.com/global1.php?stream=tntsports",
+        "url": "https://streamtp-x-y-z.ws/global1.php?stream=tntsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
       },
@@ -917,7 +917,7 @@
       {
         "name": "TYC SPORTS",
         "info": "Señal Extra",
-        "url": "https://streamtpnew.com/global2.php?stream=tycsports",
+        "url": "https://streamtp-x-y-z.ws/global2.php?stream=tycsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
@@ -948,7 +948,7 @@
       {
         "name": "DIRECTV SPORTS 2",
         "info": "Señal Extra",
-        "url": "https://streamtpnew.com/global1.php?stream=dsports2",
+        "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports2",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
       },
@@ -969,7 +969,7 @@
       {
         "name": "DIRECTV SPORTS +",
         "info": "Señal Extra",
-        "url": "https://streamtpnew.com/global1.php?stream=dsportsplus",
+        "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsportsplus",
         "icono": "https://i.ibb.co/QvQsMP14/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
       },
@@ -1349,6 +1349,26 @@
         "name": "SONY CHANNEL",
         "url": "http://38.226.49.253:8000/play/a060/index.m3u8",
         "icono": "https://i.ibb.co/YFC4QqcB/image.png"
+      },
+		{
+        "name": "SONY CINE",
+        "icono": "https://i.ibb.co/ycdYCYMw/image.png",
+        "url": "https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8"
+      },
+	  {
+        "name": "SONY ONE EXITOS",
+        "icono": "https://i.ibb.co/nNxX98vJ/image.png",
+        "url": "https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8"
+      },
+	   {
+        "name": "SONY ONE ACCIÓN",
+        "icono": "https://i.ibb.co/F4CZL76W/image.png",
+        "url": "https://375132e20edd4ed0bbddadeefa5b652d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-829-ES-SONYONEHITSACCIN-LG_ES/playlist.m3u8"
+      },
+       {
+        "name": "SONY ONE COMEDIA",
+        "icono": "https://i.ibb.co/bgVb7hH9/image.png",
+        "url": "https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-830-ES-SONYONEHITSCOMEDIA-LG_ES/playlist.m3u8"
       },
       {
         "name": "HISTORY",
