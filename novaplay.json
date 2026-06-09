@@ -1859,12 +1859,11 @@
     "items": [
 		{
           "name": "DSports Chile",
-          "image": "https://i.ibb.co/ymrjyWMP/image.png",
+          "icono": "https://i.ibb.co/ymrjyWMP/image.png",
           "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
           "type": "CLEARKEY",
-		  "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)",
-          "Referer": "https://www.primevideo.com/",
-         "drm_license_uri": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"p9EdN6H3YR7ojU24gBcfMg\",\"k\":\"aPltYYsLlWsAjERYlqJaeQ\"}],\"type\":\"temporary\"}"
+         "drm_license_uri": "https://raw.githubusercontent.com/ThedarkSoldier996/internaldates/refs/heads/main/dsportchile",
+			"drm_license_uri2": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79"
         },
       {
         "name": "Señal No Asignada",
