@@ -79,6 +79,183 @@
       }
     ]
   },
+	 {
+    "type": "category",
+    "title": "NOVASPORTS MUNDIAL",
+    "items": [
+      {
+        "name": "NOVASPORTS",
+        "info": "TIGO SPORTS PY",
+		"evento": "yes",
+        "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
+        "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
+      },
+      {
+        "name": "NOVASPORTS",
+        "info": "Tigo Sports PY 2",
+		"evento": "yes",
+        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69ffbuGHututu8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+        "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
+      },
+	  {
+		"name": "GEN PY",
+		"evento": "yes",
+        "url": "http://138.59.227.20:8000/play/a0ej/index.m3u8",
+        "url2": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
+        "url3": "https://rds3gen.desdeparaguay.net/gentv/gentv_py_alta/chunklist.m3u8?admin=nacion",
+        "url4": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
+        "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
+      },
+	  {
+        "name": "TRECE PY",
+		"evento": "yes",
+        "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
+		"url2": "http://138.59.227.20:8000/play/a0fl/index.m3u8",  
+        "icono": "https://i.ibb.co/TsxdFGk/image.png"
+      },
+	  {
+        "name": "TELEFE",
+		"evento": "yes",
+        "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
+        "icono": "https://i.ibb.co/dJ4KL96F/image.png"
+      },
+	  {
+        "name": "TV Publica",
+		"evento": "yes",
+        "icono": "https://i.ibb.co/VWcZhDKv/image.png",
+        "url": "http://138.59.227.20:8000/play/a095/index.m3u8"
+      },
+	   {
+        "name": "DIRECTV SPORTS",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "url2": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "url3": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+        "drm_license_uri2": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+	  		{
+        "name": "DIRECTV SPORTS",
+		 "info": "CHILE",	
+		"evento": "yes", 
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+	  {
+        "name": "VIX PREMIUM",
+		"info":"MUNDIAL 90",
+		"evento": "yes",
+        "url": "https://paz-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd",
+        "icono": "https://i.ibb.co/fzBFJv2X/worldtv2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=75074a0cbd83f5b72fb3e5c1495252a9&key=a4a0df04b2d28f2160cead2ecdeb7203"
+      },
+	        {
+        "name": "VIX PREMIUM",
+		"info":"MUNDIAL 91",
+		"evento": "yes",
+        "url": "https://paz-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd",
+        "icono": "https://i.ibb.co/fzBFJv2X/worldtv2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=11f486ca7df20d63ff3aaecf4d87d132&key=9271506950313bab2ced7522891aa022"
+      },
+      {
+        "name": "VIX PREMIUM",
+		"info":"MUNDIAL 92",
+		"evento": "yes",
+        "url": "https://paz-live1-ott.izzigo.tv/12/out/u/dash/VIX-MUNDIAL-92-HD/default.mpd",
+        "icono": "https://i.ibb.co/fzBFJv2X/worldtv2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=784d6b54efe3a13dc1fbcda17e5804db&key=b4f4814e01943f910b62e6bfd0c23728"
+      },
+      {
+        "name": "VIX PREMIUM",
+		"info":"MUNDIAL 93",
+		"evento": "yes",
+        "url": "https://paz-live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-93-HD/default.mpd",
+        "icono": "https://i.ibb.co/fzBFJv2X/worldtv2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=7ee1a23e40b456ebfdaa40c51a24b857&key=45ffaff5f3221a356c82c3d39bb327ac"
+      },
+      {
+        "name": "VIX PREMIUM",
+		"info":"MUNDIAL 94",
+		"evento": "yes",
+        "url": "https://paz-live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-94-HD/default.mpd",
+        "icono": "https://i.ibb.co/fzBFJv2X/worldtv2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=8b0dd1c5b5812460479ac94af4ff061d&key=fc5a0c78cf2ad8bb3636e01150553427"
+      },
+      {
+        "name": "VIX PREMIUM",
+		"info":"MUNDIAL 95",
+		"evento": "yes",
+        "url": "https://paz-live1-ott.izzigo.tv/13/out/u/dash/VIX-MUNDIAL-95-HD/default.mpd",
+        "icono": "https://i.ibb.co/fzBFJv2X/worldtv2.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=9696c2f12e487aafe1dc96d16d0db658&key=159fd5dc3b0d9e0d75f856e95e225801"
+      },
+	   {
+        "name": "SBT",
+		"evento": "yes",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+        "icono": "https://i.ibb.co/pjhBH72r/image.png"
+      },
+	  {
+        "name": "CAZÉTV",
+		"evento": "yes",
+        "icono": "https://i.ibb.co/xSyvqf0F/image.png",
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+      },
+      {
+        "name": "CAZÉTV 1",
+		"evento": "yes",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+        "icono": "https://i.ibb.co/zW3PRC9N/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
+      },
+      {
+        "name": "CAZÉTV 2",
+		"evento": "yes",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+        "icono": "https://i.ibb.co/21BDZ7pC/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457"
+      },
+      {
+        "name": "CAZÉTV 3",
+		"evento": "yes",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
+        "icono": "https://i.ibb.co/G3rzpVNn/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621"
+      },
+	   {
+        "name": "LA 1",
+		"evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+		"url2":"https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",  
+        "icono": "https://i.ibb.co/351xNJZf/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa"
+      }
+    ]
+  },
   {
     "type": "category",
     "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
