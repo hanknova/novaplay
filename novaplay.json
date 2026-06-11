@@ -88,55 +88,25 @@
     "title": "MUNDIAL",
     "items": [
       {
-        "name": "NOVASPORTS",
-        "info": "TIGO SPORTS PY - SOLO PREVIA",
-        "status":"false",
-        "evento": "yes",
-        "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
-        "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
-      },
-      {
-        "name": "NOVASPORTS",
-        "info": "Tigo Sports PY 2 - SOLO PREVIA",
-        "status":"false",
-        "evento": "yes",
-        "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url3": "https://sam-py-edge07.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url4": "https://sam-py-edge06.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url5": "https://sam-py-edge05.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url6": "https://sam-py-edge04.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url7": "https://sam-py-edge03.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8da56756754740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
-      },
-      {
-        "name": "GEN PY",
-        "info": "Opción 1",
+        "name": "GEN PY 1 - MUNDIAL",
         "evento": "yes",
         "url": "http://138.59.227.20:8000/play/a0ej/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
-        "name": "GEN PY",
-        "info": "Opción 2",
+        "name": "GEN PY 2 - MUNDIAL",
         "evento": "yes",
         "url": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
-        "name": "GEN PY",
-        "info": "Opción 3",
+        "name": "GEN PY 3- MUNDIAL",
         "evento": "yes",
         "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
-        "name": "TRECE PY",
+        "name": "TRECE PY - MUNDIAL",
         "evento": "yes",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
         "url2": "http://138.59.227.20:8000/play/a0fl/index.m3u8",
@@ -149,13 +119,13 @@
         "icono": "https://i.ibb.co/dJ4KL96F/image.png"
       },
       {
-        "name": "TV Publica",
+        "name": "TV Publica - MUNDIAL",
         "evento": "yes",
         "icono": "https://i.ibb.co/VWcZhDKv/image.png",
         "url": "http://138.59.227.20:8000/play/a095/index.m3u8"
       },
       {
-        "name": "DIRECTV SPORTS",
+        "name": "DIRECTV SPORTS AR - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
         "url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
@@ -164,8 +134,7 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS",
-        "info": "CHILE",
+        "name": "DIRECTV SPORTS CL - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
         "type": "CLEARKEY",
@@ -173,8 +142,7 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS",
-        "info": "COLOMBIA",
+        "name": "DIRECTV SPORTS CO - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "type": "CLEARKEY",
@@ -182,7 +150,7 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "VIX MUNDIAL 1",
+        "name": "VIX Premium 1 - MUNDIAL",
          "evento": "yes",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
@@ -190,7 +158,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=75074a0cbd83f5b72fb3e5c1495252a9&key=a4a0df04b2d28f2160cead2ecdeb7203"
       },
       {
-        "name": "VIX MUNDIAL 2",
+        "name": "VIX Premium 2 - MUNDIAL",
          "evento": "yes",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-91-HD/default.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
@@ -198,7 +166,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=11f486ca7df20d63ff3aaecf4d87d132&key=9271506950313bab2ced7522891aa022"
       },
       {
-        "name": "VIX MUNDIAL 3",
+        "name": "VIX Premium 3 - MUNDIAL",
          "evento": "yes",
         "url": "https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-92-HD-H265/VIX-MUNDIAL-92-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
@@ -206,7 +174,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=7ecf2de72f3d8c80a4355abe8e0f2d1b&key=4ab47cbccf1ea08fa3fd82970795aad5"
       },
       {
-        "name": "VIX MUNDIAL 4",
+        "name": "VIX Premium 4 - MUNDIAL",
          "evento": "yes",
         "url": "https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-93-HD-H265/VIX-MUNDIAL-93-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
@@ -214,7 +182,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=696435bb1f9b9387866e4d01ab969779&key=af4bbc01b4e6c0a14279e11451a3e474"
       },
       {
-        "name": "VIX MUNDIAL 5",
+        "name": "VIX Premium 5 - MUNDIAL",
          "evento": "yes",
         "url": "https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-94-HD-H265/VIX-MUNDIAL-94-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
@@ -222,7 +190,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=78535ece7acc58ad362346c7c2fa4cf5&key=9042221339d28d54428a3e7d0c34bd65"
       },
       {
-        "name": "VIX MUNDIAL 6",
+        "name": "VIX Premium 6 - MUNDIAL",
          "evento": "yes",
         "url": "https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-95-HD-H265/VIX-MUNDIAL-95-HD-H265.mpd",
         "icono": "https://i.ibb.co/fVJKkDLb/image.png",
@@ -230,19 +198,22 @@
         "drm_license_uri": "https://results.femon.net?keyid=bfbf27d8a79f7734f720c3af6a63f5fe&key=d5fcf98fcee1bbdd44104f188d088335"
       },
       {
-        "name": "SBT",
-        "evento": "yes",
-        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
-        "icono": "https://i.ibb.co/pjhBH72r/image.png"
+        "name": "CANAL 5 - MUNDIAL",
+        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/CANAL-5-HD/default.mpd",
+        "url2": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=578f77c2e0fb7b31b1676b75b57fe922&key=6e5ee266b112e58a0e27e4384b03ed76",
+        "drm_license_uri2": "https://results.femon.net?keyid=d695093ea3e66d75a4d213a3e2cbf360&key=01be3f645e89a067d2786c295f68dde4",
+        "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
       {
-        "name": "CAZÉTV",
+        "name": "CAZÉTV - MUNDIAL",
         "evento": "yes",
         "icono": "https://i.ibb.co/xSyvqf0F/image.png",
         "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
       },
       {
-        "name": "CAZÉTV 1",
+        "name": "CAZÉTV 1 - MUNDIAL",
         "evento": "yes",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "icono": "https://i.ibb.co/zW3PRC9N/image.png",
@@ -250,7 +221,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
       },
       {
-        "name": "CAZÉTV 2",
+        "name": "CAZÉTV 2 - MUNDIAL",
         "evento": "yes",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
         "icono": "https://i.ibb.co/21BDZ7pC/image.png",
@@ -258,7 +229,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457"
       },
       {
-        "name": "CAZÉTV 3",
+        "name": "CAZÉTV 3 - MUNDIAL",
         "evento": "yes",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
         "icono": "https://i.ibb.co/G3rzpVNn/image.png",
@@ -266,7 +237,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621"
       },
       {
-        "name": "LA 1",
+        "name": "LA 1 - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
         "url2": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
@@ -291,7 +262,6 @@
         "name": "ROCK & POP PY",
         "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
         "url2": "https://rockandpop.b-cdn.net/480p.m3u8",
-        "url3": "https://rockandpop.b-cdn.net/720p.m3u8",
         "icono": "https://i.ibb.co/BK7rpy4p/image.png"
       },
       {
@@ -752,6 +722,7 @@
       },
       {
         "name": "SBT",
+        "status":"false",
         "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
         "icono": "https://i.ibb.co/pjhBH72r/image.png"
       },
