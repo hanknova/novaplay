@@ -1,5 +1,6 @@
 import json
 import re
+from collections import defaultdict, Counter
 from urllib.request import urlopen
 
 CHANNELS = [
@@ -13,106 +14,150 @@ CHANNELS = [
 PATTERN = r"/ccur-session/([^/]+)/rolling-buffer/(" + "|".join(CHANNELS) + r")/"
 
 NOVA_URL = "https://raw.githubusercontent.com/ThedarkSoldier996/test/main/novaplay.json"
-PRUEBA_URL = "https://archive.org/download/prueba7_202606/prueba.7/prueba7.json"
+
+PRUEBA7_URL = "https://archive.org/download/prueba7_202606/prueba.7/prueba7.json"
+PRUEBA8_URL = "https://archive.org/download/prueba8_202606/prueba.8/prueba8.json"
 
 
 def load(url):
     print(f"Cargando: {url}")
+
     with urlopen(url) as f:
         data = json.load(f)
-    print(f"Items cargados: {len(data)}")
+
+    print("OK")
     return data
 
 
-nova = load(NOVA_URL)
-prueba = load(PRUEBA_URL)
+def extract_sessions(obj):
+    """
+    Busca URLs recursivamente y guarda todas
+    las sesiones encontradas.
+    """
 
-print("\n==============================")
-print("CONSTRUYENDO SESSION_MAP")
-print("==============================")
+    if isinstance(obj, dict):
+
+        for key, value in obj.items():
+
+            if key.startswith("url") and isinstance(value, str):
+
+                match = re.search(PATTERN, value)
+
+                if match:
+                    session_id = match.group(1)
+                    channel = match.group(2)
+
+                    session_candidates[channel].append(session_id)
+
+                    print(
+                        f"Detectado: {channel} -> {session_id}"
+                    )
+
+            extract_sessions(value)
+
+    elif isinstance(obj, list):
+
+        for item in obj:
+            extract_sessions(item)
+
+
+def update_urls(obj, session_map):
+    """
+    Actualiza todas las URLs encontradas
+    dentro de novaplay.json
+    """
+
+    changes = 0
+
+    if isinstance(obj, dict):
+
+        for key, value in obj.items():
+
+            if key.startswith("url") and isinstance(value, str):
+
+                match = re.search(PATTERN, value)
+
+                if match:
+
+                    old_session = match.group(1)
+                    channel = match.group(2)
+
+                    if channel in session_map:
+
+                        new_session = session_map[channel]
+
+                        if old_session != new_session:
+
+                            new_url = re.sub(
+                                PATTERN,
+                                f"/ccur-session/{new_session}/rolling-buffer/{channel}/",
+                                value
+                            )
+
+                            obj[key] = new_url
+
+                            changes += 1
+
+                            print(
+                                f"[{channel}] "
+                                f"{old_session} -> {new_session}"
+                            )
+
+            changes += update_urls(value, session_map)
+
+    elif isinstance(obj, list):
+
+        for item in obj:
+            changes += update_urls(item, session_map)
+
+    return changes
+
+
+print("\n========================")
+print("CARGANDO ARCHIVOS")
+print("========================")
+
+nova = load(NOVA_URL)
+prueba7 = load(PRUEBA7_URL)
+prueba8 = load(PRUEBA8_URL)
+
+print("\n========================")
+print("EXTRAYENDO SESIONES")
+print("========================")
+
+session_candidates = defaultdict(list)
+
+extract_sessions(prueba7)
+extract_sessions(prueba8)
+
+print("\n========================")
+print("SELECCIONANDO SESIONES")
+print("========================")
 
 session_map = {}
 
-for item in prueba:
-    for key, url in item.items():
+for channel, sessions in session_candidates.items():
 
-        if not key.startswith("url"):
-            continue
+    most_common = Counter(sessions).most_common(1)[0][0]
 
-        if not isinstance(url, str):
-            continue
+    session_map[channel] = most_common
 
-        match = re.search(PATTERN, url)
+    print(
+        f"{channel} -> {most_common}"
+    )
 
-        if not match:
-            continue
-
-        session_id = match.group(1)
-        channel = match.group(2)
-
-        session_map[channel] = session_id
-
-        print(
-            f"Detectado -> Canal: {channel} | Session: {session_id}"
-        )
-
-print("\nSESSION_MAP FINAL:")
+print("\nSESSION MAP FINAL:")
 print(json.dumps(session_map, indent=2))
 
-print("\n==============================")
-print("BUSCANDO CAMBIOS EN NOVA")
-print("==============================")
+print("\n========================")
+print("ACTUALIZANDO NOVAPLAY")
+print("========================")
 
-changes = 0
+changes = update_urls(nova, session_map)
 
-for item in nova:
-
-    for key, url in item.items():
-
-        if not key.startswith("url"):
-            continue
-
-        if not isinstance(url, str):
-            continue
-
-        match = re.search(PATTERN, url)
-
-        if not match:
-            continue
-
-        old_session = match.group(1)
-        channel = match.group(2)
-
-        print(f"\nCanal: {channel}")
-        print(f"Session actual : {old_session}")
-
-        if channel not in session_map:
-            print("No existe en session_map")
-            continue
-
-        new_session = session_map[channel]
-
-        print(f"Session nueva  : {new_session}")
-
-        if old_session == new_session:
-            print("SIN CAMBIOS")
-            continue
-
-        print("ACTUALIZANDO")
-
-        new_url = re.sub(
-            PATTERN,
-            f"/ccur-session/{new_session}/rolling-buffer/{channel}/",
-            url
-        )
-
-        item[key] = new_url
-
-        changes += 1
-
-print("\n==============================")
+print("\n========================")
 print(f"TOTAL CAMBIOS: {changes}")
-print("==============================")
+print("========================")
 
 if changes == 0:
     print("NO HUBO CAMBIOS REALES")
@@ -126,4 +171,4 @@ with open("novaplay.json", "w", encoding="utf-8") as f:
         ensure_ascii=False
     )
 
-print("Archivo novaplay.json actualizado")
+print("novaplay.json actualizado correctamente")
