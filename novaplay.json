@@ -113,9 +113,9 @@
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
-        "name": "TELEFE",
+        "name": "TELEFE - MUNDIAL",
         "evento": "yes",
-        "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
+        "url": "http://190.7.19.197:232/play/a059/index.m3u8",
         "icono": "https://i.ibb.co/dJ4KL96F/image.png"
       },
       {
@@ -125,12 +125,19 @@
         "url": "http://138.59.227.20:8000/play/a095/index.m3u8"
       },
       {
-        "name": "DIRECTV SPORTS AR - MUNDIAL",
-        "evento": "yes",
+        "name": "DIRECTV SPORTS (SD) AR - MUNDIAL",
+         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-        "url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=45bbd582f220f438f896450d8306a3f2&key=582c6ba7f64bbc0f2d91c6b0c265760c",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+       {
+        "name": "DIRECTV SPORTS (HD) AR - MUNDIAL",
+        "evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
@@ -272,7 +279,6 @@
       },
       {
         "name": "ALMAYA TV PILAR",
-        "status": "false",
         "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "icono": "https://i.ibb.co/YFWNVfmM/image.png"
       },
@@ -386,11 +392,11 @@
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
-        "name": "TRECE",
+        "name": "TRECE DL",
         "info": "Por Dailymotion",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
-        "texto": "Conexión via Dailymotion"
+        "texto": "Conexión Externa"
       },
       {
         "name": "PARAGUAY TV",
@@ -440,11 +446,11 @@
         "icono": "https://i.ibb.co/nNBj6fnk/image.png"
       },
       {
-        "name": "UNICANAL",
+        "name": "UNICANAL DL",
         "info": "Por Dailymotion",
         "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
         "icono": "https://i.ibb.co/G4KnJjPY/image.png",
-        "texto": "Conexión via Dailymotion"
+        "texto": "Conexión Externa"
       },
       {
         "name": "ASPEN TV",
@@ -599,7 +605,8 @@
       {
         "name": "ARGENTINISIMA SATELITAL",
         "icono": "https://i.ibb.co/5WRPR4S8/image.png",
-        "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
+        "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+        "url2": "http://190.7.19.197:232/play/a01z/index.m3u8"
       },
       {
         "name": "A24",
@@ -625,6 +632,7 @@
       {
         "name": "TELEFE",
         "url": "http://138.59.227.20:8000/play/a08a/index.m3u8",
+        "url2": "http://190.7.19.197:232/play/a059/index.m3u8",
         "icono": "https://i.ibb.co/dJ4KL96F/image.png"
       },
       {
@@ -831,8 +839,7 @@
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
       },
       {
-        "name": "ESPN",
-        "info": "Serv. Externo",
+        "name": "ESPN - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn",
         "icono": "https://i.ibb.co/Pvq156K0/image.png"
@@ -857,8 +864,7 @@
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
       },
       {
-        "name": "ESPN 2",
-        "info": "Serv. Externo",
+        "name": "ESPN 2 - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn2",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png"
@@ -883,8 +889,7 @@
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
       },
       {
-        "name": "ESPN 3",
-        "info": "Serv. Externo",
+        "name": "ESPN 3 - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn3",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png"
@@ -909,8 +914,7 @@
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
       },
       {
-        "name": "ESPN 4",
-        "info": "Serv. Externo",
+        "name": "ESPN 4 - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtp-x-y-z.ws/premier.php?stream=espn4",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png"
@@ -935,8 +939,7 @@
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
       },
       {
-        "name": "ESPN 5",
-        "info": "Serv. Externo",
+        "name": "ESPN 5 - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn5",
         "icono": "https://i.ibb.co/JwKrdwmf/image.png"
@@ -954,8 +957,7 @@
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png"
       },
       {
-        "name": "ESPN 6",
-        "info": "Serv. Externo",
+        "name": "ESPN 6 - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Ng8YhdcV/image.png",
         "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn6"
@@ -972,8 +974,7 @@
         "icono": "https://i.ibb.co/vxFK1Cvm/image.png"
       },
       {
-        "name": "ESPN 7",
-        "info": "Serv. Externo",
+        "name": "ESPN 7 - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/vxFK1Cvm/image.png",
         "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn7"
@@ -984,8 +985,7 @@
         "icono": "https://i.ibb.co/9m3XVqHr/image.png"
       },
       {
-        "name": "ESPN PREMIUM AR",
-        "info": "Serv. Externo",
+        "name": "ESPN PREMIUM AR - Externo",
         "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "url": "https://streamtp-abc.net/global1.php?stream=espnpremium",
         "icono": "https://i.ibb.co/9m3XVqHr/image.png"
@@ -1080,8 +1080,7 @@
         "drm_license_uri": "https://results.femon.net?keyid=010efb17241d2f50c80d3ca5218770f4&key=ecfec27a0a1ad4004488263c33b51e9f"
       },
       {
-        "name": "TUDN MX",
-        "info": "Señal Extra",
+        "name": "TUDN MX - Externo",
         "url": "https://streaming.alwaysdata.net/tudn.php",
         "icono": "https://i.ibb.co/21rG76g7/image.png"
       },
@@ -1091,8 +1090,7 @@
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
       },
       {
-        "name": "TNT SPORTS PREMIUM",
-        "info": "Señal Extra",
+        "name": "TNT SPORTS PREMIUM - Externo",
         "url": "https://streamtp-x-y-z.ws/global1.php?stream=tntsports",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/wFFYtChx/image.png"
@@ -1107,25 +1105,17 @@
         "name": "TYC SPORTS",
         "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
         "url2": "http://138.59.227.20:8000/play/a06x/index.m3u8",
+        "url3": "http://190.7.19.197:232/play/a04w/index.m3u8",
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
       {
-        "name": "TYC SPORTS",
-        "info": "Señal Extra",
+        "name": "TYC SPORTS - Externo",
         "url": "https://streamtp-x-y-z.ws/global2.php?stream=tycsports",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO",
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO",
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
-      {
-        "name": "DIRECTV SPORTS HD",
-        "info": "Argentina",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DIRECTV SPORTS SD",
+       {
+        "name": "DIRECTV SPORTS (SD) AR ",
         "info": "Argentina",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
         "url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
@@ -1134,37 +1124,42 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS",
-        "info": "CHILE",
+        "name": "DIRECTV SPORTS (HD) AR",
+        "info": "Argentina",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=4f4c3a9912ea752e88f4497864a1bc8b&key=278128004fe8c6ffb2cd2a0c154a241a",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+     
+      {
+        "name": "DIRECTV SPORTS CL",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=a7d11d37a1f7611ee88d4db880171f32&key=68f96d618b0b956b008c445896a25a79",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS",
-        "info": "COLOMBIA",
+        "name": "DIRECTV SPORTS CO",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=f8b207c10f3f76aeba32a360ec52b9e4&key=afad49d20eb39670e93e371c1d669921",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS",
-        "info": "PERU",
+        "name": "DIRECTV SPORTS PE",
         "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2",
-        "info": "Argentina",
+        "name": "DIRECTV SPORTS 2 AR",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=0db71325e4256f5f16b348b3b1b7832a&key=c664b811a97edc555da47c1d22482542",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2",
+        "name": "DIRECTV SPORTS 2_AR",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
         "url2": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
         "type": "CLEARKEY",
@@ -1172,20 +1167,18 @@
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2",
-        "info": "Señal Extra",
+        "name": "DIRECTV SPORTS 2 - EXTERNO",
         "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports2",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png",
-        "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
+        "texto": "EL CANAL PUEDE NO ESTAR ACTIVO"
       },
       {
-        "name": "DIRECTV SPORTS 2",
-        "info": "Peru",
+        "name": "DIRECTV SPORTS 2 PE",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
-        "name": "DIRECTV SPORTS +",
+        "name": "DIRECTV SPORTS+",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
         "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "type": "CLEARKEY",
@@ -1193,8 +1186,7 @@
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
-        "name": "DIRECTV SPORTS +",
-        "info": "Señal Extra",
+        "name": "DIRECTV SPORTS+ - EXTERNO",
         "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsportsplus",
         "icono": "https://i.ibb.co/QvQsMP14/image.png",
         "texto": "CONEXIÓN EXTERNA A NOVAPLAY - EL CANAL PUEDE NO ESTAR ACTIVO"
@@ -1250,32 +1242,28 @@
         "drm_license_uri": "https://results.femon.net?keyid=a839dc5a88ce62da1fcc7ba78161abc2&key=30a2f0d4408d38aa5968f08a784c37ad"
       },
       {
-        "name": "SKY SPORTS",
-        "info": "Eventos 1",
+        "name": "SKY SPORTS - EVENTOS 1",
         "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
         "icono": "https://i.ibb.co/gZFBT81R/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb"
       },
       {
-        "name": "SKY SPORTS",
-        "info": "Eventos 2",
+        "name": "SKY SPORTS - EVENTOS 2",
         "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
         "icono": "https://i.ibb.co/gZFBT81R/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=1d220987b13a594b144d1bbb6bedd568&key=b1778e4c2200a3a885957500b13f5335"
       },
       {
-        "name": "SKY SPORTS",
-        "info": "Eventos 2",
+        "name": "SKY SPORTS - EVENTOS 3",
         "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
         "icono": "https://i.ibb.co/gZFBT81R/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100"
       },
       {
-        "name": "SKY SPORTS",
-        "info": "Eventos 4",
+        "name": "SKY SPORTS - EVENTOS 4",
         "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
         "icono": "https://i.ibb.co/gZFBT81R/image.png",
         "type": "CLEARKEY",
@@ -1661,13 +1649,11 @@
         "name": "FRANCE24",
         "info": "En Español",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
-        "type": "hls",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/250px-France24.png"
       },
       {
         "name": "TELESUR",
         "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8",
-        "type": "hls",
         "icono": "https://i.ibb.co/zhnnDNKQ/image.png"
       },
       {
