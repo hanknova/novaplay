@@ -105,12 +105,12 @@
         "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
-      {
-        "name": "TRECE PY - MUNDIAL",
-        "evento": "yes",
-        "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a0fl/index.m3u8",
-        "icono": "https://i.ibb.co/TsxdFGk/image.png"
+       {
+        "name": "TRECE PY",
+        "info": "SOLO GOOGLETV O SIMILARES",
+        "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
+        "icono": "https://i.ibb.co/DDnBTYfh/image.png",
+        "texto": "REINTENTAR SI NO CARGA"
       },
       {
         "name": "TELEFE - MUNDIAL",
@@ -355,6 +355,7 @@
       },
       {
         "name": "XPRESSTV",
+        "status":"false",
         "url": "https://video.hostingcaaguazu.com:19360/paraguaritv/paraguaritv.m3u8",
         "icono": "https://i.ibb.co/KcTmC5By/image.png"
       },
@@ -388,16 +389,16 @@
       },
       {
         "name": "TRECE",
+        "status":"false",
         "url": "https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8",
-        "url2": "http://138.59.227.20:8000/play/a0fl/index.m3u8",
         "icono": "https://i.ibb.co/TsxdFGk/image.png"
       },
       {
-        "name": "TRECE DL",
-        "info": "Por Dailymotion",
+        "name": "TRECE PY",
+        "info": "SOLO GOOGLETV O SIMILARES",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
-        "texto": "Conexión Externa"
+        "texto": "REINTENTAR SI NO CARGA"
       },
       {
         "name": "PARAGUAY TV",
