@@ -454,7 +454,8 @@
         "info": "Por Dailymotion",
         "url": "https://geo.dailymotion.com/player/x1apn6.html?video=k1mHLKycOlKgo3Db5GI",
         "icono": "https://i.ibb.co/G4KnJjPY/image.png",
-        "texto": "Conexión Externa"
+        "texto": "Conexión Externa",
+         "dl":"yes"
       },
       {
         "name": "ASPEN TV",
