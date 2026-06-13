@@ -88,9 +88,8 @@
     "title": "MUNDIAL",
     "items": [
       {
-        "name": "GEN PY 1 - MUNDIAL SEÑAL CaídA",
+        "name": "GEN PY 1 - MUNDIAL",
         "evento": "yes",
-        "status":"false",
         "url": "http://138.59.227.20:8000/play/a0ej/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
@@ -101,7 +100,7 @@
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
-        "name": "GEN PY 3- MUNDIAL SEÑAL CaídA",
+        "name": "GEN PY 3- MUNDIAL",
         "evento": "yes",
         "url": "https://no.gendigi.net/origin-proxy/playlist.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
