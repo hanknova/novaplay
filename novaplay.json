@@ -627,13 +627,8 @@
       },
       {
         "name": "AMERICA TV",
-        "url": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8",
+        "url": "http://190.7.19.197:232/play/a03b/index.m3u8",
         "icono": "https://i.ibb.co/tpPLgJvv/image.png"
-      },
-      {
-        "name": "AMERICA TV INTERNACIONAL",
-        "icono": "https://i.ibb.co/35gPz3bL/image.png",
-        "url": "https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8"
       },
       {
         "name": "CANAL 6 POSADAS",
@@ -1453,6 +1448,11 @@
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
     "title": "ENTRETENIMIENTO",
     "items": [
+      {
+        "name": "NCIS Criminologia Naval",
+        "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
+        "icono": "https://i.ibb.co/DDCQwRzK/image.png"
+      },
       {
         "name": "UNIVERSAL COMEDY",
         "VLC": "true",
