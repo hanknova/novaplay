@@ -501,11 +501,6 @@
         "icono": "https://i.ibb.co/hRV2QFq6/image.png"
       },
       {
-        "name": "AMERICA PY DL",
-        "url":"https://geo.dailymotion.com/player/x1b5gc.html?video=x9lh4mu",
-        "icono": "https://i.ibb.co/hRV2QFq6/image.png"
-      },
-      {
         "name": "REPUBLICA FM TV",
         "url": "https://tigocloud.desdeparaguay.net/republicatv/republicatv/index.m3u8",
         "icono": "https://i.ibb.co/VWY7TB29/image.png",
@@ -557,11 +552,6 @@
                 "name": "Oviedo TV",
                 "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
                 "icono": "https://i.ibb.co/CKPLJC5b/1779191291821.png"
-    },
-      {
-                "name": "A24 PARAGUAY DL",
-                "url": "https://geo.dailymotion.com/player/x1b5gc.html?video=k26DgbMBBfp3nOE2FS4",
-                "icono": "https://i.ibb.co/6cWshy45/image.png"
     }
     ]
   },
