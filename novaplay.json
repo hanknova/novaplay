@@ -157,14 +157,6 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2 AR - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=0db71325e4256f5f16b348b3b1b7832a&key=c664b811a97edc555da47c1d22482542",
-        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },
-      {
         "name": "DIRECTV SPORTS CL - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
@@ -179,6 +171,14 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=f8b207c10f3f76aeba32a360ec52b9e4&key=afad49d20eb39670e93e371c1d669921",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+       {
+        "name": "DIRECTV SPORTS 2 AR - MUNDIAL",
+        "evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=0db71325e4256f5f16b348b3b1b7832a&key=c664b811a97edc555da47c1d22482542",
+        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
         "name": "DIRECTV SPORTS+ - MUNDIAL",
