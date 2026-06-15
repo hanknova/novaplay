@@ -3120,6 +3120,15 @@
     "items": [
       {
         "name": "Señal No Asignada",
+        "info": "GEN TV",
+        "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "Origin": "https://www.gen.com.py",
+        "Referer": "https://www.gen.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "Señal No Asignada",
         "info": "SIN TEST :C",
         "loop": "true",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
