@@ -3131,10 +3131,17 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-                "name": "SEÑAL NO ASIGNADA",
-                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(ifvXnDHNZV3TIrec7SavQpc5KQb22C4J9g29dtmTSr2zxWkhCn8_oTf5ILdCAvrwrsiyWugYTixXnGhPdn5jbxWUF8jbns6HUOMjOIMweYbY4TrpQGJlJKZIB0GpR4ZV)/cloud/3/x9ksaba/s/live-380.m3u8#cell=lcf2-eu-north-1a",
-                "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-            },
+        "name": "SEÑAL NO ASIGNADA",
+        "info":"TEST VPN",
+        "evento": "yes",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_Live_dash_enc/SUR_TV_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=988ae4e8408981609ded9f8b23bbf79d&key=b867c66791bcad67ee142be1e21c2577",
+        "icono": "https://i.ibb.co/m5PgzmbT/image.png",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
