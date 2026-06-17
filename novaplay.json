@@ -89,6 +89,7 @@
     "items": [
       {
         "name": "TELEMUNDO 60 - MUNDIAL",
+        "status": "false",
         "evento": "yes",
         "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvda)/master.mpd",
         "icono": "https://i.ibb.co/wxPSfFT/image.png",
