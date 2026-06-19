@@ -194,6 +194,13 @@
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
+        "name": "VIX DEPORTES",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VXDEPORT",
+        "icono": "https://i.ibb.co/C3cMcL9F/image.png"
+      },
+      {
         "name": "VIX PREMIUM 1 - MUNDIAL",
         "evento": "yes",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
@@ -3111,11 +3118,11 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "VIX DEPORTES - TEST",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+        "name": "FOX TEST",
+        "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VXDEPORT",
-        "icono": "https://i.ibb.co/N6KxyPdf/image.png"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FXDEPORT",
+        "icono": "https://i.ibb.co/C3cMcL9F/image.png"
       },
       {
         "name": "Señal No Asignada",
