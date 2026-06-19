@@ -3110,11 +3110,11 @@
         "icono": "https://i.ibb.co/m5PgzmbT/image.png"
       },
       {
-          "name": "FOX ONE ",
-          "url": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+          "name": "Caracol TV",
+          "url": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd",
           "type": "CLEARKEY",
-          "image": "https://i.ibb.co/ymrjyWMP/image.png",
-          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FXONE"
+          "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Caracoltv"
         },
       {
         "name": "Señal No Asignada",
