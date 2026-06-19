@@ -117,7 +117,8 @@
       },
       {
         "name": "TRECE PY - MUNDIAL",
-        "info": "SOLO GOOGLETV O SIMILARES",
+        "evento": "yes",
+        "info": "SOLO GOOGLETV O NOVAPLAY 4.0.0",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
         "texto": "REINTENTAR SI NO CARGA",
