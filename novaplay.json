@@ -88,15 +88,6 @@
     "title": "MUNDIAL",
     "items": [
       {
-          "name": "TELEMUNDO -  MUNDIAL",
-          "status":"false",
-          "evento": "yes",
-          "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-          "type": "CLEARKEY",
-          "icono": "https://i.ibb.co/rKKT99qK/image.png",
-          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Tmundo"
-        },
-      {
         "name": "VS SPORTS - MUNDIAL",
         "info":"GEN - MUNDIAL",
         "evento": "yes",
@@ -3125,11 +3116,14 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-     {
-        "name": "CDN DEPORTES0001",
-        "url": "https://geo.dailymotion.com/player.html?video=x9lntl6",
-        "icono": "https://i.ibb.co/Tjg8Q5Y/image.png"
-      },
+      {
+          "name": "TELEMUNDO -  MUNDIAL",
+          "evento": "yes",
+          "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+          "type": "CLEARKEY",
+          "icono": "https://i.ibb.co/rKKT99qK/image.png",
+          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Tmundo"
+        },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
