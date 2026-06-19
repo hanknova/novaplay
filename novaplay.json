@@ -850,14 +850,14 @@
         "icono": "https://i.ibb.co/fdNfZg0G/image.png"
       },
       {
-        "name": "AZTECA 7 - 2",
+        "name": "AZTECA 7 - OPC 2",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=ce8f86d2f0d1638574237ada8ac2e82a&key=642772ebf1832f1f2fa58cb7e8fcfd05",
         "icono": "https://i.ibb.co/fdNfZg0G/image.png"
       },
       {
-        "name": "AZTECA 7 - 3",
+        "name": "AZTECA 7 - OPC 3",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/azteca7",
@@ -3110,13 +3110,13 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-      {
-          "name": "Caracol TV",
-          "url": "https://requestrouter.cdn.agiletv.net/__cl/cg:lv-r2/__c/Caracol_TV_HD_A/__op/dash-wv/__f/manifest.mpd",
-          "type": "CLEARKEY",
-          "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Caracoltv"
-        },
+     {
+        "name": "CANAL 5",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
+        "icono": "https://i.ibb.co/N6KxyPdf/image.png"
+      },
       {
         "name": "Señal No Asignada",
         "info": "SIN TEST :C",
