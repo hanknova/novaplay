@@ -166,14 +166,6 @@
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
-        "name": "VIX DEPORTES",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VXDEPORT",
-        "icono": "https://i.ibb.co/C3cMcL9F/image.png"
-      },
-      {
         "name": "VIX PREMIUM 1 - MUNDIAL",
         "evento": "yes",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
@@ -249,27 +241,10 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=34475edab991ad5e92548aebd710410a&key=501b209cccd323ac00bf5ac15b406cb4"
       },
-      {
-        "name": "CAZETV 2 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
-        "icono": "https://i.ibb.co/21BDZ7pC/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=9752ef72590ef441ffa3731e0486fbc0&key=db63ec7b9f11348b7cc6808a54c99457"
-      },
-      {
-        "name": "CAZETV 3 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd",
-        "icono": "https://i.ibb.co/G3rzpVNn/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=0a29e3b7dc26ced80114da99266ea636&key=9f1e4034545fed90b5ce7a8f8925e621"
-      },
-      {
+        {
         "name": "LA 1 - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "url2": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
         "icono": "https://i.ibb.co/351xNJZf/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa"
