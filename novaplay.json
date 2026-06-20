@@ -17,8 +17,8 @@
         "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8568657576d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
         "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8568657576d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
-        "drm_license_uri2": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
+        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
       {
@@ -35,8 +35,8 @@
         "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8f6756775d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
+        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
       {
@@ -53,8 +53,8 @@
         "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
+        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
         "icono": "https://i.ibb.co/kgXL3qw8/image.png"
       },
       {
@@ -77,8 +77,8 @@
         "url8": "https://sam-py-edge02.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "url9": "https://sam-py-edge01.tigo.com.py/ccur-session/69fdb8da5675654740c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json?rlkey=r2r6qmvzobpn1tib3n068ap1z&st=2jfgsr87&dl=0",
-        "drm_license_uri2": "https://results.femon.net?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_2",
+        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TGOSPORTSPY_1",
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       }
     ]
@@ -154,7 +154,7 @@
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=0db71325e4256f5f16b348b3b1b7832a&key=c664b811a97edc555da47c1d22482542",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
@@ -162,7 +162,7 @@
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
         "evento": "yes",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8afa490e1640be969729fb459182e4ec&key=6f129820cdd5b6978a98c604c72cf05b",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
@@ -1103,7 +1103,7 @@
         "name": "DIRECTV SPORTS 2 AR",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=0db71325e4256f5f16b348b3b1b7832a&key=c664b811a97edc555da47c1d22482542",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
@@ -1124,7 +1124,7 @@
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
         "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=8afa490e1640be969729fb459182e4ec&key=6f129820cdd5b6978a98c604c72cf05b",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
