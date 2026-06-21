@@ -867,7 +867,7 @@
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-HD/default.mpd",
         "icono": "https://i.ibb.co/Pvq156K0/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=38b63f9aaa7b7c7a822c8e14c8a7212e&key=d6b1f45a59d2dac1a730c7f56c74971a"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/ES_PNMX"
       },
       {
         "name": "ESPN 2",
@@ -886,7 +886,7 @@
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-2-HD/default.mpd",
         "icono": "https://i.ibb.co/mwy8Vmj/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a49114957d155cacb2e027af14450b94&key=0fed6599a8740879a29f1a49ec6d482a"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/ES_PN2MX"
       },
       {
         "name": "ESPN 3",
@@ -905,7 +905,7 @@
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-3-HD/default.mpd",
         "icono": "https://i.ibb.co/MkxW7vqS/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=dc3c1a083eae593631b5b5019e2efb78&key=68693fb66dc31ca864d854cd176c44c6"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/ES_PN3MX"
       },
       {
         "name": "ESPN 4",
@@ -924,7 +924,7 @@
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/ESPN-EXTRA-HD/default.mpd",
         "icono": "https://i.ibb.co/HTrmQvrj/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a1b8099b64726abc7723e17829b43a55&key=908a93fe41acf07538c88c1b30277656"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/ES_PN4MX"
       },
       {
         "name": "ESPN 5",
