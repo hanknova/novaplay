@@ -1718,8 +1718,15 @@
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
         "icono": "https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo=s485-rw"
       },
-      {
+       {
         "name": "TOONCAST",
+        "icono": "https://i.ibb.co/fYH5j83Q/image.png",
+        "url": "https://paz-live1-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TNCAST"
+      },
+      {
+        "name": "TOONCAST - OCP 2 ",
         "icono": "https://i.ibb.co/fYH5j83Q/image.png",
         "url": "http://38.188.48.83:8000/play/a0qp/index.m3u8?hls",
         "url2": "http://38.226.49.253:8000/play/a03u/index.m3u8?hls"
@@ -3034,11 +3041,18 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "TOONCAST TEST",
+        "name": "DISNEY JR TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://paz-live1-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd",
+        "url": "https://zap-live2-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TNCAST"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR"
+      },
+      {
+        "name": "DREAMWORKS TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://aca-live-ott.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DWORKS"
       },
       {
         "name": "Señal No Asignada",
