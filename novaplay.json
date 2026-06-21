@@ -227,6 +227,14 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
         "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
+       {
+          "name": "TELEMUNDO -  MUNDIAL",
+          "evento": "yes",
+          "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+          "type": "CLEARKEY",
+          "icono": "https://i.ibb.co/rKKT99qK/image.png",
+          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Tmundo"
+        },
       {
         "name": "CAZETV - MUNDIAL",
         "evento": "yes",
@@ -1752,10 +1760,9 @@
       {
         "name": "DISCOVERY KIDS",
         "url": "https://zap-live2-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd",
-        "url2": "http://cablemaxsigloxxi.com:8000/play/a07k/index.m3u8?hls",
         "icono": "https://i.ibb.co/bgYBcryv/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=9201c07931b74c37c4e30a9e96b64c30&key=8e1ce4f1b1185f64e42f9974cbad1442"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DKIDS"
       },
       {
         "name": "NICK JR",
@@ -1766,18 +1773,25 @@
         "name": "CARTOON NETWORK",
         "icono": "https://i.ibb.co/KxP8dwQn/image.png",
         "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd",
-        "ur2": "http://38.226.49.253:8000/play/a050/index.m3u8?hls",
-        "url3": "http://38.226.49.253:8000/play/a06n/index.m3u8?hls",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=85d06ba283f3b18bb14f9f8d59b8fb82&key=6659fed472544289adee986c1d33fa79"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CN"
+      },
+      {
+        "name": "CARTOON NETWORK - OPC 2",
+        "icono": "https://i.ibb.co/KxP8dwQn/image.png",
+        "ur2": "http://38.226.49.253:8000/play/a050/index.m3u8?hls"
+      },
+      {
+        "name": "CARTOON NETWORK - OPC 3",
+        "icono": "https://i.ibb.co/KxP8dwQn/image.png",
+        "url": "http://38.226.49.253:8000/play/a06n/index.m3u8?hls"
       },
       {
         "name": "CARTOONITO",
         "url": "https://zap-live2-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd",
-        "url2": "http://cablemaxsigloxxi.com:8000/play/a08k/index.m3u8?hls",
         "icono": "https://i.ibb.co/VWDzXmT3/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid= 3fc370ab08218da5dad9b9644f1df57b&key=1ddc60916c0efd29990cb1d319e7710a"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CNITO"
       },
       {
         "name": "DISNEY JR",
@@ -3022,14 +3036,7 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-      {
-          "name": "TELEMUNDO -  MUNDIAL",
-          "evento": "yes",
-          "url": "http://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-          "type": "CLEARKEY",
-          "icono": "https://i.ibb.co/rKKT99qK/image.png",
-          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Tmundo"
-        },
+     
       {
         "name": "DIRECTV SPORTS CL - MUNDIAL",
         "evento": "yes",
