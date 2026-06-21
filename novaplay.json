@@ -3068,11 +3068,11 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "DISCOVERY SCIENCE TEST",
+        "name": "ANIMALPLANET TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://paz-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd",
+        "url": "https://paz-live1-ott.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSCIENCE"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/APLANET"
       },
       {
         "name": "DISCOVERY ID TEST",
