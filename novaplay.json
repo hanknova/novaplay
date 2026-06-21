@@ -1420,6 +1420,13 @@
       },
       {
         "name": "AXN",
+        "icono": "https://i.ibb.co/bMF2Zqvf/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AXN"
+      },
+      {
+        "name": "AXN - OCP 2",
         "url": "http://38.226.49.253:8000/play/a062/index.m3u8",
         "icono": "https://i.ibb.co/bMF2Zqvf/image.png"
       },
@@ -3027,11 +3034,11 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
      {
-        "name": "AXN TEST",
+        "name": "TOONCAST TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd",
+        "url": "https://paz-live1-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/AXN"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TNCAST"
       },
       {
         "name": "Señal No Asignada",
