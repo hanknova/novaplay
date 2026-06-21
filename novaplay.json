@@ -794,24 +794,29 @@
       {
         "name": "NU9VE",
         "url": "https://aca-live-ott.izzigo.tv/11/out/u/dash/CANAL-9-HD/CANAL-9-HD.mpd",
-        "url2": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?key=8d3d83fadfc769674b9c7102109fc466&keyid=0bb910a4217a1af19b803e7f120796f9",
-        "drm_license_uri2": "https://results.femon.net?key=41df11a0be44fd7272538728cec38bc6&keyid=79737d20a3eaa862f8cb77c61cb3b58c",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE001",
+        "icono": "https://i.ibb.co/BHzJsnTD/image.png"
+      },
+      {
+        "name": "NU9VE - OPC 2",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/skz7pgjdyp/out/v1/8e7377f4d3154738b7f48baa996b35a5/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri2": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NUEVE002",
         "icono": "https://i.ibb.co/BHzJsnTD/image.png"
       },
       {
         "name": "AZTECA 7",
         "url": "https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/dash/AZTECA-7-HD.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=2cde091f1e4675c82d65498bd6ba0e65&key=29f2aeb97a908466177c56fc28fe083f",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Azteca7_02",
         "icono": "https://i.ibb.co/fdNfZg0G/image.png"
       },
       {
         "name": "AZTECA 7 - OPC 2",
         "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/AZTECA-7-HD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=ce8f86d2f0d1638574237ada8ac2e82a&key=642772ebf1832f1f2fa58cb7e8fcfd05",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Azteca7_03",
         "icono": "https://i.ibb.co/fdNfZg0G/image.png"
       },
       {
