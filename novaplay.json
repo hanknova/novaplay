@@ -1146,13 +1146,6 @@
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
-        "name": "LA LIGA TV --",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-        "icono": "https://i.ibb.co/kg6tjpVT/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=620e51b82596475517a27aa425c52280&key=2b9ba811e9c5aeafc8ae1b71cdca4d6a"
-      },
-      {
         "name": "LA LIGA HYPERMOTION 1",
         "url": "https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
         "icono": "https://i.ibb.co/nqW6xhdv/image.png",
@@ -1164,29 +1157,26 @@
         "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
         "icono": "https://i.ibb.co/nqW6xhdv/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=5fc8da8b94c447468ffe392157f8c75e&key=333b934fdde4c1ee87e7f1c5dac4cb8f"
-      },
-      {
-        "name": "LA LIGA HYPERMOTION 3",
-        "url": "https://cache2.zapitv.com/live/eds_c2/HYPERMOTION3/dash_live_ez/HYPERMOTION3.mpd",
-        "icono": "https://i.ibb.co/nqW6xhdv/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=e67483b9402148238dc640df4f1bb61e&key=ec4fc27e9bc962e56ace7349303c1c9a"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LIGAHYPERMOTION2"
       },
       {
         "name": "SKY SPORTS",
         "url": "https://zap-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
         "icono": "https://i.ibb.co/mVPGg0fg/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=99909032389c6ee41c3d2f3ec829f804&key=41fbc575c8ef1cdac1dca990c9a0df9d"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SKYSPORTS"
       },
       {
         "name": "SKY SPORTS LA LIGA",
         "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-        "url2": "http://181.78.109.48:9998/play/a06r/index.m3u8",
         "icono": "https://i.ibb.co/r2y0gQgc/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=cb80e1e7d7598eaf98b1dbbe6dc14ee9&key=103ae55c7948ca1d159d6743619d26c4"
+      },
+      {
+        "name": "SKY SPORTS LA LIGA - OPC 2",
+        "url": "http://181.78.109.48:9998/play/a06r/index.m3u8",
+        "icono": "https://i.ibb.co/r2y0gQgc/image.png"
       },
       {
         "name": "SKY SPORTS F1",
@@ -1197,27 +1187,13 @@
       },
       {
         "name": "SKY SPORTS - EVENTOS 1",
-        "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd",
-        "icono": "https://i.ibb.co/gZFBT81R/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=a3636a51227fa338cdddf5892d8a621c&key=1444ee3c4d08bf39454b914f797968eb"
-      },
-      {
-        "name": "SKY SPORTS - EVENTOS 2",
-        "url": "https://zap-live4-ott.izzigo.tv/8/out/u/dash/SKY-LIVE-EVENT-2-HD-H265/default.mpd",
-        "icono": "https://i.ibb.co/gZFBT81R/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=1d220987b13a594b144d1bbb6bedd568&key=b1778e4c2200a3a885957500b13f5335"
-      },
-      {
-        "name": "SKY SPORTS - EVENTOS 3",
         "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
         "icono": "https://i.ibb.co/gZFBT81R/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net?keyid=a931b2e953695ffb0cfd38573e97ba33&key=4ddd99cc4fb168d7f0e20be8a3287100"
       },
       {
-        "name": "SKY SPORTS - EVENTOS 4",
+        "name": "SKY SPORTS - EVENTOS 2",
         "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
         "icono": "https://i.ibb.co/gZFBT81R/image.png",
         "type": "CLEARKEY",
@@ -1247,7 +1223,7 @@
       },
       {
         "name": "WIN SPORTS+",
-        "url": "http://190.60.37.118:4000/play/a0bw",
+        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/167738",
         "icono": "https://i.ibb.co/MDvrb8HX/image.png"
       },
       {
