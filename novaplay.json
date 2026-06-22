@@ -1354,6 +1354,34 @@
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
     "title": "ENTRETENIMIENTO",
     "items": [
+       {
+        "name": "GOLDEN SD",
+        "icono": "https://i.ibb.co/XfBP95zm/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENSD"
+      },
+      {
+        "name": "GOLDEN EDGE SD",
+        "icono": "https://i.ibb.co/fVXXXqGG/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENEDGESD"
+      },
+      {
+        "name": "GOLDEN PLUS HD",
+        "icono": "https://i.ibb.co/21TPR8Vc/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPLUSHD"
+      },
+      {
+        "name": "GOLDEN PREMIER HD",
+        "icono": "https://i.ibb.co/cc8wppbr/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPREMIERHD"
+      },
       {
         "name": "EUROPA EUROPA",
         "icono": "https://i.ibb.co/Dg9cc46B/image.png",
@@ -3143,34 +3171,41 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-       {
-        "name": "GOLDEN SD TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENSD"
-      },
-      {
-        "name": "GOLDEN EDGE SD TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENEDGESD"
-      },
-      {
-        "name": "GOLDEN PLUS HD TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPLUSHD"
-      },
-      {
-        "name": "GOLDEN PREMIER HD TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPREMIERHD"
-      },
+        {
+    "name": "HBO Family",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png",
+    "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0FMILY"
+  },
+  {
+    "name": "HBO Mundi",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbomundi.png",
+    "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0MUNDI"
+  },
+  {
+    "name": "HBO+",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png",
+    "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0PLUS"
+  },
+  {
+    "name": "HBO Signature",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbosignature.png",
+    "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0SIGNTURE"
+  },
+  {
+    "name": "HBO Xtreme",
+    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png",
+    "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0XTR"
+  },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
