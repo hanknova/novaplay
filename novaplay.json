@@ -1376,6 +1376,13 @@
       },
       {
         "name": "CINEMAX",
+        "icono": "https://i.ibb.co/jPTj3g4Z/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CNEMAX"
+      },
+      {
+        "name": "CINEMAX - OPC 2",
         "url": "http://38.226.49.253:8000/play/a0ax/index.m3u8",
         "url2": "http://38.226.49.253:8000/play/a05j/index.m3u8",
         "url3": "http://45.5.151.62:8000/play/a012/index.m3u8",
@@ -1383,6 +1390,13 @@
       },
       {
         "name": "CINECANAL",
+        "icono": "https://i.ibb.co/39DdGtnJ/image.png",
+        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CNECANAL"
+      },
+      {
+        "name": "CINECANAL - OPC 2",
         "url": "http://38.226.49.253:8000/play/a05z/index.m3u8",
         "icono": "https://i.ibb.co/39DdGtnJ/image.png"
       },
@@ -3117,20 +3131,7 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
         "url": "https://drive.usercontent.google.com/download?id=1P9pLY6TdpoNm9G2CcEfstIe0WSxKh1iq&export=download&authuser=0&confirm=t&uuid=f7d98d0e-ed6f-4911-ab22-8e101b18e297&at=AAINaIJI2tAJ4Wcc-lPlnVRoPq4F%3A1782130268100"
       },
-     {
-        "name": "CINECANAL TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CNECANAL"
-      },
-      {
-        "name": "CINEMAX TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CNEMAX"
-      },
+    
       {
         "name": "DE PELICULA SD TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
