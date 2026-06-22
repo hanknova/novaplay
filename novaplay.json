@@ -1355,6 +1355,13 @@
     "title": "ENTRETENIMIENTO",
     "items": [
       {
+        "name": "EUROPA EUROPA",
+        "icono": "https://i.ibb.co/Dg9cc46B/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/EUROPA-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROPA"
+      },
+      {
         "name": "DE PELICULA SD",
         "icono": "https://i.ibb.co/zhCH6ZWc/image.png",
         "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd",
@@ -3136,19 +3143,33 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-      {
-        "name": "EUROPA TEST",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/EUROPA-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROPA"
-      },
        {
-        "name": "FX HD TEST",
+        "name": "GOLDEN SD TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://paz-live1-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd",
+        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FXHD"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENSD"
+      },
+      {
+        "name": "GOLDEN EDGE SD TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENEDGESD"
+      },
+      {
+        "name": "GOLDEN PLUS HD TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPLUSHD"
+      },
+      {
+        "name": "GOLDEN PREMIER HD TEST",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENPREMIERHD"
       },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
