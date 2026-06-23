@@ -106,7 +106,7 @@
       {
         "name": "TRECE PY - MUNDIAL",
         "evento": "yes",
-        "info": "SOLO GOOGLETV O NOVAPLAY 4.0.0",
+        "info": "SOLO WEBVIEW 120 o superior",
         "url": "https://geo.dailymotion.com/player/x1at3a.html?video=k4nLYiNrBX8W5jDbSlM",
         "icono": "https://i.ibb.co/DDnBTYfh/image.png",
         "texto": "REINTENTAR SI NO CARGA",
@@ -126,7 +126,7 @@
         "url2": "http://190.7.19.197:232/play/a03c/index.m3u8"
       },
       {
-        "name": "DIRECTV SPORTS (SD) AR - MUNDIAL",
+        "name": "DSPORTS ARGENTINA SD - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
         "type": "CLEARKEY",
@@ -134,7 +134,7 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS (HD) AR - MUNDIAL",
+        "name": "DSPORTS ARGENTINA HD - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "type": "CLEARKEY",
@@ -142,7 +142,7 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS CO - MUNDIAL",
+        "name": "DSPORTS COLOMBIA - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "type": "CLEARKEY",
@@ -150,7 +150,7 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
        {
-        "name": "DIRECTV SPORTS 2 AR - MUNDIAL",
+        "name": "DSPORTS 2 ARGENTINA - MUNDIAL",
         "evento": "yes",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
         "type": "CLEARKEY",
@@ -158,7 +158,7 @@
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
-        "name": "DIRECTV SPORTS+ - MUNDIAL",
+        "name": "DSPORTS PLUS - MUNDIAL",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
         "evento": "yes",
         "type": "CLEARKEY",
@@ -1091,8 +1091,7 @@
         "icono": "https://i.ibb.co/Sw3JDnkK/image.png"
       },
       {
-        "name": "DIRECTV SPORTS (SD) AR ",
-        "info": "Argentina",
+        "name": "DSPORTS ARGENTINA SD ",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
         "url2": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428666",
         "type": "CLEARKEY",
@@ -1100,51 +1099,45 @@
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS (HD) AR",
-        "info": "Argentina",
+        "name": "DSPORTS ARGENTINA HD",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS CO",
+        "name": "DSPORTS COLOMBIA",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS PE",
+        "name": "DSPORTS PERU",
         "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2 AR",
+        "name": "DSPORTS 2 ARGENTINA",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2 AR OPC 2",
+        "name": "DSPORTS 2 ARGENTINA - OPC 2",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2_OPC2",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2 AR OPC 3",
+        "name": "DSPORTS 2 ARGENTINA - OPC 3",
         "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
         "icono": "https://i.ibb.co/SDP0DhTv/image.png"
       },
       {
-        "name": "DIRECTV SPORTS 2 PE",
-        "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/428667",
-        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },
-      {
-        "name": "DIRECTV SPORTS+",
+        "name": "DSPORTS PLUS",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
         "url2": "http://217.26.190.76:8888/play/a0jb/index.m3u8",
         "type": "CLEARKEY",
