@@ -1347,6 +1347,13 @@
     "title": "ENTRETENIMIENTO",
     "items": [
       {
+    "name": "TCM",
+    "icono": "https://i.ibb.co/YFHL77wj/image.png",
+    "url": "https://paz-live1-ott.izzigo.tv/15/out/u/dash/TCM-SD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TCM"
+  },  
+      {
     "name": "HBO Family",
     "icono": "https://i.ibb.co/rfFN6vX3/image.png",
     "url": "https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
@@ -1492,7 +1499,14 @@
         "icono": "https://i.ibb.co/nMskkQC6/image.png"
       },
       {
-        "name": "STUDIO UNIVERSAL",
+    "name": "Studio Universal",
+    "icono": "https://i.ibb.co/cc0T79bF/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/STDIOUNIV"
+  },
+      {
+        "name": "STUDIO UNIVERSAL - OPC 2",
         "url": "http://38.97.240.11:8000/play/a0bl/index.m3u8",
         "icono": "https://i.ibb.co/cc0T79bF/image.png"
       },
@@ -3215,20 +3229,8 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-          {
-    "name": "Studio Universal",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png",
-    "url": "https://zap-live1-ott.izzigo.tv/11/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/STDIOUNIV"
-  },
-  {
-    "name": "TCM",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png",
-    "url": "https://paz-live1-ott.izzigo.tv/15/out/u/dash/TCM-SD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TCM"
-  },  
+          
+  
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
