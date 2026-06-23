@@ -1346,6 +1346,20 @@
     "image": "https://i.ibb.co/n8ZZCfQm/image.png",
     "title": "ENTRETENIMIENTO",
     "items": [
+       {
+    "name": "MTV",
+    "icono": "https://i.ibb.co/kVbGB7q1/image.png",
+    "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/VTM"
+  }, 
+      {
+    "name": "Warner TV",
+    "icono": "https://i.ibb.co/wrR0pC7B/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/WRNER"
+  },
       {
     "name": "TCM",
     "icono": "https://i.ibb.co/YFHL77wj/image.png",
@@ -1449,6 +1463,41 @@
         "url": "https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8",
         "icono": "https://i.ibb.co/DDCQwRzK/image.png"
       },
+        {
+    "name": "Universal Crime",
+    "icono": "https://i.ibb.co/NgTLFDs9/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Univcrime"
+  },
+  {
+    "name": "Universal Premiere",
+    "icono": "https://i.ibb.co/dJrXrRvv/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Univpremiere"
+  },
+  {
+    "name": "Universal TV",
+    "icono": "https://i.ibb.co/60WjYgkY/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/UnivTV"
+  },
+  {
+    "name": "Universal Comedy",
+    "icono": "https://i.ibb.co/1YLp2PYB/image.png",
+    "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/UnivComedy"
+  },
+  {
+    "name": "Universal Reality",
+    "icono": "https://i.ibb.co/CKYQPJs8/image.png",
+    "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Univreality"
+  },
       {
         "name": "UNIVERSAL COMEDY",
         "VLC": "true",
@@ -1493,6 +1542,13 @@
         "url": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
         "icono": "https://i.ibb.co/gY2HSJm/image.png"
       },
+        {
+    "name": "TLNovelas",
+    "icono": "https://i.ibb.co/MkFgr7MT/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/TLNOVELAS-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/tlnovela"
+  },
       {
         "name": "TNT NOVELAS",
         "url": "http://38.226.49.253:8000/play/a07f/index.m3u8",
@@ -1705,7 +1761,14 @@
         "icono": "https://i.ibb.co/ksfZR4Yj/image.png"
       },
       {
-        "name": "LIFETIME",
+    "name": "Lifetime",
+    "icono": "https://i.ibb.co/PsSfDL8Z/image.png",
+    "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd",
+    "type": "CLEARKEY",
+    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/lfetime"
+  },
+      {
+        "name": "LIFETIME - OPC 2",
         "url": "http://38.226.49.253:8000/play/a043/index.m3u8",
         "url2": "http://rlatinop.com:8880/live/David8080/Wn4jVTKdwkng/318632.m3u8",
         "icono": "https://i.ibb.co/PsSfDL8Z/image.png"
@@ -3229,92 +3292,9 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-          {
-    "name": "Universal Crime",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcrime.png",
-    "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Univcrime"
-  },
+
   {
-    "name": "Universal Premiere",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png",
-    "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Univpremiere"
-  },
-  {
-    "name": "Universal TV",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversaltv.png",
-    "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/UnivTV"
-  },
-  {
-    "name": "Universal Comedy",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHuniversalcomedy.png",
-    "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/UnivComedy"
-  },
-  {
-    "name": "Universal Reality",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHuniversalreality.png",
-    "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Univreality"
-  },
-  {
-    "name": "Warner TV",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png",
-    "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/WRNER"
-  },
-  {
-    "name": "Lifetime",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHlifetime.png",
-    "url": "https://zap-live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/lfetime"
-  },
-  {
-    "name": "TLNovelas",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png",
-    "url": "https://zap-live1-ott.izzigo.tv/15/out/u/dash/TLNOVELAS-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/tlnovela"
-  },
-  {
-    "name": "Baby TV",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHbabytv.png",
-    "url": "https://zap-live1-ott.izzigo.tv/4/out/u/dash/BABYTVSD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/BBYTV"
-  },
-  {
-    "name": "Nickelodeon",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png",
-    "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NICKDEON"
-  },
-  {
-    "name": "Comedy Central",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png",
-    "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/COMEDY-CENTRAL-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/CMDYCNTRAL"
-  },
-  {
-    "name": "Distrito Comedia",
-    "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHdistritocomedia.png",
-    "url": "http://zap-live1-ott.izzigo.tv/14/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd",
-    "type": "CLEARKEY",
-    "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/DisComedia"
-  },
-  {
-    "name": "MTV",
+    "name": "PRUEBA1",
     "icono": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHmtv.png",
     "url": "http://zap-live1-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd",
     "type": "CLEARKEY",
