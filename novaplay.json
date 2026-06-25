@@ -88,8 +88,7 @@
     "title": "MUNDIAL",
     "items": [
       {
-        "name": "VS SPORTS - MUNDIAL",
-        "info":"GEN - MUNDIAL",
+        "name": "VS SPORTS PY - MUNDIAL",
         "evento": "yes",
         "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
         "icono": "https://i.ibb.co/m5PgzmbT/image.png",
@@ -99,9 +98,32 @@
       },
       {
         "name": "GEN PY 1 - MUNDIAL",
+        "status":"yes",
         "evento": "yes",
         "url": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
+      },
+        {
+        "name": "GEN PY - MUNDIAL",
+        "evento": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "icono": "https://i.ibb.co/HTDjm7Pn/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GENPY",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"      
+      },
+          {
+        "name": "TRECE PY - MUNDIAL",
+        "evento": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "icono": "https://i.ibb.co/TsxdFGk/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/Trecepy",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"      
       },
       {
         "name": "TRECE PY OPC 2 - MUNDIAL",
@@ -166,62 +188,8 @@
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
-        "name": "VIX PREMIUM 1 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "icono": "https://i.ibb.co/fVJKkDLb/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP01"
-      },
-      {
-        "name": "VIX PREMIUM 2 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-91-HD/default.mpd",
-        "icono": "https://i.ibb.co/fVJKkDLb/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP02"
-      },
-      {
-        "name": "VIX PREMIUM 3 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-92-HD-H265/VIX-MUNDIAL-92-HD-H265.mpd",
-        "icono": "https://i.ibb.co/fVJKkDLb/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP03"
-      },
-      {
-        "name": "VIX PREMIUM 4 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-93-HD-H265/VIX-MUNDIAL-93-HD-H265.mpd",
-        "icono": "https://i.ibb.co/fVJKkDLb/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP04"
-      },
-      {
-        "name": "VIX PREMIUM 5 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-94-HD-H265/VIX-MUNDIAL-94-HD-H265.mpd",
-        "icono": "https://i.ibb.co/fVJKkDLb/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP05"
-      },
-      {
-        "name": "VIX PREMIUM 6 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-95-HD-H265/VIX-MUNDIAL-95-HD-H265.mpd",
-        "icono": "https://i.ibb.co/fVJKkDLb/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/VIXP06"
-      },
-      {
-        "name": "CDN DEPORTES - MUNDIAL",
-        "evento": "yes",     
-        "url": "https://geo.dailymotion.com/player.html?video=x9lntl6",
-        "icono": "https://i.ibb.co/Tjg8Q5Y/image.png"
-      },
-      {
         "name": "CANAL 5 - MUNDIAL",
-         "evento": "yes",
+        "evento": "yes",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
@@ -3304,48 +3272,7 @@
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"      
       },
-      {
-                "name": "VIX 1",
-                "url": "https://000963.videx.lol/videx/vix1/index.m3u8?key=2e2981cdd7e57a80b76f317db4151d1b42dce88d7aa9081e04d0fb19873628fa&expires=1782328054",
-                "icono": "https://i.ibb.co/1JQfXv7H/Picsart-26-06-10-22-34-47-607.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=75074a0cbd83f5b72fb3e5c1495252a9&key=a4a0df04b2d28f2160cead2ecdeb7203"
-            },
-            {
-                "name": "VIX 2",
-                "url": "https://000963.videx.lol/videx/vix2/index.m3u8?key=fcc656edf82e495358348b02de7971c5c98bc63da443c172af36ca8e187263ba&expires=1782328583",
-                "icono": "https://i.ibb.co/VpqqynNP/Picsart-26-06-10-22-34-20-290.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=11f486ca7df20d63ff3aaecf4d87d132&key=9271506950313bab2ced7522891aa022"
-            },
-            {
-                "name": "VIX 3",
-                "url": "https://000963.videx.lol/videx/vix3/index.m3u8?key=03f7224910d8cd26106c6de120d99f1d1aea11e2f4e7f4ce204c3ee32660e587&expires=1782328606",
-                "icono": "https://i.ibb.co/DDCpC84T/Picsart-26-06-10-22-54-30-928.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=784d6b54efe3a13dc1fbcda17e5804db&key=b4f4814e01943f910b62e6bfd0c23728"
-            },
-            {
-                "name": "VIX 4",
-                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-93-HD/default.mpd",
-                "icono": "https://i.ibb.co/xtwmd1xT/Picsart-26-06-10-22-58-19-559.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=7ee1a23e40b456ebfdaa40c51a24b857&key=45ffaff5f3221a356c82c3d39bb327ac"
-            },
-            {
-                "name": "VIX 5",
-                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-94-HD/default.mpd",
-                "icono": "https://i.ibb.co/xNg3DgC/Picsart-26-06-10-23-02-36-613.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=8b0dd1c5b5812460479ac94af4ff061d&key=fc5a0c78cf2ad8bb3636e01150553427"
-            },
-            {
-                "name": "VIX 6",
-                "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-95-HD/default.mpd",
-                "icono": "https://i.ibb.co/v4vD3P3w/Picsart-26-06-10-23-09-10-236.png",
-                "type": "CLEARKEY",
-                "drm_license_uri": "https://results.femon.net/?keyid=9696c2f12e487aafe1dc96d16d0db658&key=159fd5dc3b0d9e0d75f856e95e225801"
-            },
+      
            {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
