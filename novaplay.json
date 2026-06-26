@@ -2008,19 +2008,32 @@
   {
     "type": "category",
     "image": "https://i.ibb.co/k6cgFLwt/paraguay.png",
-    "title": "NIÑOS 👦👧",
+    "title": "NIÑOS",
     "items": [
       {
         "name": "BABY SHARK TV",
         "url": "https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8",
         "icono": "https://play-lh.googleusercontent.com/N7Kf5CZB5yFGddAZxmtjylZuG9ECPJFm1y_sdV7Gx_WrawDP-k-9mpFY_hRL4E3IXPo=s485-rw"
       },
+      {
+        "name": "PLIM PLIM",
+        "icono": "https://i.ibb.co/yBqfQwMn/image.png",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/PLIMX",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
        {
         "name": "TOONCAST",
         "icono": "https://i.ibb.co/fYH5j83Q/image.png",
-        "url": "https://paz-live1-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TNCAST"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TNCAST",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "TOONCAST - OCP 2 ",
@@ -2069,9 +2082,14 @@
         "icono": "https://images.pluto.tv/channels/6824cda00101510f9eeaa011/featuredImage_1750110889416.jpg"
       },
       {
-        "name": "NICKELODEON ",
+        "name": "NICKELODEON",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd",
         "icono": "https://i.ibb.co/d4qbMQDN/image.png",
-        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-33.playlist.m3u8"
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NCKLODEON",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "DISCOVERY KIDS",
@@ -2085,8 +2103,28 @@
       },
       {
         "name": "NICK JR",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd",
+        "icono": "https://i.ibb.co/8nHmkqt3/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/NCKJR",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "NICK JR - OPC 2",
         "icono": "https://i.ibb.co/8nHmkqt3/image.png",
         "url": "http://179.60.51.134:8888/NICK-JR/index.m3u8"
+      },
+      {
+        "name": "CARTOON NETWORK",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyNTE4MDg4Iiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjMxNDRlZWY2M2ZiNTBkYjMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzQ5Iiwic291cmNlcyI6WzIxMCw4Nl19.QadQUqvxRkzim1OvCaJM0ud_F8PpzcuwMpsA6OgOhm5_hMgVHTn8AsZJMc2dmhapujASxFZzbh2O4gN33jyCIw==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd",
+        "icono": "https://i.ibb.co/KxP8dwQn/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/CN",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
       {
         "name": "CARTOON NETWORK - OPC 2",
