@@ -28,6 +28,21 @@ EQUIVALENCIAS = {
     "RPC": ["TRECE PY", "TRECE PY - MUNDIAL"],
     "UNICANAL": ["UNICANAL PY", "UNICANAL PY - MUNDIAL"],
     "POPU TV": ["POPUTV PY", "POPUTV PY - MUNDIAL"],
+    "TELEFE ARG": ["TELEFE - MUNDIAL", "TELEFE"],
+    "TV PUBLICA  ARG": ["TV PUBLICA AR - MUNDIAL", "TV PUBLICA"],
+    "PY | SNT  ": ["SNT"],
+    "TELEFUTURO HD": ["TELEFUTURO"],
+    "C9N  ": ["C9N"],
+    "HEI NEW": ["HEI NOW"],
+    "MEGA TV  PY": ["MEGA TV PY"],
+    "SUR TV": ["SUR TV"],
+    "5 DIAS PY": ["5 DIAS PY"],
+    "ABC TV": ["ABC TV"],
+    "NOTICIAS_PY  ": ["NPY"],
+    "A24 PY": ["A24 PY"],
+    "CANALPRO PY": ["CANAL PRO"],
+    "AMERICA PY": ["AMERICA PY"],
+    "LA TELE": ["LA TELE"],
 }
 
 # =====================================================
