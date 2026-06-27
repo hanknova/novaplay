@@ -41,6 +41,9 @@ EQUIVALENCIAS={
     "A24": ["A24 ARGENTINA"],
     "CANAL 26": ["CANAL 26"],
     },
+    "INFANTILES 👦":{
+        "Cartoonito":["CARTOONITO"],
+    },
 "⚽EVENTOS FLOW ⚽":{
         "EVENTOS FLOW 1":["EVENTOS FLOW 1"],
         "EVENTOS FLOW 2":["EVENTOS FLOW 2"], 
