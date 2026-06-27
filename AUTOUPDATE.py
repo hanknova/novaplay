@@ -6,52 +6,42 @@ import requests
 # CONFIGURACIÓN
 # =====================================================
 
-# Archivo origen (el que tiene las URLs nuevas)
 URL_ORIGEN = "https://mundodeportes.online/pandatv/playpre/canales.json"
-
-# Tu archivo del repositorio
 ARCHIVO_DESTINO = "novaplay.json"
 
 # =====================================================
-# EQUIVALENCIAS
-# IZQUIERDA = nombre en origen
-# DERECHA = nombre en tu novaplay.json
+# EQUIVALENCIAS DE NOMBRES
+# IZQUIERDA = Mundo Deportes
+# DERECHA = Tu novaplay.json
 # =====================================================
 
 EQUIVALENCIAS = {
-
     "GEN_TV": "GEN TV",
     "GEN_TV": "GEN PY - MUNDIAL",
     "RPC  ": "TRECE PY - MUNDIAL",
     "RPC  ": "TRECE PY",
-
-
-    # Agrega aquí todas las equivalencias que quieras.
-
 }
 
-
 # =====================================================
-# NORMALIZA LOS NOMBRES
-# Ejemplo:
-#
-# Gen Tv
-# GEN-TV
-# GEN TV
-# gentv
-#
-# todos pasan a:
-#
-# GENTV
-#
+# NORMALIZAR TEXTO
 # =====================================================
 
-def normalizar(nombre):
-    return re.sub(r'[^A-Z0-9]', '', nombre.upper())
+def normalizar(texto):
+    if not texto:
+        return ""
 
+    texto = texto.upper()
+
+    # Elimina banderas y cualquier carácter raro
+    texto = texto.encode("ascii", "ignore").decode()
+
+    # Elimina todo menos letras y números
+    texto = re.sub(r'[^A-Z0-9]', '', texto)
+
+    return texto
 
 # =====================================================
-# DESCARGAR JSON ORIGEN
+# DESCARGAR ORIGEN
 # =====================================================
 
 print("Descargando lista origen...")
@@ -61,95 +51,79 @@ r.raise_for_status()
 
 origen = r.json()
 
-# =====================================================
-# LEER TU JSON
-# =====================================================
-
 print("Leyendo novaplay.json...")
 
 with open(ARCHIVO_DESTINO, "r", encoding="utf8") as f:
     destino = json.load(f)
 
-
 # =====================================================
 # CREAR ÍNDICE
-#
-# Se guarda cada canal por nombre normalizado
-#
-# Ejemplo:
-#
-# GENTV -> objeto canal
-#
+# categoria -> canal
 # =====================================================
 
 indice = {}
 
 for categoria in origen:
 
-    canales = categoria.get("channels", [])
+    nombre_categoria = normalizar(categoria.get("name", ""))
 
-    for canal in canales:
+    indice[nombre_categoria] = {}
 
-        nombre = canal.get("name", "")
+    for canal in categoria.get("samples", []):
 
-        indice[normalizar(nombre)] = canal
-
-
-# =====================================================
-# AGREGAR EQUIVALENCIAS
-#
-# Si tiene:
-#
-# GENTV
-#
-# y tú tienes:
-#
-# GEN TV
-#
-# ambos apuntarán al mismo canal.
-#
-# =====================================================
-
-for nombre_origen, nombre_destino in EQUIVALENCIAS.items():
-
-    key_origen = normalizar(nombre_origen)
-    key_destino = normalizar(nombre_destino)
-
-    if key_origen in indice:
-
-        indice[key_destino] = indice[key_origen]
-
+        indice[nombre_categoria][normalizar(canal.get("name", ""))] = canal
 
 # =====================================================
-# ACTUALIZAR URLS
+# APLICAR EQUIVALENCIAS
+# =====================================================
+
+for categoria in indice.values():
+
+    for origen_nombre, destino_nombre in EQUIVALENCIAS.items():
+
+        ko = normalizar(origen_nombre)
+        kd = normalizar(destino_nombre)
+
+        if ko in categoria:
+            categoria[kd] = categoria[ko]
+
+# =====================================================
+# ACTUALIZAR
 # =====================================================
 
 cambios = 0
 
 for categoria in destino:
 
-    canales = categoria.get("channels", [])
+    nombre_categoria = normalizar(categoria.get("title", ""))
 
-    for canal in canales:
+    if nombre_categoria not in indice:
+        print(f"Categoría no encontrada: {categoria.get('title')}")
+        continue
+
+    canales_origen = indice[nombre_categoria]
+
+    for canal in categoria.get("items", []):
 
         nombre = canal.get("name", "")
-
         key = normalizar(nombre)
 
-        if key not in indice:
+        if key not in canales_origen:
+            print(f"No encontrado: {categoria.get('title')} -> {nombre}")
             continue
 
-        url_nueva = indice[key].get("url", "")
+        origen_canal = canales_origen[key]
+
+        url_nueva = origen_canal.get("url", "")
         url_actual = canal.get("url", "")
 
         if url_nueva and url_actual != url_nueva:
 
-            print(f"Actualizado: {nombre}")
+            print(f"Actualizando {categoria.get('title')} -> {nombre}")
 
             canal["url"] = url_nueva
 
             cambios += 1
-
 
 # =====================================================
 # GUARDAR
@@ -157,19 +131,14 @@ for categoria in destino:
 
 if cambios:
 
-    print()
-
-    print(f"Se actualizaron {cambios} canales.")
-
     with open(ARCHIVO_DESTINO, "w", encoding="utf8") as f:
+        json.dump(destino, f, indent=2, ensure_ascii=False)
 
-        json.dump(
-            destino,
-            f,
-            indent=2,
-            ensure_ascii=False
-        )
+    print()
+    print(f"✅ AUTOUPDATE finalizado.")
+    print(f"✅ Se actualizaron {cambios} canales.")
 
 else:
 
+    print()
     print("No hubo cambios.")
