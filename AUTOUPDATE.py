@@ -43,6 +43,15 @@ EQUIVALENCIAS = {
     "CANALPRO PY": ["CANAL PRO"],
     "AMERICA PY": ["AMERICA PY"],
     "LA TELE": ["LA TELE"],
+    "AMERICA TV ": ["AMERICA TV"],
+    "EL TRECE": ["EL TRECE"],
+    "CANAL 9 ": ["CANAL 9"],
+    "TN NOTICIAS": ["TN NOTICIAS"],
+    "C5N": ["C5N"],
+    "LN+ - LA NACION": ["LN+"],
+    "CRONICA TV": ["CRONICA"],
+    "A24": ["A24 ARGENTINA"],
+    "CANAL 26": ["CANAL 26"],
 }
 
 # =====================================================
