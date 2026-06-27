@@ -9,146 +9,184 @@ import requests
 URL_ORIGEN = "https://mundodeportes.online/pandatv/playpre/canales.json"
 ARCHIVO_DESTINO = "novaplay.json"
 
-# =====================================================
-# EQUIVALENCIAS DE NOMBRES
-# IZQUIERDA = Mundo Deportes
-# DERECHA = Tu novaplay.json
-# =====================================================
+DEBUG = True
 
-EQUIVALENCIAS = {
-    "GEN_TV": "GEN TV",
-    "GEN_TV": "GEN PY - MUNDIAL",
-    "RPC  ": "TRECE PY - MUNDIAL",
-    "RPC  ": "TRECE PY",
-    "UNICANAL": "UNICANAL PY - MUNDIAL",
-    "UNICANAL": "UNICANAL PY",
-    "POPU TV": "POPUTV PY - MUNDIAL",
-    "POPU TV": "POPUTV PY",
-    "POPU TV": "POPUTV PY",
-    "TELEFE ARG": "TELEFE - MUNDIAL",
-    "TELEFE ARG": "TELEFE - MUNDIAL",
-    "TV PUBLICA  ARG": "TV PUBLICA AR - MUNDIAL",
-    "TV PUBLICA  ARG": "TV PUBLICA",
-    
+# Categorías que NO quieres tocar
+CATEGORIAS_IGNORADAS = {
+    "PLUTO",
+    "PLUTO TV",
+    "PLUTOTV"
 }
 
 # =====================================================
-# NORMALIZAR TEXTO
+# EQUIVALENCIAS (ORIGEN -> DESTINOS MÚLTIPLES)
+# =====================================================
+
+EQUIVALENCIAS = {
+    "GEN_TV": ["GEN TV", "GEN PY - MUNDIAL"],
+    "RPC": ["TRECE PY", "TRECE PY - MUNDIAL"],
+    "UNICANAL": ["UNICANAL PY", "UNICANAL PY - MUNDIAL"],
+    "POPU TV": ["POPUTV PY", "POPUTV PY - MUNDIAL"],
+    "TELEFE ARG": ["TELEFE - MUNDIAL"],
+    "TV PUBLICA ARG": ["TV PUBLICA AR - MUNDIAL", "TV PUBLICA"],
+}
+
+# =====================================================
+# DEBUG
+# =====================================================
+
+def debug(msg):
+    if DEBUG:
+        print(msg)
+
+# =====================================================
+# NORMALIZAR NOMBRES
 # =====================================================
 
 def normalizar(texto):
     if not texto:
         return ""
-
     texto = texto.upper()
-
-    # Elimina banderas y cualquier carácter raro
     texto = texto.encode("ascii", "ignore").decode()
-
-    # Elimina todo menos letras y números
     texto = re.sub(r'[^A-Z0-9]', '', texto)
-
     return texto
 
 # =====================================================
 # DESCARGAR ORIGEN
 # =====================================================
 
-print("Descargando lista origen...")
+debug("Descargando origen...")
 
 r = requests.get(URL_ORIGEN, timeout=30)
 r.raise_for_status()
-
 origen = r.json()
 
-print("Leyendo novaplay.json...")
+# =====================================================
+# CARGAR DESTINO
+# =====================================================
+
+debug("Cargando novaplay.json...")
 
 with open(ARCHIVO_DESTINO, "r", encoding="utf8") as f:
     destino = json.load(f)
 
 # =====================================================
-# CREAR ÍNDICE
-# categoria -> canal
+# CREAR ÍNDICE GLOBAL (TODOS LOS CANALES)
 # =====================================================
 
 indice = {}
 
+debug("\n===== INDEXANDO ORIGEN =====")
+
 for categoria in origen:
 
-    nombre_categoria = normalizar(categoria.get("name", ""))
+    nombre_cat = categoria.get("name", "")
 
-    indice[nombre_categoria] = {}
+    debug(f"\nCategoría origen: {nombre_cat}")
 
     for canal in categoria.get("samples", []):
 
-        indice[nombre_categoria][normalizar(canal.get("name", ""))] = canal
+        nombre = canal.get("name", "")
+        key = normalizar(nombre)
+
+        indice[key] = canal
+
+        debug(f"  + {nombre}")
+
+debug(f"\nTotal canales indexados: {len(indice)}")
 
 # =====================================================
 # APLICAR EQUIVALENCIAS
 # =====================================================
 
-for categoria in indice.values():
+debug("\n===== EQUIVALENCIAS =====")
 
-    for origen_nombre, destino_nombre in EQUIVALENCIAS.items():
+for origen_nombre, destinos in EQUIVALENCIAS.items():
 
-        ko = normalizar(origen_nombre)
-        kd = normalizar(destino_nombre)
+    origen_key = normalizar(origen_nombre)
 
-        if ko in categoria:
-            categoria[kd] = categoria[ko]
+    if origen_key not in indice:
+        debug(f"❌ No existe origen: {origen_nombre}")
+        continue
+
+    for destino_nombre in destinos:
+
+        destino_key = normalizar(destino_nombre)
+
+        indice[destino_key] = indice[origen_key]
+
+        debug(f"✔ {origen_nombre} -> {destino_nombre}")
 
 # =====================================================
-# ACTUALIZAR
+# ACTUALIZACIÓN
 # =====================================================
+
+debug("\n===== ACTUALIZANDO =====")
 
 cambios = 0
+encontrados = 0
+no_encontrados = 0
 
 for categoria in destino:
 
-    nombre_categoria = normalizar(categoria.get("title", ""))
+    titulo = categoria.get("title", "")
 
-    if nombre_categoria not in indice:
-        print(f"Categoría no encontrada: {categoria.get('title')}")
+    if normalizar(titulo) in {normalizar(x) for x in CATEGORIAS_IGNORADAS}:
+        debug(f"\n⛔ Omitiendo categoría: {titulo}")
         continue
 
-    canales_origen = indice[nombre_categoria]
+    debug(f"\n📁 Categoría: {titulo}")
 
     for canal in categoria.get("items", []):
 
         nombre = canal.get("name", "")
         key = normalizar(nombre)
 
-        if key not in canales_origen:
-            print(f"No encontrado: {categoria.get('title')} -> {nombre}")
+        debug(f"\n🔎 Buscando: {nombre}")
+
+        if key not in indice:
+            debug("❌ No encontrado")
+            no_encontrados += 1
             continue
 
-        origen_canal = canales_origen[key]
+        encontrados += 1
 
-        url_nueva = origen_canal.get("url", "")
+        origen_canal = indice[key]
+
         url_actual = canal.get("url", "")
+        url_nueva = origen_canal.get("url", "")
+
+        debug(f"URL actual : {url_actual}")
+        debug(f"URL origen : {url_nueva}")
 
         if url_nueva and url_actual != url_nueva:
 
-            print(f"Actualizando {categoria.get('title')} -> {nombre}")
+            debug("🔄 ACTUALIZADO")
 
             canal["url"] = url_nueva
-
             cambios += 1
+
+        else:
+            debug("✔ Sin cambios")
 
 # =====================================================
 # GUARDAR
 # =====================================================
 
-if cambios:
+if cambios > 0:
 
     with open(ARCHIVO_DESTINO, "w", encoding="utf8") as f:
         json.dump(destino, f, indent=2, ensure_ascii=False)
 
-    print()
-    print(f"✅ AUTOUPDATE finalizado.")
-    print(f"✅ Se actualizaron {cambios} canales.")
+    print("\n==============================")
+    print("✅ AUTOUPDATE FINALIZADO")
+    print("==============================")
+    print(f"Cambios: {cambios}")
+    print(f"Encontrados: {encontrados}")
+    print(f"No encontrados: {no_encontrados}")
 
 else:
 
-    print()
-    print("No hubo cambios.")
+    print("\n==============================")
+    print("NO HUBO CAMBIOS")
+    print("==============================")
