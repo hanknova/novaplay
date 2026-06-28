@@ -45,6 +45,11 @@ EQUIVALENCIAS={
         "Cartoonito":["CARTOONITO"],
         "Nickelodeon":["NICKELODEON"],
         "Discovery Kids":["DISCOVERY KIDS"],
+        "Disney Channel":["DISNEY CHANNEL"],
+        "Tooncast":["TOONCAST"],
+        "Nick Jr":["NICK JR"],
+        "CARTOON NETWORK":["CARTOON NETWORK"],
+        "PLIM PLIM":["PLIM PLIM"],
     },
 "⚽EVENTOS FLOW ⚽":{
         "EVENTOS FLOW 1":["EVENTOS FLOW 1"],
