@@ -1,0 +1,49 @@
+name: EVENTOS → SUPABASE
+
+on:
+  push:
+    paths:
+      - "eventos.json"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  upload-eventos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Subir eventos.json a Supabase Storage
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          python << 'EOF'
+          import requests
+          import os
+
+          file_path = "eventos.json"
+
+          url = f"{os.environ['SUPABASE_URL']}/storage/v1/object/Novaplay/eventos.json"
+
+          headers = {
+              "Authorization": f"Bearer {os.environ['SUPABASE_SERVICE_ROLE_KEY']}",
+              "apikey": os.environ['SUPABASE_SERVICE_ROLE_KEY'],
+              "Content-Type": "application/json",
+              "x-upsert": "true"
+          }
+
+          with open(file_path, "rb") as f:
+              r = requests.post(url, headers=headers, data=f)
+
+          print("Código:", r.status_code)
+          print(r.text)
+
+          r.raise_for_status()
+
+          print("✔ eventos.json subido a Supabase correctamente")
+          EOF
