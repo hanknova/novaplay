@@ -116,6 +116,46 @@
         "Referer": "https://www.gen.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
       },
+            {
+        "name": "DSPORTS ARGENTINA SD - MUNDIAL",
+        "evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1SD",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+      {
+        "name": "DSPORTS ARGENTINA HD - MUNDIAL",
+        "evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+      {
+        "name": "DSPORTS COLOMBIA - MUNDIAL",
+        "evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+      {
+        "name": "DSPORTS 2 ARGENTINA - MUNDIAL",
+        "evento": "yes",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
+        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
+      },
+      {
+        "name": "DSPORTS PLUS - MUNDIAL",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
+        "evento": "yes",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
+        "icono": "https://i.ibb.co/QvQsMP14/image.png"
+      },
       {
         "name": "GEN PY - MUNDIAL",
         "evento": "yes",
@@ -181,46 +221,6 @@
         "Origin": "https://portal.app.flow.com.py",
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "DSPORTS ARGENTINA SD - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1SD",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DSPORTS ARGENTINA HD - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DSPORTS COLOMBIA - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DSPORTS 2 ARGENTINA - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
-        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },
-      {
-        "name": "DSPORTS PLUS - MUNDIAL",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
-        "evento": "yes",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
-        "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
         "name": "CANAL 5 - MUNDIAL",
