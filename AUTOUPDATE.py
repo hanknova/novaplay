@@ -51,6 +51,9 @@ EQUIVALENCIAS={
         "CARTOON NETWORK":["CARTOON NETWORK"],
         "PLIM PLIM":["PLIM PLIM"],
     },
+    "CULTURA Y COCINA 🐢":{
+        "HGTV":["HGTV"],
+    },
 "⚽EVENTOS FLOW ⚽":{
         "EVENTOS FLOW 1":["EVENTOS FLOW 1"],
         "EVENTOS FLOW 2":["EVENTOS FLOW 2"], 
