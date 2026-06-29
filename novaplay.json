@@ -359,8 +359,16 @@
         "Referer": "https://portal.app.flow.com.py/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
       },
-      {
+        {
         "name": "TELEFUTURO",
+        "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
+        "url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "url3": "http://138.59.227.20:8000/play/a0fh/index.m3u8",
+        "url4": "http://138.59.227.20:8000/play/a0ff/index.m3u8",
+        "icono": "https://i.ibb.co/4wMg7y8X/image.png"
+      },
+      {
+        "name": "TELEFUTURO - OPC 2",
         "url": "https://edge6-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyODQ2MTYwIiwic2lwIjoiNDUuMjI4LjY3LjI4IiwicGF0aCI6Ii9saXZlL2M3ZWRzL0ZveF9TcG9ydHNfUHJlbWl1bl9IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI1M2QyNThlMDg3YzJjZmUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMjE5Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.tPfNDV2MckVWdZFEGXWKb9fop767j6zz7rmNTHhpxQVuiYLc-3BtOSIOYr5NG1rCua2o1vm-qLyu5VimQCPgMg==/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png",
         "type": "CLEARKEY",
