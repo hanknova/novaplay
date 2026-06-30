@@ -1,5 +1,7 @@
 name: AUTOUPDATE
-
+run: |
+    nl -ba AUTOUPDATE.py | sed -n '1,30p'
+    
 on:
   schedule:
     - cron: "*/10 * * * *"
