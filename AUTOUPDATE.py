@@ -9,37 +9,6 @@ DEBUG=True
 CATEGORIAS_IGNORADAS={"PLUTO","PLUTO TV","PLUTOTV"}
 
 EQUIVALENCIAS={
-    "PARAGUAY🇵🇾":{
-        "GEN_TV":["GEN TV","GEN PY - MUNDIAL - OPC 2"],
-        "PARAVISION  ": ["PARAVISION"],
-        "RPC":["TRECE PY","TRECE PY - MUNDIAL - OPC 2"],
-        "UNICANAL":["UNICANAL PY","UNICANAL PY - MUNDIAL"],
-        "POPU TV": ["POPUTV PY", "POPUTV PY - MUNDIAL"],
-        "PY | SNT  ": ["SNT"],
-    "TELEFUTURO HD": ["TELEFUTURO - OPC 2"],
-    "C9N  ": ["C9N"],
-    "HEI NEW": ["HEI NOW"],
-    "MEGA TV  PY": ["MEGA TV PY"],
-    "SUR TV": ["SUR TV"],
-    "ABC TV": ["ABC TV"],
-    "NOTICIAS_PY  ": ["NPY"],
-    "A24 PY": ["A24 PY"],
-    "CANALPRO PY": ["CANAL PRO"],
-    "AMERICA PY": ["AMERICA PY"],
-    "LA TELE": ["LA TELE"],
-    },
-    "ARGENTINA🇦🇷":{
-        "TELEFE":["TELEFE","TELEFE - MUNDIAL - OPC 2"],
-        "TV PUBLICA":["TV PUBLICA","TV PUBLICA AR - MUNDIAL - OPC 2"],
-         "AMERICA TV ": ["AMERICA TV"],
-    "EL TRECE": ["EL TRECE"],
-    "CANAL 9 ": ["CANAL 9"],
-    "TN NOTICIAS": ["TN NOTICIAS"],
-    "C5N": ["C5N"],
-    "LN+ - LA NACION": ["LN+"],
-    "CRONICA TV": ["CRONICA"],
-    "A24": ["A24 ARGENTINA"],
-    "CANAL 26": ["CANAL 26"],
     },
     "INFANTILES 👦":{
         "Cartoonito":["CARTOONITO"],
@@ -73,10 +42,6 @@ EQUIVALENCIAS={
         "HBO Plus":["HBO+"],
         "HBO SIGNATURE":["HBO Signature"],
         "HBO XTREME":["HBO Xtreme"],
-    },
-"⚽EVENTOS FLOW ⚽":{
-        "EVENTOS FLOW 1":["EVENTOS FLOW 1"],
-        "EVENTOS FLOW 2":["EVENTOS FLOW 2"], 
     }
 }
 
