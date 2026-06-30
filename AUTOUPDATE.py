@@ -9,7 +9,6 @@ DEBUG=True
 CATEGORIAS_IGNORADAS={"PLUTO","PLUTO TV","PLUTOTV"}
 
 EQUIVALENCIAS={
-    },
     "INFANTILES 👦":{
         "Cartoonito":["CARTOONITO"],
         "Nickelodeon":["NICKELODEON"],
