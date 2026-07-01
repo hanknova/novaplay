@@ -3194,9 +3194,9 @@
         "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
       },
       {
-        "name": "PRUEBA",
+        "name": "PRUEBA2",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TELEMUNDOUSA"
       },
