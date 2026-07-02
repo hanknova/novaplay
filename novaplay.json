@@ -200,14 +200,16 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
         "icono": "https://i.ibb.co/N6KxyPdf/image.png"
       },
-      {
-        "name": "CAZETV - MUNDIAL",
-        "evento": "yes",
-        "icono": "https://i.ibb.co/xSyvqf0F/image.png",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+		 {
+        "name": "LA 1 - MUNDIAL",
+		"evento": "yes",	 
+        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "icono": "https://i.ibb.co/351xNJZf/image.png",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LA1ES"
       },
       {
-        "name": "CAZETV 1 - MUNDIAL",
+        "name": "CAZETV - MUNDIAL",
         "evento": "yes",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "icono": "https://i.ibb.co/zW3PRC9N/image.png",
@@ -1742,11 +1744,11 @@
     "items": [
       {
         "name": "LA 1",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
         "url2": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
         "icono": "https://i.ibb.co/351xNJZf/image.png",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net?keyid=fd86dde0ae3e14ff51c8fc8f248a50db&key=d106ae78b0893da2e4393ece99420baa"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LA1ES"
       },
       {
         "name": "VIVO LATINO",
