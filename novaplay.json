@@ -525,6 +525,11 @@
         "icono": "https://i.ibb.co/4wBDgN3C/image.png",
         "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
       },
+		{
+        "name": "CANAL 7 JUJUY",
+        "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+        "icono": "https://i.ibb.co/pj9N99Vn/image.png"
+      },
       {
         "name": "TELEFE",
         "url": "https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgyOTg0MjU1Iiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL0VTUE4yX1BZL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIzYjczOWJjNDZkMTY5Mjc2Iiwic2Vzc2lvbl9pZCI6IjYzYmU3ZTRhOWU5Y2FhMGYwMDY2YTFjM2NkYWE1YWYyLTE3ODI4MTE0NTUtNzI5IiwiY2xpZW50X2lkIjoiZmxvdzo2MDcyNzA3LS1mbG93OjYwNzI3MDc6UCIsImRldmljZV9pZCI6IjYzYmU3ZTRhOWU5Y2FhMGYwMDY2YTFjM2NkYWE1YWYyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiOTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.mi2L7lAXe6c1B9Ov7-YjBmEeWfnoG5MQQ7SDXcFefnSiszleUXyewqgWTqCd1BcPBzxbcDQEdOmv2Mty9Iaq-A==/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
