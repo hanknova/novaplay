@@ -3185,13 +3185,12 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "FOX SPORT 4K",
+        "name": "FOX SPORT TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTCHILE",
-        "Referer": "https://www.primevideo.com/",
-        "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
       },
       {
         "name": "PRUEBA2",
