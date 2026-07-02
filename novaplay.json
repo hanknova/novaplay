@@ -112,6 +112,14 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
+		  {
+        "name": "DSPORTS AQ HD - MUNDIAL",
+		"evento": "yes",	  
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png",
+        "url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTSAQ"
+      },
       {
         "name": "DSPORTS COLOMBIA - MUNDIAL",
         "evento": "yes",
@@ -3213,12 +3221,11 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "DSPORTS AQ TEST",
+        "name": "FOX SPORTS EUA TEST",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-        "url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NOVAPLAYTEST",
-		"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/NOVAPLAYTEST"
       },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
