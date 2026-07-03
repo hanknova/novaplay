@@ -230,7 +230,7 @@
       "icono": "https://i.ibb.co/8LD7vRkq/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=c0bef75733b2645452432bd4e76f36f5&key=ea16243367d814c1d53f1eaf21f005ff",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -240,7 +240,7 @@
       "icono": "https://i.ibb.co/Q74wSJNp/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/C9NPY_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -250,7 +250,7 @@
       "icono": "https://i.ibb.co/HTDjm7Pn/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/GENPY_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -260,7 +260,7 @@
       "icono": "https://i.ibb.co/SDwTc6gL/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=7c6a481adf6a080ec09637d3f25989cf&key=036e343d636b821ab81838de387b62cb",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/LATELEPY_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -270,7 +270,7 @@
       "icono": "https://i.ibb.co/N232M85k/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/POPUTV_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -280,7 +280,7 @@
       "icono": "https://i.ibb.co/SCdymVh/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/SNTPY_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -290,7 +290,7 @@
       "icono": "https://i.ibb.co/G4KnJjPY/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/UNICANALPY_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -300,7 +300,7 @@
       "icono": "https://i.ibb.co/4wMg7y8X/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=5d2731cf8a59b73438ef59d88cd882bf&key=3f412fa6368b7db4903588de695377e1",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TELEFUTURO_ONLYPERSONAL",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
@@ -310,7 +310,7 @@
       "icono": "https://i.ibb.co/GvmyhvNH/image.png",
       "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
       "type": "CLEARKEY",
-      "drm_license_uri": "https://mundodeportes.online/pandatv/flow/keys.php?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
+      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TRECEPY_ONLYPARAGUAY",
       "Origin": "https://portal.app.flow.com.py",
       "Referer": "https://portal.app.flow.com.py/",
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
