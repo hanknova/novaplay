@@ -12,6 +12,9 @@ PATRON = re.compile(
     r"https://cdndirector\.dailymotion\.com/cdn/live/video/([A-Za-z0-9]+)\.m3u8"
 )
 
+hubo_cambios = False
+
+
 def obtener_url(video_id):
     url = f"https://www.dailymotion.com/player/metadata/video/{video_id}"
 
@@ -20,10 +23,7 @@ def obtener_url(video_id):
 
     data = r.json()
 
-    if "qualities" not in data:
-        return None
-
-    auto = data["qualities"].get("auto")
+    auto = data.get("qualities", {}).get("auto")
 
     if not auto:
         return None
@@ -32,6 +32,7 @@ def obtener_url(video_id):
 
 
 def recorrer(obj):
+    global hubo_cambios
 
     if isinstance(obj, dict):
 
@@ -40,17 +41,19 @@ def recorrer(obj):
             m = PATRON.search(obj["url"])
 
             if m:
-
                 video_id = m.group(1)
 
-                print(f"Actualizando {obj.get('name','')} ({video_id})")
+                print(f"Verificando {obj.get('name','')} ({video_id})")
 
                 try:
                     nueva = obtener_url(video_id)
 
-                    if nueva:
+                    if nueva and nueva != obj["url"]:
                         obj["url"] = nueva
-                        print("OK")
+                        hubo_cambios = True
+                        print("Actualizado")
+                    else:
+                        print("Sin cambios")
 
                 except Exception as e:
                     print("ERROR:", e)
@@ -69,7 +72,11 @@ with open(JSON_FILE, encoding="utf8") as f:
 
 recorrer(data)
 
-with open(JSON_FILE, "w", encoding="utf8") as f:
-    json.dump(data, f, indent=2, ensure_ascii=False)
+if hubo_cambios:
+    with open(JSON_FILE, "w", encoding="utf8", newline="\n") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+        f.write("\n")
 
-print("Finalizado.")
+    print("Se guardaron cambios.")
+else:
+    print("No hubo cambios. No se modificó el archivo.")
