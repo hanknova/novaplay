@@ -225,96 +225,96 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "PARAGUAY - SOLO WIFI PERSONAL",
     "items": [
-  {
-      "name": "ABC PY",
-      "icono": "https://i.ibb.co/8LD7vRkq/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "C9N",
-      "icono": "https://i.ibb.co/Q74wSJNp/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/C9NPY_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "GEN TV",
-      "icono": "https://i.ibb.co/HTDjm7Pn/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/GENPY_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "LA TELE",
-      "icono": "https://i.ibb.co/SDwTc6gL/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/LATELEPY_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "POPU TV",
-      "icono": "https://i.ibb.co/N232M85k/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/POPUTV_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "SNT",
-      "icono": "https://i.ibb.co/SCdymVh/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/SNTPY_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "UNICANAL",
-      "icono": "https://i.ibb.co/G4KnJjPY/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/UNICANALPY_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "TELEFUTURO",
-      "icono": "https://i.ibb.co/4wMg7y8X/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TELEFUTURO_ONLYPERSONAL",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    },
-    {
-      "name": "TRECE PY",
-      "icono": "https://i.ibb.co/GvmyhvNH/image.png",
-      "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-      "type": "CLEARKEY",
-      "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TRECEPY_ONLYPARAGUAY",
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/",
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-    }
+      {
+        "name": "ABC PY",
+        "icono": "https://i.ibb.co/8LD7vRkq/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/ABCPY_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "C9N",
+        "icono": "https://i.ibb.co/Q74wSJNp/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/C9NPY_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "GEN TV",
+        "icono": "https://i.ibb.co/HTDjm7Pn/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/GENPY_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "LA TELE",
+        "icono": "https://i.ibb.co/SDwTc6gL/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/LATELEPY_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "POPU TV",
+        "icono": "https://i.ibb.co/N232M85k/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/POPUTV_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "SNT",
+        "icono": "https://i.ibb.co/SCdymVh/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/SNTPY_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "UNICANAL",
+        "icono": "https://i.ibb.co/G4KnJjPY/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/UNICANALPY_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TELEFUTURO",
+        "icono": "https://i.ibb.co/4wMg7y8X/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TELEFUTURO_ONLYPERSONAL",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TRECE PY",
+        "icono": "https://i.ibb.co/GvmyhvNH/image.png",
+        "url": "https://cdn-py.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://wxlhqitmigmkpfcsqyzt.supabase.co/functions/v1/TRECEPY_ONLYPARAGUAY",
+        "Origin": "https://portal.app.flow.com.py",
+        "Referer": "https://portal.app.flow.com.py/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+      }
     ]
   },
   {
@@ -3311,7 +3311,6 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
-      
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
