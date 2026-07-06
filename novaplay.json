@@ -2889,30 +2889,7 @@
         "nsfw": "yes",
         "icono": "https://i.ibb.co/PzQYG9qt/image.png"
       },
-      {
-        "name": "PLAYBOY +",
-        "url": "http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6242/index.m3u8",
-        "nsfw": "yes",
-        "icono": "https://i.ibb.co/PzQYG9qt/image.png"
-      },
-      {
-        "name": "SEXY HOT",
-        "url": "http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6282/index.m3u8",
-        "nsfw": "yes",
-        "icono": "https://i.ibb.co/rfN72c8Q/image.png"
-      },
-      {
-        "name": "DORCEL",
-        "url": "http://kulis2026.xyz:8080/can35cn/cankmsucan/231280",
-        "nsfw": "yes",
-        "icono": "https://i.ibb.co/tPHHjyBw/image.png"
-      },
-      {
-        "name": "BRAZZERS TV FHD",
-        "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/146367.m3u8",
-        "nsfw": "yes",
-        "icono": "https://i.ibb.co/rfpWNKYV/image.png"
-      },
+
       {
         "name": "AMAZING TV",
         "url": "http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85",
@@ -2950,12 +2927,6 @@
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png"
       },
       {
-        "name": "EROTIC 5",
-        "url": "http://2.magmas5.com:80/live/bBbd202512kkk/pp24bds0862vxqqh/7378.m3u8",
-        "nsfw": "yes",
-        "icono": "https://i.ibb.co/S7WcSgPM/Pink-Erotic-5.webp"
-      },
-      {
         "name": "VENUS",
         "url": "http://38.226.49.253:8000/play/a0eh/index.m3u8",
         "nsfw": "yes",
@@ -2974,6 +2945,15 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
+            {
+        "name": "DSPORTS TEST",
+        "evento": "yes",
+        "icono": "https://i.ibb.co/7JvShNds/image.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DJR",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
+      },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
