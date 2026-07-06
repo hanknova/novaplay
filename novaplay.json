@@ -1300,89 +1300,11 @@
         "url": "http://8.243.126.131:8000/play/a0gh/index.m3u8"
       },
       {
-        "name": "HBO Family",
-        "icono": "https://i.ibb.co/rfFN6vX3/image.png",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0FMILY",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "HBO Mundi",
-        "icono": "https://i.ibb.co/YTTmB24X/image.png",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0MUNDI",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "HBO+",
-        "icono": "https://i.ibb.co/6cjrF1RB/image.png",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0PLUS",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "HBO Signature",
-        "icono": "https://i.ibb.co/yBWnvrfR/image.png",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0SIGNTURE",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "HBO Xtreme",
-        "icono": "https://i.ibb.co/PvQcZPx4/image.png",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/HB0XTR",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "GOLDEN SD",
-        "icono": "https://i.ibb.co/XfBP95zm/image.png",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/GLDENSD",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      },
-      {
         "name": "EUROPA EUROPA",
         "icono": "https://i.ibb.co/Dg9cc46B/image.png",
-        "url": "https://edge-live16-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgzMDYxODAzIiwic2lwIjoiMTg2LjE1OC4yMDAuMTY1IiwicGF0aCI6Ii9saXZlL2M0ZWRzL1RFTEVGVVRVUk9fQzQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkyNTFiODNmYTg2NmQ4N2EiLCJzZXNzaW9uX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjItMTc4Mjg4OTAxMS04NzMiLCJjbGllbnRfaWQiOiJmbG93OjYwNzI3MDctLWZsb3c6NjA3MjcwNzpQIiwiZGV2aWNlX2lkIjoiNjNiZTdlNGE5ZTljYWEwZjAwNjZhMWMzY2RhYTVhZjIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDUiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.rv8gXXOuOMNEOTnLQOsVlCb31Zz7k0QYyw4ES75RycfhtJnfo9YhOVA8qKae84mKbA5jzQtrX7vM5y6Dc55Ajg==/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/EUROPA",
-        "Origin": "https://portal.app.flow.com.py",
-        "Referer": "https://portal.app.flow.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        "url": "http://190.7.19.197:232/play/a01o/index.m3u8"
       },
-      {
-        "name": "DE PELICULA SD",
-        "icono": "https://i.ibb.co/zhCH6ZWc/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DPELISD"
-      },
-      {
-        "name": "DE PELICULA HD",
-        "icono": "https://i.ibb.co/zhCH6ZWc/image.png",
-        "url": "https://zap-live1-ott.izzigo.tv/14/out/u/dash/DE-PELICULA-HD/default.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DPELIHD"
-      },
+     
       {
         "name": "AMC",
         "icono": "https://i.ibb.co/NgmzQS9P/image.png",
