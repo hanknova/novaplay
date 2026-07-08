@@ -441,7 +441,6 @@
         "name": "SURTV",
         "VLC": "true",
         "url": "http://24.152.42.29:8000/play/a01w/index.m3u8?hls",
-        "url2": "http://138.59.227.20:8000/play/a0e9/index.m3u8",
         "icono": "https://i.ibb.co/gMG7f9LH/image.png"
       },
       {
