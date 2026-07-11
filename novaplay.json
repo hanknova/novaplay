@@ -2956,6 +2956,11 @@
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
+       {
+        "name": "paravision test",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png",
+        "url": "http://138.59.227.20:8000/play/a0e4/index.m3u8"
+      },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
