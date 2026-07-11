@@ -2959,10 +2959,10 @@
        {
         "name": "testing channel",
         "evento": "yes",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+        "url": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+        "icono": "https://i.ibb.co/k6yZjwFz/image.png"
       },
       {
         "name": "ANTIRETORNO AL CARGAR CANALES",
