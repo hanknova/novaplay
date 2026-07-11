@@ -925,5 +925,5 @@ http://38.226.49.253:8000/play/a0e6/index.m3u8
 http://38.226.49.253:8000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/jZGvtfKJ/image.png",SEXTREME
 http://24.152.42.29:8000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/k6yZjwFz/image.png",testing channel
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
+#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",test channel
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ds6pjm8gzg/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
