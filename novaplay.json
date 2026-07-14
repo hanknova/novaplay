@@ -2980,8 +2980,8 @@
           "flow":"yes",
           "type": "CLEARKEY",
          "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-          "drm_license_uri": "kid:l6Rml9t1JMdtR96b7Vt_ig,k:igoI2kI_ymeXArRjKpDzMw",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+          "url": "https://edge04-cde-py.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MjI4NDQyIiwic2lwIjoiMTU0LjYxLjE3Mi4xMjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRVdUTi9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGY5MDExNzAzZWE0ZjI1ZSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJ1cmwiOiJodHRwczovLzE5MC4xMDQuMTgxLjE5OCIsInNvdXJjZXMiOlsyNCwzMCwzM119.qB8KkNW5dgkJhjDeMKOY5g5ORSm9PiOIPUmjflmdiiN9GqabWxvaQJT3KsI9e31QABKkE6lpMRgCHxY2eLem9w==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
           "headers": {
             "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
