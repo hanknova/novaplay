@@ -2962,19 +2962,17 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
-          "name": "CAMARA DT",
+        "name": "TESTING channel 2",
         "flow":"yes",
-          "type": "CLEARKEY",
-         "icono": "https://i.ibb.co/ymrjyWMP/image.png",
-          "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
-          "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
-          "headers": {
-            "Origin": "https://portal.app.flow.com.py",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
+         "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
-          }
-        },
-      {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
+      },
+     {
         "name": "ANTIRETORNO AL CARGAR CANALES",
         "info": "SOLO ES UN VIDEO EN BUCLE",
         "loop": "true",
