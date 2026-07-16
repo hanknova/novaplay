@@ -929,6 +929,8 @@ https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-live02-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0MzI1MDE4Iiwic2lwIjoiMTU0LjYxLjE3Mi4xMjkiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVmlhamFyL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNmViNTVmZTJlN2VmNGM2OCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNTUiLCJzb3VyY2VzIjpbMjEwLDg2XX0=.yBzuF2na-pUux80Wm1sdwmvmLQVD6zwWrX15j02PpBm0G4bfYEIU_-8flJrlQ2_4b2VJfhX7DEqBtDZ0Kj5nZQ==/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING channel 2
 https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
+#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING PY TVP
+https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING CDN TVP
 https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
 #EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING TVP
