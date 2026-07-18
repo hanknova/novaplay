@@ -15,6 +15,8 @@ https://nam.vssports.com.py/stable-proxy/chunklist.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS ARGENTINA HD - MUNDIAL
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS FLOW - MUNDIAL
+https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS AQ HD - MUNDIAL
 https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS - MUNDIAL
