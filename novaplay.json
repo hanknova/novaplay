@@ -2853,10 +2853,16 @@
         "nsfw": "yes",
         "icono": "https://i.ibb.co/mrjFxPz4/image.png"
       },
-      {
+     {
         "name": "SEXTREME",
-        "url": "http://24.152.42.29:8000/play/a0c2/index.m3u8",
+        "flow":"yes",
         "nsfw": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_SextremeAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/jZGvtfKJ/image.png"
       },
        {
