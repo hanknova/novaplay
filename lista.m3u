@@ -36,6 +36,8 @@ http://45.170.130.224:8000/play/a02m/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/k2M067nv/image.png",UNICANAL PY - MUNDIAL
 http://45.170.130.224:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/dJ4KL96F/image.png",TELEFE - MUNDIAL
+https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd
+#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/dJ4KL96F/image.png",TELEFE - MUNDIAL OPC 2
 http://190.7.19.197:232/play/a059/index.m3u8
 #EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/VWcZhDKv/image.png",TV PUBLICA - MUNDIAL
 https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
@@ -155,6 +157,10 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist.m3u8?admin=nacion
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/mCyTDjS6/image.png",NEXT
 http://138.59.227.20:8000/play/a0dp/index.m3u8
+#EXTINF:-1 group-title=" ARGENTINA" tvg-logo="https://i.ibb.co/VWcZhDKv/image.png",TV PUBLICA
+https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
+#EXTINF:-1 group-title=" ARGENTINA" tvg-logo="https://i.ibb.co/dJ4KL96F/image.png",TELEFE
+https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd
 #EXTINF:-1 group-title=" ARGENTINA" tvg-logo="https://i.ibb.co/G4KNLc5K/image.png",BAYRES TV
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w23453938.m3u8
 #EXTINF:-1 group-title=" ARGENTINA" tvg-logo="https://i.ibb.co/6JPqBf1d/image.png",24/7 NOTICIAS NEUQUEN
@@ -899,7 +905,7 @@ http://38.226.49.253:8000/play/a0e6/index.m3u8
 http://38.226.49.253:8000/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="NOVAX" tvg-logo="https://i.ibb.co/jZGvtfKJ/image.png",SEXTREME
 http://24.152.42.29:8000/play/a0c2/index.m3u8
-#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TESTING channel 2
-https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd
-#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",Prueba TELEFE
-https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd
+#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",TYC SPORTS FHD
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd
+#EXTINF:-1 group-title="SECCIÓN TEST - PARA PROBAR CANALES" tvg-logo="https://i.ibb.co/ymrjyWMP/image.png",GEN
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
