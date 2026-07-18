@@ -198,8 +198,20 @@
         "url": "http://45.170.130.224:8000/play/a03o/index.m3u8",
         "icono": "https://i.ibb.co/k2M067nv/image.png"
       },
-      {
+       {
         "name": "TELEFE - MUNDIAL",
+        "flow":"yes",
+         "evento": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefeAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/dJ4KL96F/image.png"
+      },
+      {
+        "name": "TELEFE - MUNDIAL OPC 2",
         "evento": "yes",
         "url": "http://190.7.19.197:232/play/a059/index.m3u8",
         "url2": "http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/telefe.playlist.m3u8",
@@ -618,6 +630,28 @@
     "image": "https://i.ibb.co/zbWxZ95/fs1.png",
     "title": " ARGENTINA",
     "items": [
+       {
+        "name": "TV PUBLICA",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TvPublicaAr",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/VWcZhDKv/image.png"
+      },
+      {
+        "name": "TELEFE",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefeAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/dJ4KL96F/image.png"
+      },
       {
         "name": "BAYRES TV",
         "icono": "https://i.ibb.co/G4KNLc5K/image.png",
@@ -2887,24 +2921,24 @@
     "title": "SECCIÓN TEST - PARA PROBAR CANALES",
     "items": [
       {
-        "name": "TESTING channel 2",
+        "name": "TYC SPORTS FHD",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest03",
-         "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
-        "name": "Prueba TELEFE",
+        "name": "GEN",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest04",
-         "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
