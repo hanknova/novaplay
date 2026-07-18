@@ -986,11 +986,6 @@
         "icono": "https://i.ibb.co/S4rgZsDN/image.png"
       },
       {
-        "name": "FOX ONE",
-        "url": "https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist.m3u8",
-        "icono": "https://i.ibb.co/gbW8vKBP/image.png"
-      },
-      {
         "name": "FOX SPORTS PREMIUM MX ",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
         "icono": "https://i.ibb.co/DgmL957s/image.png",
@@ -1091,68 +1086,11 @@
         "icono": "https://i.ibb.co/QvQsMP14/image.png"
       },
       {
-        "name": "LA LIGA HYPERMOTION 1",
+        "name": "LA LIGA HYPERMOTION",
         "url": "https://cache2.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
         "icono": "https://i.ibb.co/nqW6xhdv/image.png",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LIGAHYPERMOTION"
-      },
-      {
-        "name": "LA LIGA HYPERMOTION 2",
-        "url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-        "icono": "https://i.ibb.co/nqW6xhdv/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LIGAHYPERMOTION2"
-      },
-      {
-        "name": "SKY SPORTS",
-        "url": "https://zap-live4-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd",
-        "icono": "https://i.ibb.co/mVPGg0fg/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SKYSPORTS"
-      },
-      {
-        "name": "SKY SPORTS LA LIGA",
-        "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
-        "icono": "https://i.ibb.co/r2y0gQgc/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SKY"
-      },
-      {
-        "name": "SKY SPORTS LA LIGA - OPC 2",
-        "url": "http://181.78.109.48:9998/play/a06r/index.m3u8",
-        "icono": "https://i.ibb.co/r2y0gQgc/image.png"
-      },
-      {
-        "name": "SKY SPORTS F1",
-        "url": "https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd",
-        "icono": "https://i.ibb.co/DPJ86wBB/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SKYSPORTSF1"
-      },
-      {
-        "name": "SKY SPORTS - EVENTOS 1",
-        "url": "https://zap-live4-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd",
-        "icono": "https://i.ibb.co/gZFBT81R/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SKYSPORTSEVENTOS1"
-      },
-      {
-        "name": "SKY SPORTS - EVENTOS 2",
-        "url": "https://zap-live4-ott.izzigo.tv/12/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd",
-        "icono": "https://i.ibb.co/gZFBT81R/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/SKYSPORTSEVENTOS2"
-      },
-      {
-        "name": "TYC SPORTS FAN",
-        "icono": "https://i.ibb.co/fY9pYbP9/image.png",
-        "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
-      },
-      {
-        "name": "CLARO SPORTS",
-        "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
-        "icono": "https://play-lh.googleusercontent.com/11VeSxx3TiWMnadx9BnffUd9pKQA2rK8ZcrsY7lmX2MPvzrH712TMnFmbCc5aWZZcvs"
       },
       {
         "name": "MOVISTAR DEPORTES",
@@ -1170,12 +1108,6 @@
         "name": "WIN SPORTS+",
         "url": "http://rlatinop.com:8880/tHHM2TS8DDpG/2Q5f3A4HFHsR/167738",
         "icono": "https://i.ibb.co/MDvrb8HX/image.png"
-      },
-      {
-        "name": "FIFA+",
-        "info": "Spain",
-        "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
-        "icono": "https://i.ibb.co/6JtYzTKN/image.png"
       },
       {
         "name": "EUROSPORT 1",
@@ -2954,24 +2886,13 @@
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
       {
-        "name": "TESTING PY TVP",
+        "name": "Prueba DSPORTS 1 FLOW",
         "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest04",
          "Origin": "https://portal.app.flow.com.py",
             "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/ymrjyWMP/image.png"
-      },
-      {
-        "name": "TESTING CDN TVP",
-        "flow":"yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest04",
-         "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/ymrjyWMP/image.png"
       },
