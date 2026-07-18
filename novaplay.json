@@ -112,6 +112,18 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
       },
+       {
+        "name": "DSPORTS FLOW - MUNDIAL",
+        "flow":"yes",
+        "evento": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
       {
         "name": "DSPORTS AQ HD - MUNDIAL",
         "evento": "yes",
