@@ -321,24 +321,8 @@ https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/63
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/fdPJJTy4/image.png",PREMIERE  CLUBES
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/MDdgDD4k/image.png",PREMIERE 2
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/ZpZCzYfp/image.png",PREMIERE 3
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/zqwDqMS/image.png",PREMIERE 4
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/gZmzX2V8/image.png",PREMIERE 5
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/d4BVL0mK/image.png",PREMIERE 6
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/qLqZmPST/image.png",PREMIERE 7
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/zH62cwhM/image.png",PREMIERE 8
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash-sd/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/CpJbVghS/image.png",VIX TUDN
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/LhNxBJ9Z/image-1314.jpg",DAZN COMBAT
-https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/wrR0pC7B/image.png",Warner TV
 http://8.243.126.131:8000/play/a0gh/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.ibb.co/Dg9cc46B/image.png",EUROPA EUROPA
