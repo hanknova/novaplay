@@ -2847,10 +2847,17 @@
         "nsfw": "yes",
         "icono": "https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png"
       },
+     
       {
         "name": "VENUS",
-        "url": "http://38.226.49.253:8000/play/a0eh/index.m3u8",
+        "flow":"yes",
         "nsfw": "yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_VenusAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/mrjFxPz4/image.png"
       },
      {
