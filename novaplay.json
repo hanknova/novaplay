@@ -85,197 +85,6 @@
   },
   {
     "type": "category",
-    "title": "MUNDIAL",
-    "items": [
-      {
-        "name": "VS SPORTS PY - MUNDIAL",
-        "evento": "yes",
-        "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
-        "icono": "https://i.ibb.co/m5PgzmbT/image.png",
-        "Origin": "https://www.gen.com.py",
-        "Referer": "https://www.gen.com.py/",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "DSPORTS ARGENTINA SD - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1SD",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DSPORTS ARGENTINA HD - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-       {
-        "name": "DSPORTS FLOW - MUNDIAL",
-        "flow":"yes",
-        "evento": "yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsAr",
-         "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DSPORTS AQ HD - MUNDIAL",
-        "evento": "yes",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png",
-        "url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTSAQ"
-      },
-      {
-        "name": "DSPORTS - MUNDIAL",
-        "evento": "yes",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
-      },
-      {
-        "name": "DSPORTS COLOMBIA - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_COL",
-        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
-      },
-      {
-        "name": "DSPORTS 2 ARGENTINA - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT2",
-        "icono": "https://i.ibb.co/SDP0DhTv/image.png"
-      },
-      {
-        "name": "DSPORTS PLUS - MUNDIAL",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd",
-        "evento": "yes",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTPLUS",
-        "icono": "https://i.ibb.co/QvQsMP14/image.png"
-      },
-      {
-        "name": "FOX SPORTS EVENTOS USA",
-        "evento": "yes",
-        "info": "TV HD o 4K",
-        "icono": "https://i.ibb.co/WpM9YLJ4/image.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXSPORTSEVENTOS",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TSN SPORTS",
-        "evento": "yes",
-        "icono": "https://i.ibb.co/7JvShNds/image.png",
-        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TSNSPORTS",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "GEN",
-        "flow":"yes",
-        "evento": "yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest04",
-         "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
-      },
-      {
-        "name": "TRECE PY - MUNDIAL",
-        "info": "SOLO EVENTOS",
-        "evento": "yes",
-        "url": "http://45.170.130.224:8000/play/a02m/index.m3u8",
-        "icono": "https://i.ibb.co/GvmyhvNH/image.png"
-      },
-      {
-        "name": "UNICANAL PY - MUNDIAL",
-        "info": "SOLO EVENTOS",
-        "evento": "yes",
-        "url": "http://45.170.130.224:8000/play/a03o/index.m3u8",
-        "icono": "https://i.ibb.co/k2M067nv/image.png"
-      },
-       {
-        "name": "TELEFE - MUNDIAL",
-        "flow":"yes",
-         "evento": "yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefeAr",
-         "Origin": "https://portal.app.flow.com.py",
-            "Referer": "https://portal.app.flow.com.py/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/dJ4KL96F/image.png"
-      },
-      {
-        "name": "TELEFE - MUNDIAL OPC 2",
-        "evento": "yes",
-        "url": "http://190.7.19.197:232/play/a059/index.m3u8",
-        "url2": "http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/telefe.playlist.m3u8",
-        "icono": "https://i.ibb.co/dJ4KL96F/image.png"
-      },
-       {
-        "name": "TV PUBLICA - MUNDIAL",
-        "flow":"yes",
-        "evento": "yes",
-        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TvPublicaAr",
-         "Origin": "https://portal.app.flow.com.ar",
-            "Referer": "https://portal.app.flow.com.ar/",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-        "icono": "https://i.ibb.co/VWcZhDKv/image.png"
-      },
-      {
-        "name": "TV PUBLICA - MUNDIAL OPC 2",
-        "evento": "yes",
-        "icono": "https://i.ibb.co/VWcZhDKv/image.png",
-        "url": "http://138.59.227.20:8000/play/a095/index.m3u8",
-        "url2": "http://190.7.19.197:232/play/a03c/index.m3u8"
-      },
-      {
-        "name": "CANAL 5 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/canal5mx",
-        "icono": "https://i.ibb.co/N6KxyPdf/image.png"
-      },
-      {
-        "name": "LA 1 - MUNDIAL",
-        "evento": "yes",
-        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "icono": "https://i.ibb.co/351xNJZf/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/LA1ES"
-      },
-      {
-        "name": "CAZETV - MUNDIAL",
-        "evento": "yes",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-        "icono": "https://i.ibb.co/zW3PRC9N/image.png",
-        "type": "CLEARKEY",
-        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/CAZETV"
-      }
-    ]
-  },
-  {
-    "type": "category",
     "image": "https://i.ibb.co/5X20hxjL/KN-copia-4.png",
     "title": "PARAGUAY - SOLO WIFI PERSONAL",
     "items": [
@@ -383,19 +192,18 @@
       },
       {
         "name": "ROCK & POP PY",
-        "status":"false",
         "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_alta/playlist.m3u8",
         "url2": "https://rockandpop.b-cdn.net/480p.m3u8",
         "icono": "https://i.ibb.co/BK7rpy4p/image.png"
       },
       {
         "name": "TV MAX CNEL OVIEDO",
+        "status":"false",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "icono": "https://i.ibb.co/0VCmZngC/image.png"
       },
       {
         "name": "ALMAYA TV PILAR",
-        "status":"false",
         "url": "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8",
         "icono": "https://i.ibb.co/YFWNVfmM/image.png"
       },
@@ -434,9 +242,14 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
       },
       {
-        "name": "GEN PY",
-        "evento": "yes",
-        "url": "http://138.59.227.20:8000/play/a0fk/index.m3u8",
+        "name": "GEN",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/novatest04",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/HTDjm7Pn/image.png"
       },
       {
@@ -1051,6 +864,23 @@
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FSPORTSPREMIUMMX"
       },
       {
+        "name": "FOX SPORTS EVENTOS USA",
+        "info": "TV HD o 4K",
+        "icono": "https://i.ibb.co/WpM9YLJ4/image.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/FOXSPORTSEVENTOS",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TSN SPORTS",
+        "icono": "https://i.ibb.co/7JvShNds/image.png",
+        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/TSNSPORTS",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+      },
+      {
         "name": "BEIN SPORTS XTRA Ñ",
         "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
         "url2": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8",
@@ -1103,6 +933,32 @@
         "type": "CLEARKEY",
         "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORT1",
         "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+      {
+        "name": "DSPORTS OPC 2",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_DsportsAr",
+         "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png"
+      },
+      {
+        "name": "DSPORTS OPC 3",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png",
+        "url": "https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTSAQ"
+      },
+      {
+        "name": "DSPORTS OPC 4",
+        "icono": "https://i.ibb.co/9mmfQSPr/image.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/DSPORTS1_V2",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0"
       },
       {
         "name": "DSPORTS COLOMBIA",
@@ -1183,11 +1039,6 @@
       },
       {
         "name": "CAZETV",
-        "icono": "https://i.ibb.co/xSyvqf0F/image.png",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
-      },
-      {
-        "name": "CAZETV 1",
         "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "icono": "https://i.ibb.co/zW3PRC9N/image.png",
         "type": "CLEARKEY",
