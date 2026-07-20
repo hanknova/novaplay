@@ -9,48 +9,6 @@ https://sam-py-edge09.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffe
 http://138.59.227.20:8000/play/a0g9/index.m3u8
 #EXTINF:-1 group-title="NOVASPORTS EVENTOS" tvg-logo="https://i.ibb.co/dwfkcZ7J/image.webp",NOVASPORTS - EVENTOS 5
 https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/m5PgzmbT/image.png",VS SPORTS PY - MUNDIAL
-https://nam.vssports.com.py/stable-proxy/chunklist.m3u8
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS ARGENTINA SD - MUNDIAL
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS ARGENTINA HD - MUNDIAL
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS FLOW - MUNDIAL
-https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS AQ HD - MUNDIAL
-https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS - MUNDIAL
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS COLOMBIA - MUNDIAL
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/SDP0DhTv/image.png",DSPORTS 2 ARGENTINA - MUNDIAL
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/out/v1/d094dc6ba8354f3e88b7efa32f80cc33/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/QvQsMP14/image.png",DSPORTS PLUS - MUNDIAL
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/WpM9YLJ4/image.png",FOX SPORTS EVENTOS USA
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/7JvShNds/image.png",TSN SPORTS
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/HTDjm7Pn/image.png",GEN
-https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/GvmyhvNH/image.png",TRECE PY - MUNDIAL
-http://45.170.130.224:8000/play/a02m/index.m3u8
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/k2M067nv/image.png",UNICANAL PY - MUNDIAL
-http://45.170.130.224:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/dJ4KL96F/image.png",TELEFE - MUNDIAL
-https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/dJ4KL96F/image.png",TELEFE - MUNDIAL OPC 2
-http://190.7.19.197:232/play/a059/index.m3u8
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/VWcZhDKv/image.png",TV PUBLICA - MUNDIAL
-https://flow-cdn-gcp.app.flow.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/VWcZhDKv/image.png",TV PUBLICA - MUNDIAL OPC 2
-http://138.59.227.20:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/N6KxyPdf/image.png",CANAL 5 - MUNDIAL
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/351xNJZf/image.png",LA 1 - MUNDIAL
-https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
-#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://i.ibb.co/zW3PRC9N/image.png",CAZETV - MUNDIAL
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 #EXTINF:-1 group-title="PARAGUAY - SOLO WIFI PERSONAL" tvg-logo="https://i.ibb.co/8LD7vRkq/image.png",ABC PY
 https://cdn-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc/ABC_TV_C4.mpd
 #EXTINF:-1 group-title="PARAGUAY - SOLO WIFI PERSONAL" tvg-logo="https://i.ibb.co/Q74wSJNp/image.png",C9N
@@ -89,8 +47,8 @@ https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 https://rds3gen.desdeparaguay.net/satelitaltv/satelitaltv/chunklist.m3u8?admin=nacion
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/m5PgzmbT/image.png",VS SPORTS PY
 https://nam.vssports.com.py/stable-proxy/chunklist.m3u8
-#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/HTDjm7Pn/image.png",GEN PY
-http://138.59.227.20:8000/play/a0fk/index.m3u8
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/HTDjm7Pn/image.png",GEN
+https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/N232M85k/image.png",POPU TV
 http://190.108.83.69:8000/play/a070/index.m3u8
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://i.ibb.co/GvmyhvNH/image.png",TRECE PY
@@ -279,6 +237,10 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/DgmL957s/image.png",FOX SPORTS PREMIUM MX 
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/WpM9YLJ4/image.png",FOX SPORTS EVENTOS USA
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/7JvShNds/image.png",TSN SPORTS
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/DPj3hQc4/image.png",BEIN SPORTS XTRA Ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/21rG76g7/image.png",TUDN MX
@@ -293,6 +255,12 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS ARGENTINA HD
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS OPC 2
+https://flow-cdn-gcp.app.flow.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS OPC 3
+https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS OPC 4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS COLOMBIA
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/9mmfQSPr/image.png",DSPORTS PERU
@@ -313,9 +281,7 @@ http://38.226.49.253:8000/play/a0gf/index.m3u8
 https://cache07.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/8tcWVdP/image-639.jpg",EUROSPORT 2
 https://cache07.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/xSyvqf0F/image.png",CAZETV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/zW3PRC9N/image.png",CAZETV 1
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/zW3PRC9N/image.png",CAZETV
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/R4Jbm8z7/image.png",SPORTV 2
 https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
