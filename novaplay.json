@@ -6,6 +6,7 @@
       {
         "name": "NOVASPORTS - EVENTOS 1",
         "evento": "yes",
+         "tgosports":"yes",
         "status": "false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8568657576d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8568657576d0c6/rolling-buffer/APP_CHN4/APP_CHN4/transmux/index.mpd",
@@ -24,6 +25,7 @@
       {
         "name": "NOVASPORTS - EVENTOS 2",
         "evento": "yes",
+        "tgosports":"yes",
         "status": "false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8568657576d0c6/rolling-buffer/APP_CHN4/APP_CHN2/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69ffb8d0c6/rolling-buffer/APP_CHN2/APP_CHN2/transmux/index.mpd",
@@ -42,6 +44,7 @@
       {
         "name": "NOVASPORTS - EVENTOS 3",
         "evento": "yes",
+        "tgosports":"yes",
         "status": "false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb856785754fd0c6/rolling-buffer/APP_CHN3/APP_CHN3/transmux/index.mpd",
@@ -60,12 +63,14 @@
       {
         "name": "NOVASPORTS - EVENTOS",
         "evento": "yes",
+        "tgosports":"yes",
         "url": "http://138.59.227.20:8000/play/a0g9/index.m3u8",
         "icono": "https://i.ibb.co/dwfkcZ7J/image.webp"
       },
       {
         "name": "NOVASPORTS - EVENTOS 5",
         "evento": "yes",
+        "tgosports":"yes",
         "status": "false",
         "url": "https://sam-py-edge09.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "url2": "https://sam-py-edge08.tigo.com.py/ccur-session/69fdb8d0c6/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
