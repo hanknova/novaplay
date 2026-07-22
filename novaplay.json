@@ -249,7 +249,6 @@
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/m5PgzmbT/image.png"
       },
-     
       {
         "name": "GEN",
         "flow":"yes",
@@ -296,10 +295,17 @@
       },
       {
         "name": "TELEFUTURO",
-        "url": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
-        "url2": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
-        "url3": "http://138.59.227.20:8000/play/a0fh/index.m3u8",
-        "url4": "http://138.59.227.20:8000/play/a0ff/index.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
+        "url2": "https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_alta/index.m3u8?admin=tvaccion",
+        "url3": "https://rds3gen.desdeparaguay.net/telefuturo/telefuturo_alta/index.m3u8?admin=tvaccion",
+        "url4": "http://138.59.227.20:8000/play/a0fh/index.m3u8",
+        "url5": "http://138.59.227.20:8000/play/a0ff/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/4wMg7y8X/image.png"
       },
       {
@@ -314,9 +320,14 @@
       },
       {
         "name": "PARAVISION",
-        "VLC": "true",
-        "url": "http://24.152.42.29:8000/play/a01s/index.m3u8?hls",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "url2": "http://138.59.227.20:8000/play/a0e4/index.m3u8",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_Paravision",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
         "icono": "https://i.ibb.co/qLwhBZMS/image.png"
       },
        {
@@ -658,11 +669,6 @@
         "name": "MEGA HD",
         "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
         "icono": "https://i.ibb.co/Q3JPqXKZ/image.png"
-      },
-      {
-        "name": "America TV CL",
-        "url": "https://v2.tustreaming.cl/radioamericatv/index.m3u8",
-        "icono": "http://i.ibb.co/6cPft7tq/image.png"
       }
     ]
   },
