@@ -448,8 +448,7 @@
       {
         "name": "TV CAMARA",
         "VLC": "true",
-        "url": "http://24.152.42.29:8000/play/a02a/index.m3u8?hls",
-        "url2": "http://181.79.87.130:8000/play/a0bq/index.m3u8",
+        "url": "http://181.79.87.130:8000/play/a0bq/index.m3u8",
         "icono": "https://i.ibb.co/Rk8pT1Wx/image.png"
       },
       {
@@ -460,9 +459,15 @@
       },
       {
         "name": "ÑANDUTI TV",
-        "url": "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+        "flow":"yes",
+        "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/Nanduti_Py/SA_Live_dash_enc/Nanduti_Py.mpd",
         "url2": "https://nanduti.b-cdn.net/480p.m3u8",
-        "icono": "https://i.ibb.co/qMTf7sNt/image.png"
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_-ANDUTIPY",
+         "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+                "icono": "https://i.ibb.co/qMTf7sNt/image.png"
       },
       {
         "name": "RB TV-RADIO",
